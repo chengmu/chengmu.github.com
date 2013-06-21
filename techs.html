@@ -4,21 +4,25 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-	<!-- Standard Meta -->
+    <!-- Standard Meta -->
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<meta name="viewport" content="width=device-width" />
-
 	<!-- Site Properities -->
 	<title>Techs | Chengmu1893</title>
 	<meta name="description" content="When your website appears in search results in say Google, the text here will be shown underneath your website's title." />
 	<meta name="keywords" content="place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website" />
+	<!--[if lte IE 8]>
+	<script type="text/javascript"> 
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	</script> 
+	<![endif]--> 
 
 	<!-- DocPad Meta -->
 	<meta http-equiv="X-Powered-By" content="DocPad v6.38.1"/>
-
+	
 	<!-- DocPad Styles + Our Own -->
-	<link  rel="stylesheet" href="/vendor/normalize.css" /><link  rel="stylesheet" href="/vendor/h5bp.css" /><link  rel="stylesheet" href="/styles/style.css" />
+	<link  rel="stylesheet" href="/styles/style.css" /><link  rel="stylesheet" href="/styles/highlight.css" /><link  rel="stylesheet" href="/styles/postformation.css" />
 
 	<!-- Icons -->
 	<!-- Favicon -->
@@ -30,11 +34,15 @@
 	<!-- For iPhone with high-resolution Retina display: -->
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="icons/apple-touch-icon-114x114-precomposed.png" />
 	<!-- For third-generation iPad with high-resolution Retina display: -->
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="icons/apple-touch-icon-144x144-precomposed.png" /></head>
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="icons/apple-touch-icon-144x144-precomposed.png" />
+</head>
 <body>
-<header>
+    <!--[if lt IE 7]>
+    <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+<![endif]-->
+<header class="header">
 	<h1><a href="http://chengmu.github.com">Chengmu1893</a></h1>
-	<aside class="main-menu">
+	<aside class="aside main-menu">
 		
 	            <a class="inactive" href="/about.html">
 	                About Me
@@ -58,26 +66,44 @@
 	    
 	</aside>
 </header>
-<article>
-		<aside>
-		<p>这里是我的技术相关记录</p>
+    <article class="article article-total-list ">
+        <aside>
+        <p>这里是我的技术相关记录</p>
 
-			
-		</aside>
-		<ul>
-				
-				<li  class="type-techs">
-		            <span>[]</span>
-		            <span>[]</span>
-					<a href="/techs/w3notes.html">
-				                w3新人记录
-		            </a>
-		            <span class="article-date">6-13-2013</span>
-				</li>
-			    
-			</ul>
-</article>
-<footer id="footer">
+        </aside>
+        <ul>
+            
+            <li  class="type-techs">
+                <a href="/techs/markdownCheetSheet.html">
+                        Markdown Reference &amp; Shwocase
+                </a>
+                <span class="article-date">6-17-2013</span>
+            </li>
+            
+            <li  class="type-techs">
+                <a href="/techs/sublimeText2notes.html">
+                        Sublime Text 2 配置&amp;使用备忘
+                </a>
+                <span class="article-date">6-17-2013</span>
+            </li>
+            
+            <li  class="type-techs">
+                <a href="/techs/docpad_notes.html">
+                        docpad建站记录
+                </a>
+                <span class="article-date">6-17-2013</span>
+            </li>
+            
+            <li  class="type-techs">
+                <a href="/techs/w3notes.html">
+                        w3新人记录
+                </a>
+                <span class="article-date">6-13-2013</span>
+            </li>
+            
+        </ul>
+    </article>
+    <footer class="footer">
 	<span class="logo">Chengmu1893.</span> • 
 	Created &amp; Maintained by <a href="./">Chengmu</a> using <a href="http://docpad.org">DocPad</a> • 
 	<a href="mailto:lin.zhu.ak@gmail.com">Email Chengmu</a> • 

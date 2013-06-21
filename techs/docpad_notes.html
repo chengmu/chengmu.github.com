@@ -9,7 +9,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<meta name="viewport" content="width=device-width" />
 	<!-- Site Properities -->
-	<title>fisrt post! | Chengmu1893</title>
+	<title>docpad建站记录 | Chengmu1893</title>
 	<meta name="description" content="When your website appears in search results in say Google, the text here will be shown underneath your website's title." />
 	<meta name="keywords" content="place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website" />
 	<!--[if lte IE 8]>
@@ -68,18 +68,39 @@
 </header>
     <article class="article-content">
         <header class="hd">
-            <h1>fisrt post!</h1>
-            <span class="catalogue">posts</span>
-            <span class="post-date">Sat Jun 08 2013</span>
+            <h1>docpad建站记录</h1>
+            <span class="catalogue">techs</span>
+            <span class="post-date">Mon Jun 17 2013</span>
         </header>
         <section>
-            <h2>Try Try Try</h2>
-<p>If we just try try try</p>
-<p>Just to be ni-ni-nice</p>
-<p>Then the world would be a better place for you and I</p>
-<p>If we just live our lives</p>
-<p>Putting our differences aside</p>
-<p>Oh that would be so beautiful to me</p>
+            <h2>代码高亮</h2>
+<p><a href="https://github.com/docpad/docpad-plugin-highlightjs" title="高亮插件">高亮plugin on github</a></p>
+<p>选了个github主题配色~</p>
+<h2>添加RSS订阅</h2>
+<p><a href="https://github.com/docpad/twitter-bootstrap.docpad/blob/master/src/documents/atom.xml.eco">docpad rss feed 在github上的模版</a></p>
+<pre class="highlighted"><code class="xml">
+    <span class="pi">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
+    <span class="tag">&lt;<span class="title">feed</span> <span class="attribute">xmlns</span>=<span class="value">"http://www.w3.org/2005/Atom"</span>&gt;</span>
+        <span class="tag">&lt;<span class="title">title</span>&gt;</span><span class="vbscript">&lt;%= @site.title %&gt;</span><span class="tag">&lt;/<span class="title">title</span>&gt;</span>
+        <span class="tag">&lt;<span class="title">link</span> <span class="attribute">href</span>=<span class="value">"&lt;%= @site.url %&gt;/atom.xml"</span> <span class="attribute">rel</span>=<span class="value">"self"</span>/&gt;</span>
+        <span class="tag">&lt;<span class="title">link</span> <span class="attribute">href</span>=<span class="value">"&lt;%= @site.url %&gt;"</span>/&gt;</span>
+        <span class="tag">&lt;<span class="title">updated</span>&gt;</span><span class="vbscript">&lt;%= @site.<span class="built_in">date</span>.toISOString() %&gt;</span><span class="tag">&lt;/<span class="title">updated</span>&gt;</span>
+        <span class="tag">&lt;<span class="title">id</span>&gt;</span><span class="vbscript">&lt;%= @site.url %&gt;</span><span class="tag">&lt;/<span class="title">id</span>&gt;</span>
+        <span class="tag">&lt;<span class="title">author</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">name</span>&gt;</span><span class="vbscript">&lt;%= @site.author %&gt;</span><span class="tag">&lt;/<span class="title">name</span>&gt;</span>
+            <span class="tag">&lt;<span class="title">email</span>&gt;</span><span class="vbscript">&lt;%= @site.email %&gt;</span><span class="tag">&lt;/<span class="title">email</span>&gt;</span>
+        <span class="tag">&lt;/<span class="title">author</span>&gt;</span>
+
+        <span class="vbscript">&lt;% <span class="keyword">for</span> document <span class="keyword">in</span> @getCollection(<span class="comment">'posts').toJSON(): %&gt;</span></span>
+            <span class="tag">&lt;<span class="title">entry</span>&gt;</span>
+                <span class="tag">&lt;<span class="title">title</span>&gt;</span><span class="vbscript">&lt;%= document.title %&gt;</span><span class="tag">&lt;/<span class="title">title</span>&gt;</span>
+                <span class="tag">&lt;<span class="title">link</span> <span class="attribute">href</span>=<span class="value">"&lt;%= @site.url+'/'+document.url %&gt;"</span>/&gt;</span>
+                <span class="tag">&lt;<span class="title">updated</span>&gt;</span><span class="vbscript">&lt;%= document.<span class="built_in">date</span>.toISOString() %&gt;</span><span class="tag">&lt;/<span class="title">updated</span>&gt;</span>
+                <span class="tag">&lt;<span class="title">id</span>&gt;</span><span class="vbscript">&lt;%= @site.url+<span class="comment">'/'+document.url %&gt;</span></span><span class="tag">&lt;/<span class="title">id</span>&gt;</span>
+                <span class="tag">&lt;<span class="title">content</span> <span class="attribute">type</span>=<span class="value">"html"</span>&gt;</span><span class="vbscript">&lt;%= document.contentRendered %&gt;</span><span class="tag">&lt;/<span class="title">content</span>&gt;</span>
+            <span class="tag">&lt;/<span class="title">entry</span>&gt;</span>
+        <span class="vbscript">&lt;% <span class="keyword">end</span> %&gt;</span>
+    <span class="tag">&lt;/<span class="title">feed</span>&gt;</span></code></pre>
 
         </section>
     </article>
