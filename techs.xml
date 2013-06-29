@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Chengmu1893</title>
+	<link href="http://localhost:9778//atom.xml" rel="self"/>
+	<link href="http://localhost:9778/"/>
+	<updated>2013-06-29T17:00:08.748Z</updated>
+	<id>http://localhost:9778/</id>
+	<author>
+		<name></name>
+		<email></email>
+	</author>
+
+	
+		<entry>
+			<title>Markdown Reference &amp; Shwocase</title>
+			<link href="http://localhost:9778///techs/markdownCheetSheet.html"/>
+			<updated>2013-06-29T16:44:21.000Z</updated>
+			<id>http://localhost:9778///techs/markdownCheetSheet.html</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot;&gt; &lt;!--&lt;![endif]--&gt;
+&lt;head&gt;
+    &lt;!-- Standard Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+	&lt;!-- Site Properities --&gt;
+	&lt;title&gt;Markdown Reference &amp;amp; Shwocase | Chengmu1893&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;!--[if lte IE 8]&gt;
+	&lt;script type=&quot;text/javascript&quot;&gt; 
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	&lt;/script&gt; 
+	&lt;![endif]--&gt; 
+
+	&lt;!-- DocPad Meta --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.43.1&quot;/&gt;
+	
+	&lt;!-- DocPad Styles + Our Own --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;!-- Favicon --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
+	&lt;!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57x57-precomposed.png&quot; /&gt;
+	&lt;!-- For first- and second-generation iPad: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72x72-precomposed.png&quot; /&gt;
+	&lt;!-- For iPhone with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114x114-precomposed.png&quot; /&gt;
+	&lt;!-- For third-generation iPad with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144x144-precomposed.png&quot; /&gt;
+&lt;/head&gt;
+&lt;body class=&quot;colume-layout&quot;&gt;
+    &lt;!--[if lt IE 7]&gt;
+    &lt;p class=&quot;chromeframe&quot;&gt;You are using an outdated browser. &lt;a href=&quot;http://browsehappy.com/&quot;&gt;Upgrade your browser today&lt;/a&gt; or &lt;a href=&quot;http://www.google.com/chromeframe/?redirect=true&quot;&gt;install Google Chrome Frame&lt;/a&gt; to better experience this site.&lt;/p&gt;
+&lt;![endif]--&gt;
+&lt;header class=&quot;header&quot;&gt;
+	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
+    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
+	&lt;/div&gt;
+	&lt;aside class=&quot;aside main-menu&quot;&gt;
+		&lt;ul&gt;
+			
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
+		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
+		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
+		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;active&quot; href=&quot;/techs.html&quot;&gt;
+		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/trans.html&quot;&gt;
+		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+		&lt;/ul&gt;
+	&lt;/aside&gt;
+	
+&lt;/header&gt;
+    &lt;article class=&quot;article-content&quot;&gt;
+        &lt;div class=&quot;article-nav&quot;&gt;
+            
+                
+                    
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../.html&quot;&gt;Back To techs&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    
+                         &lt;a href=&quot;/techs/docpad_notes.html&quot; class=&quot;next&quot;&gt;
+                            docpad建站记录 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;/a&gt;
+                    
+
+                
+            
+                
+            
+                
+            
+                
+            
+                
+        &lt;/div&gt;
+        &lt;header class=&quot;hd&quot;&gt;
+            &lt;h1&gt;Markdown Reference &amp;amp; Shwocase&lt;/h1&gt;
+            &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sun Jun 30 2013&lt;/span&gt;
+        &lt;/header&gt;
+        &lt;section&gt;
+            &lt;h4&gt;Table of Contents&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;#headers&quot;&gt;Headers&lt;/a&gt;  &lt;a href=&quot;#emphasis&quot;&gt;Emphasis&lt;/a&gt;  &lt;a href=&quot;#lists&quot;&gt;Lists&lt;/a&gt; &lt;a href=&quot;#links&quot;&gt;Links&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#images&quot;&gt;Images&lt;/a&gt;  &lt;a href=&quot;#code&quot;&gt;Code and Syntax Highlighting&lt;/a&gt;  &lt;a href=&quot;#tables&quot;&gt;Tables&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#blockquotes&quot;&gt;Blockquotes&lt;/a&gt;  &lt;a href=&quot;#html&quot;&gt;Inline HTML&lt;/a&gt;  &lt;a href=&quot;#hr&quot;&gt;Horizontal Rule&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;#lines&quot;&gt;Line Breaks&lt;/a&gt;  &lt;a href=&quot;#videos&quot;&gt;Youtube videos&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;摘自&lt;a href=&quot;http://github.github.com/github-flavored-markdown/&quot;&gt;Github-flavored Markdown info page&lt;/a&gt;.
+&lt;a href=&quot;http://www.markdown-here.com/livedemo.html&quot;&gt;live demo page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;headers&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Headers&lt;/h2&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt;# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
+------&lt;/code&gt;&lt;/pre&gt;
+&lt;h1&gt;H1&lt;/h1&gt;
+&lt;h2&gt;H2&lt;/h2&gt;
+&lt;h3&gt;H3&lt;/h3&gt;
+&lt;h4&gt;H4&lt;/h4&gt;
+&lt;h5&gt;H5&lt;/h5&gt;
+&lt;h6&gt;H6&lt;/h6&gt;
+&lt;h1&gt;Alt-H1&lt;/h1&gt;
+&lt;h2&gt;Alt-H2&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&quot;emphasis&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Emphasis&lt;/h2&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt;Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Emphasis, aka italics, with &lt;em&gt;asterisks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Strong emphasis, aka bold, with &lt;strong&gt;asterisks&lt;/strong&gt; or &lt;strong&gt;underscores&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Combined emphasis with &lt;strong&gt;asterisks and &lt;em&gt;underscores&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Strikethrough uses two tildes. &lt;del&gt;Scratch this.&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;lists&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Lists&lt;/h2&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt;1. First ordered list item
+2. Another item
+  * Unordered sub-list. 
+1. Actual numbers don&amp;#39;t matter, just that it&amp;#39;s a number
+  1. Ordered sub-list
+4. And another item.  
+
+   Some text that should be aligned with the above item.
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses&lt;/code&gt;&lt;/pre&gt;
+&lt;ol&gt;
+&lt;li&gt;First ordered list item&lt;/li&gt;
+&lt;li&gt;Another item&lt;ul&gt;
+&lt;li&gt;Unordered sub-list. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Actual numbers don&amp;#39;t matter, just that it&amp;#39;s a number&lt;ol&gt;
+&lt;li&gt;Ordered sub-list&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;And another item.  &lt;/p&gt;
+&lt;p&gt;Some text that should be aligned with the above item.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Unordered list can use asterisks&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;Or minuses&lt;/li&gt;
+&lt;li&gt;Or pluses&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a name=&quot;links&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Links&lt;/h2&gt;
+&lt;p&gt;There are two ways to create links.&lt;/p&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt;[I&amp;#39;m an inline-style link](https://www.google.com)
+
+[I&amp;#39;m a reference-style link][Arbitrary case-insensitive reference text]
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself][]
+
+Some text to show that the reference links can follow later.
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.google.com&quot;&gt;I&amp;#39;m an inline-style link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.mozilla.org&quot;&gt;I&amp;#39;m a reference-style link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://slashdot.org&quot;&gt;You can use numbers for reference-style link definitions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Or leave it empty and use the &lt;a href=&quot;http://www.reddit.com&quot;&gt;link text itself&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Some text to show that the reference links can follow later.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;images&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Images&lt;/h2&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt;Here&amp;#39;s our logo (hover to see the title text):
+
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &amp;quot;Logo Title Text 1&amp;quot;)
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png &amp;quot;Logo Title Text 2&amp;quot;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here&amp;#39;s our logo (hover to see the title text):&lt;/p&gt;
+&lt;p&gt;Inline-style: 
+&lt;img src=&quot;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Reference-style: 
+&lt;img src=&quot;https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png&quot; alt=&quot;alt text&quot; title=&quot;Logo Title Text 2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;code&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Code and Syntax Highlighting&lt;/h2&gt;
+&lt;p&gt;Code blocks are part of the Markdown spec, but syntax highlighting isn&amp;#39;t. However, many renderers -- like Github&amp;#39;s and &lt;em&gt;Markdown Here&lt;/em&gt; -- support syntax highlighting. &lt;em&gt;Markdown Here&lt;/em&gt; supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the &lt;a href=&quot;http://softwaremaniacs.org/media/soft/highlight/test.html&quot;&gt;highlight.js demo page&lt;/a&gt;.&lt;/p&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt;Inline `code` has `back-ticks around` it.&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Inline &lt;code&gt;code&lt;/code&gt; has &lt;code&gt;back-ticks around&lt;/code&gt; it.&lt;/p&gt;
+&lt;p&gt;Blocks of code are either fenced by lines with three back-ticks &lt;code&gt;```&lt;/code&gt;, or are indented with four spaces. I recommend only using the fenced code blocks -- they&amp;#39;re easier and only they support syntax highlighting.&lt;/p&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt; ```javascript
+ var s = &amp;quot;JavaScript syntax highlighting&amp;quot;;
+ alert(s);&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;python&quot;&gt; s = &lt;span class=&quot;string&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
+ &lt;span class=&quot;keyword&quot;&gt;print&lt;/span&gt; s&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;xml&quot;&gt; No language indicated, so no syntax highlighting. 
+ But let's throw in a &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;b&lt;/span&gt;&amp;gt;&lt;/span&gt;tag&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;b&lt;/span&gt;&amp;gt;&lt;/span&gt;.&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;erlang&quot;&gt;
+```javascript
+var s = &lt;span class=&quot;string&quot;&gt;&quot;JavaScript syntax highlighting&quot;&lt;/span&gt;;
+&lt;span class=&quot;function&quot;&gt;&lt;span class=&quot;title&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;params&quot;&gt;(s)&lt;/span&gt;;&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;python&quot;&gt;s = &lt;span class=&quot;string&quot;&gt;&quot;Python syntax highlighting&quot;&lt;/span&gt;
+&lt;span class=&quot;keyword&quot;&gt;print&lt;/span&gt; s&lt;/code&gt;&lt;/pre&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;xml&quot;&gt;No language indicated, so no syntax highlighting in Markdown Here (varies on Github). 
+But let's throw in a &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;b&lt;/span&gt;&amp;gt;&lt;/span&gt;tag&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;b&lt;/span&gt;&amp;gt;&lt;/span&gt;.&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;(Github Wiki pages don&amp;#39;t seem to support syntax highlighting, so the above won&amp;#39;t be colourful (the strings are not red, for example). Try it out in a &lt;em&gt;Markdown Here&lt;/em&gt; email or a Github Markdown README or Github Issue -- you can preview a new Issue without submitting it.)&lt;/p&gt;
+&lt;p&gt;Again, to see what languages are available for highlighting, and how to write those language names, see the &lt;a href=&quot;http://softwaremaniacs.org/media/soft/highlight/test.html&quot;&gt;highlight.js demo page&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;tables&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Tables&lt;/h2&gt;
+&lt;p&gt;Tables aren&amp;#39;t part of the core Markdown spec, but they are part of GFM and &lt;em&gt;Markdown Here&lt;/em&gt; supports them. They are an easy way of adding tables to your email -- a task that would otherwise require copy-pasting from another application.&lt;/p&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt;Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+The outer pipes (|) are optional, and you don&amp;#39;t need to make the raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Colons can be used to align columns.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Tables&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;Are&lt;/th&gt;
+&lt;th align=&quot;right&quot;&gt;Cool&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;col 3 is&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;right-aligned&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;$1600&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;col 2 is&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;centered&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;$12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;zebra stripes&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;are neat&lt;/td&gt;
+&lt;td align=&quot;right&quot;&gt;$1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;The outer pipes (|) are optional, and you don&amp;#39;t need to make the raw Markdown line up prettily. You can also use inline Markdown.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Markdown&lt;/th&gt;
+&lt;th&gt;Less&lt;/th&gt;
+&lt;th&gt;Pretty&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;Still&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;renders&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;nicely&lt;/strong&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;a name=&quot;blockquotes&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Blockquotes&lt;/h2&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt;&amp;gt; Blockquotes are very handy in email to emulate reply text.
+&amp;gt; This line is part of the same quote.
+
+Quote break.
+
+&amp;gt; This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;#39;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+
+试试多层引用？
+&amp;gt;这是第一层
+&amp;gt;&amp;gt;然后还引用了别的东西哦！&lt;/code&gt;&lt;/pre&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Blockquotes are very handy in email to emulate reply text.
+This line is part of the same quote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Quote break.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a very long line that will still be quoted properly when it wraps. Oh boy let&amp;#39;s keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can &lt;em&gt;put&lt;/em&gt; &lt;strong&gt;Markdown&lt;/strong&gt; into a blockquote. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;试试多层引用？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;这是第一层&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;然后还引用了别的东西哦！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a name=&quot;html&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Inline HTML&lt;/h2&gt;
+&lt;p&gt;You can also use raw HTML in your Markdown, and it&amp;#39;ll mostly work pretty well. &lt;/p&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt;&amp;lt;dl&amp;gt;
+  &amp;lt;dt&amp;gt;Definition list&amp;lt;/dt&amp;gt;
+  &amp;lt;dd&amp;gt;Is something people use sometimes.&amp;lt;/dd&amp;gt;
+
+  &amp;lt;dt&amp;gt;Markdown in HTML&amp;lt;/dt&amp;gt;
+  &amp;lt;dd&amp;gt;Does *not* work **very** well. Use HTML &amp;lt;em&amp;gt;tags&amp;lt;/em&amp;gt;.&amp;lt;/dd&amp;gt;
+&amp;lt;/dl&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;dl&gt;
+  &lt;dt&gt;Definition list&lt;/dt&gt;
+  &lt;dd&gt;Is something people use sometimes.&lt;/dd&gt;
+
+  &lt;dt&gt;Markdown in HTML&lt;/dt&gt;
+  &lt;dd&gt;Does &lt;em&gt;not&lt;/em&gt; work &lt;strong&gt;very&lt;/strong&gt; well. Use HTML &lt;em&gt;tags&lt;/em&gt;.&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;&lt;a name=&quot;hr&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Horizontal Rule&lt;/h2&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;brainfuck&quot;&gt;&lt;span class=&quot;comment&quot;&gt;Three&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;or&lt;/span&gt; &lt;span class=&quot;comment&quot;&gt;more&lt;/span&gt;.&lt;span class=&quot;string&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;string&quot;&gt;.&lt;/span&gt;
+
+&lt;span class=&quot;literal&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;literal&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;literal&quot;&gt;-&lt;/span&gt;
+
+&lt;span class=&quot;comment&quot;&gt;Hyphens&lt;/span&gt;
+
+&lt;span class=&quot;comment&quot;&gt;***&lt;/span&gt;
+
+&lt;span class=&quot;comment&quot;&gt;Asterisks&lt;/span&gt;
+
+&lt;span class=&quot;comment&quot;&gt;___&lt;/span&gt;
+
+&lt;span class=&quot;comment&quot;&gt;Underscores&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Three or more...&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Hyphens&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Asterisks&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Underscores&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;lines&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Line Breaks&lt;/h2&gt;
+&lt;p&gt;My basic recommendation for learning how line breaks work is to experiment and discover -- hit &amp;lt;Enter&amp;gt; once (i.e., insert one newline), then hit it twice (i.e., insert two newlines), see what happens. You&amp;#39;ll soon learn to get what you want. &amp;quot;Markdown Toggle&amp;quot; is your friend. &lt;/p&gt;
+&lt;p&gt;Here are some things to try out:&lt;/p&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;applescript&quot;&gt;Here's a line &lt;span class=&quot;keyword&quot;&gt;for&lt;/span&gt; us &lt;span class=&quot;keyword&quot;&gt;to&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;start with&lt;/span&gt;.
+
+This line &lt;span class=&quot;keyword&quot;&gt;is&lt;/span&gt; separated &lt;span class=&quot;keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;the&lt;/span&gt; one &lt;span class=&quot;keyword&quot;&gt;above&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;by&lt;/span&gt; two newlines, so &lt;span class=&quot;keyword&quot;&gt;it&lt;/span&gt; will be a *separate &lt;span class=&quot;property&quot;&gt;paragraph&lt;/span&gt;*.
+
+This line &lt;span class=&quot;keyword&quot;&gt;is&lt;/span&gt; also a separate &lt;span class=&quot;property&quot;&gt;paragraph&lt;/span&gt;, &lt;span class=&quot;keyword&quot;&gt;but&lt;/span&gt;...
+This line &lt;span class=&quot;keyword&quot;&gt;is&lt;/span&gt; only separated &lt;span class=&quot;keyword&quot;&gt;by&lt;/span&gt; a single newline, so &lt;span class=&quot;keyword&quot;&gt;it&lt;/span&gt;'s a separate line &lt;span class=&quot;keyword&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;keyword&quot;&gt;the&lt;/span&gt; *same &lt;span class=&quot;property&quot;&gt;paragraph&lt;/span&gt;*.&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here&amp;#39;s a line for us to start with.&lt;/p&gt;
+&lt;p&gt;This line is separated from the one above by two newlines, so it will be a &lt;em&gt;separate paragraph&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;This line is also begins a separate paragraph, but...&lt;br&gt;This line is only separated by a single newline, so it&amp;#39;s a separate line in the &lt;em&gt;same paragraph&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;(Technical note: &lt;em&gt;Markdown Here&lt;/em&gt; uses GFM line breaks, so there&amp;#39;s no need to use MD&amp;#39;s two-space line breaks.)&lt;/p&gt;
+&lt;p&gt;&lt;a name=&quot;videos&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Youtube videos&lt;/h2&gt;
+&lt;p&gt;They can&amp;#39;t be added directly but you can add an image with a link to the video like this:&lt;/p&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt;&amp;lt;a href=&amp;quot;http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=YOUTUBE_VIDEO_ID_HERE
+&amp;quot; target=&amp;quot;_blank&amp;quot;&amp;gt;&amp;lt;img src=&amp;quot;http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg&amp;quot; 
+alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height=&amp;quot;180&amp;quot; border=&amp;quot;10&amp;quot; &amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Or, in pure Markdown, but losing the image sizing and border:&lt;/p&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;no-highlight&quot;&gt;[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)&lt;/code&gt;&lt;/pre&gt;
+
+        &lt;/section&gt;
+    &lt;/article&gt;
+    &lt;div class=&quot;sidebar&quot;&gt;
+    &lt;h3&gt;Contents&lt;/h3&gt;
+    
+
+&lt;ol class=&quot;toc&quot;&gt;
+    
+&lt;/ol&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;comments&quot;&gt;
+    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	(function(){
+		window.disqus_shortname = 'chengmu1893';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://localhost:9778//techs/markdownCheetSheet.html';
+		window.disqus_identifier = 'techs-markdownCheetSheet';
+		window.disqus_title = 'Markdown Reference &amp; Shwocase';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+ &lt;!--        &lt;div id=&quot;disqus_thread&quot; class=&quot;comments&quot;&gt;&lt;/div&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    &lt;/script&gt;
+    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
+    
+    &lt;footer class=&quot;footer&quot;&gt;
+	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; • 
+	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; • 
+	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
+&lt;/footer&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41695213-1', 'chengmu.github.io');
+  ga('send', 'pageview');
+
+&lt;/script&gt;
+
+
+    &lt;!-- jQuery --&gt;
+    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
+
+    &lt;!-- DocPad Scripts + Our Own --&gt;
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+		</entry>
+	
+		<entry>
+			<title>docpad建站记录</title>
+			<link href="http://localhost:9778///techs/docpad_notes.html"/>
+			<updated>2013-06-29T06:44:05.000Z</updated>
+			<id>http://localhost:9778///techs/docpad_notes.html</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot;&gt; &lt;!--&lt;![endif]--&gt;
+&lt;head&gt;
+    &lt;!-- Standard Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+	&lt;!-- Site Properities --&gt;
+	&lt;title&gt;docpad建站记录 | Chengmu1893&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;!--[if lte IE 8]&gt;
+	&lt;script type=&quot;text/javascript&quot;&gt; 
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	&lt;/script&gt; 
+	&lt;![endif]--&gt; 
+
+	&lt;!-- DocPad Meta --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.43.1&quot;/&gt;
+	
+	&lt;!-- DocPad Styles + Our Own --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;!-- Favicon --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
+	&lt;!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57x57-precomposed.png&quot; /&gt;
+	&lt;!-- For first- and second-generation iPad: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72x72-precomposed.png&quot; /&gt;
+	&lt;!-- For iPhone with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114x114-precomposed.png&quot; /&gt;
+	&lt;!-- For third-generation iPad with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144x144-precomposed.png&quot; /&gt;
+&lt;/head&gt;
+&lt;body class=&quot;colume-layout&quot;&gt;
+    &lt;!--[if lt IE 7]&gt;
+    &lt;p class=&quot;chromeframe&quot;&gt;You are using an outdated browser. &lt;a href=&quot;http://browsehappy.com/&quot;&gt;Upgrade your browser today&lt;/a&gt; or &lt;a href=&quot;http://www.google.com/chromeframe/?redirect=true&quot;&gt;install Google Chrome Frame&lt;/a&gt; to better experience this site.&lt;/p&gt;
+&lt;![endif]--&gt;
+&lt;header class=&quot;header&quot;&gt;
+	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
+    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
+	&lt;/div&gt;
+	&lt;aside class=&quot;aside main-menu&quot;&gt;
+		&lt;ul&gt;
+			
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
+		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
+		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
+		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;active&quot; href=&quot;/techs.html&quot;&gt;
+		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/trans.html&quot;&gt;
+		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+		&lt;/ul&gt;
+	&lt;/aside&gt;
+	
+&lt;/header&gt;
+    &lt;article class=&quot;article-content&quot;&gt;
+        &lt;div class=&quot;article-nav&quot;&gt;
+            
+                
+            
+                
+                    
+                        &lt;a href=&quot;/techs/markdownCheetSheet.html&quot; class=&quot;previous&quot;&gt;
+                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
+                            Markdown Reference &amp;amp; Shwocase
+                        &lt;/a&gt;
+                    
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../.html&quot;&gt;Back To techs&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    
+                         &lt;a href=&quot;/techs/sublimeText2notes.html&quot; class=&quot;next&quot;&gt;
+                            Sublime Text 2 配置&amp;amp;使用备忘 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;/a&gt;
+                    
+
+                
+            
+                
+            
+                
+            
+                
+        &lt;/div&gt;
+        &lt;header class=&quot;hd&quot;&gt;
+            &lt;h1&gt;docpad建站记录&lt;/h1&gt;
+            &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sat Jun 29 2013&lt;/span&gt;
+        &lt;/header&gt;
+        &lt;section&gt;
+            &lt;h2&gt;代码高亮&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/docpad/docpad-plugin-highlightjs&quot; title=&quot;高亮插件&quot;&gt;高亮plugin on github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;选了个github主题配色~&lt;/p&gt;
+&lt;h2&gt;添加RSS订阅&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/docpad/twitter-bootstrap.docpad/blob/master/src/documents/atom.xml.eco&quot;&gt;docpad rss feed 在github上的模版&lt;/a&gt;&lt;/p&gt;
+&lt;pre class=&quot;highlighted&quot;&gt;&lt;code class=&quot;xml&quot;&gt;
+    &lt;span class=&quot;pi&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;feed&lt;/span&gt; &lt;span class=&quot;attribute&quot;&gt;xmlns&lt;/span&gt;=&lt;span class=&quot;value&quot;&gt;&quot;http://www.w3.org/2005/Atom&quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vbscript&quot;&gt;&amp;lt;%= @site.title %&amp;gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;link&lt;/span&gt; &lt;span class=&quot;attribute&quot;&gt;href&lt;/span&gt;=&lt;span class=&quot;value&quot;&gt;&quot;&amp;lt;%= @site.url %&amp;gt;/atom.xml&quot;&lt;/span&gt; &lt;span class=&quot;attribute&quot;&gt;rel&lt;/span&gt;=&lt;span class=&quot;value&quot;&gt;&quot;self&quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;link&lt;/span&gt; &lt;span class=&quot;attribute&quot;&gt;href&lt;/span&gt;=&lt;span class=&quot;value&quot;&gt;&quot;&amp;lt;%= @site.url %&amp;gt;&quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;updated&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vbscript&quot;&gt;&amp;lt;%= @site.&lt;span class=&quot;built_in&quot;&gt;date&lt;/span&gt;.toISOString() %&amp;gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;updated&lt;/span&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;id&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vbscript&quot;&gt;&amp;lt;%= @site.url %&amp;gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;id&lt;/span&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;author&lt;/span&gt;&amp;gt;&lt;/span&gt;
+            &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;name&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vbscript&quot;&gt;&amp;lt;%= @site.author %&amp;gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;name&lt;/span&gt;&amp;gt;&lt;/span&gt;
+            &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;email&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vbscript&quot;&gt;&amp;lt;%= @site.email %&amp;gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;email&lt;/span&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;author&lt;/span&gt;&amp;gt;&lt;/span&gt;
+
+        &lt;span class=&quot;vbscript&quot;&gt;&amp;lt;% &lt;span class=&quot;keyword&quot;&gt;for&lt;/span&gt; document &lt;span class=&quot;keyword&quot;&gt;in&lt;/span&gt; @getCollection(&lt;span class=&quot;comment&quot;&gt;'posts').toJSON(): %&amp;gt;&lt;/span&gt;&lt;/span&gt;
+            &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;entry&lt;/span&gt;&amp;gt;&lt;/span&gt;
+                &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vbscript&quot;&gt;&amp;lt;%= document.title %&amp;gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;title&lt;/span&gt;&amp;gt;&lt;/span&gt;
+                &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;link&lt;/span&gt; &lt;span class=&quot;attribute&quot;&gt;href&lt;/span&gt;=&lt;span class=&quot;value&quot;&gt;&quot;&amp;lt;%= @site.url+'/'+document.url %&amp;gt;&quot;&lt;/span&gt;/&amp;gt;&lt;/span&gt;
+                &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;updated&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vbscript&quot;&gt;&amp;lt;%= document.&lt;span class=&quot;built_in&quot;&gt;date&lt;/span&gt;.toISOString() %&amp;gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;updated&lt;/span&gt;&amp;gt;&lt;/span&gt;
+                &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;id&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vbscript&quot;&gt;&amp;lt;%= @site.url+&lt;span class=&quot;comment&quot;&gt;'/'+document.url %&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;id&lt;/span&gt;&amp;gt;&lt;/span&gt;
+                &lt;span class=&quot;tag&quot;&gt;&amp;lt;&lt;span class=&quot;title&quot;&gt;content&lt;/span&gt; &lt;span class=&quot;attribute&quot;&gt;type&lt;/span&gt;=&lt;span class=&quot;value&quot;&gt;&quot;html&quot;&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;span class=&quot;vbscript&quot;&gt;&amp;lt;%= document.contentRendered %&amp;gt;&lt;/span&gt;&lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;content&lt;/span&gt;&amp;gt;&lt;/span&gt;
+            &lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;entry&lt;/span&gt;&amp;gt;&lt;/span&gt;
+        &lt;span class=&quot;vbscript&quot;&gt;&amp;lt;% &lt;span class=&quot;keyword&quot;&gt;end&lt;/span&gt; %&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;tag&quot;&gt;&amp;lt;/&lt;span class=&quot;title&quot;&gt;feed&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+
+        &lt;/section&gt;
+    &lt;/article&gt;
+    &lt;div class=&quot;sidebar&quot;&gt;
+    &lt;h3&gt;Contents&lt;/h3&gt;
+    
+
+&lt;ol class=&quot;toc&quot;&gt;
+    
+&lt;/ol&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;comments&quot;&gt;
+    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	(function(){
+		window.disqus_shortname = 'chengmu1893';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://localhost:9778//techs/docpad_notes.html';
+		window.disqus_identifier = 'techs-docpad-notes';
+		window.disqus_title = 'docpad建站记录';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+ &lt;!--        &lt;div id=&quot;disqus_thread&quot; class=&quot;comments&quot;&gt;&lt;/div&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    &lt;/script&gt;
+    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
+    
+    &lt;footer class=&quot;footer&quot;&gt;
+	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; • 
+	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; • 
+	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
+&lt;/footer&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41695213-1', 'chengmu.github.io');
+  ga('send', 'pageview');
+
+&lt;/script&gt;
+
+
+    &lt;!-- jQuery --&gt;
+    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
+
+    &lt;!-- DocPad Scripts + Our Own --&gt;
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+		</entry>
+	
+		<entry>
+			<title>Sublime Text 2 配置&amp;使用备忘</title>
+			<link href="http://localhost:9778///techs/sublimeText2notes.html"/>
+			<updated>2013-06-29T06:44:05.000Z</updated>
+			<id>http://localhost:9778///techs/sublimeText2notes.html</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot;&gt; &lt;!--&lt;![endif]--&gt;
+&lt;head&gt;
+    &lt;!-- Standard Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+	&lt;!-- Site Properities --&gt;
+	&lt;title&gt;Sublime Text 2 配置&amp;amp;使用备忘 | Chengmu1893&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;!--[if lte IE 8]&gt;
+	&lt;script type=&quot;text/javascript&quot;&gt; 
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	&lt;/script&gt; 
+	&lt;![endif]--&gt; 
+
+	&lt;!-- DocPad Meta --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.43.1&quot;/&gt;
+	
+	&lt;!-- DocPad Styles + Our Own --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;!-- Favicon --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
+	&lt;!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57x57-precomposed.png&quot; /&gt;
+	&lt;!-- For first- and second-generation iPad: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72x72-precomposed.png&quot; /&gt;
+	&lt;!-- For iPhone with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114x114-precomposed.png&quot; /&gt;
+	&lt;!-- For third-generation iPad with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144x144-precomposed.png&quot; /&gt;
+&lt;/head&gt;
+&lt;body class=&quot;colume-layout&quot;&gt;
+    &lt;!--[if lt IE 7]&gt;
+    &lt;p class=&quot;chromeframe&quot;&gt;You are using an outdated browser. &lt;a href=&quot;http://browsehappy.com/&quot;&gt;Upgrade your browser today&lt;/a&gt; or &lt;a href=&quot;http://www.google.com/chromeframe/?redirect=true&quot;&gt;install Google Chrome Frame&lt;/a&gt; to better experience this site.&lt;/p&gt;
+&lt;![endif]--&gt;
+&lt;header class=&quot;header&quot;&gt;
+	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
+    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
+	&lt;/div&gt;
+	&lt;aside class=&quot;aside main-menu&quot;&gt;
+		&lt;ul&gt;
+			
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
+		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
+		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
+		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;active&quot; href=&quot;/techs.html&quot;&gt;
+		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/trans.html&quot;&gt;
+		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+		&lt;/ul&gt;
+	&lt;/aside&gt;
+	
+&lt;/header&gt;
+    &lt;article class=&quot;article-content&quot;&gt;
+        &lt;div class=&quot;article-nav&quot;&gt;
+            
+                
+            
+                
+            
+                
+                    
+                        &lt;a href=&quot;/techs/docpad_notes.html&quot; class=&quot;previous&quot;&gt;
+                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
+                            docpad建站记录
+                        &lt;/a&gt;
+                    
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../.html&quot;&gt;Back To techs&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    
+                         &lt;a href=&quot;/techs/w3notes.html&quot; class=&quot;next&quot;&gt;
+                            w3新人记录 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;/a&gt;
+                    
+
+                
+            
+                
+            
+                
+        &lt;/div&gt;
+        &lt;header class=&quot;hd&quot;&gt;
+            &lt;h1&gt;Sublime Text 2 配置&amp;amp;使用备忘&lt;/h1&gt;
+            &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sat Jun 29 2013&lt;/span&gt;
+        &lt;/header&gt;
+        &lt;section&gt;
+            &lt;h2&gt;Tortoise&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://wbond.net/sublime_packages/tortoise#Installation&quot;&gt;Sublime Tortoise&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Working Copy Commands&lt;/h3&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Commit&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+c&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Status&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+s&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Update/Sync&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+u&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Log&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+l&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Explore&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+e&lt;/em&gt;
+    &lt;/dd&gt;
+&lt;/dl&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Diff&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+f&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Log&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+g&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Blame&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+m&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Explore&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+x&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Revert&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+t&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Remove&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+r&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Add&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+a&lt;/em&gt;
+    &lt;/dd&gt;
+&lt;/dl&gt;
+        &lt;/section&gt;
+    &lt;/article&gt;
+    &lt;div class=&quot;sidebar&quot;&gt;
+    &lt;h3&gt;Contents&lt;/h3&gt;
+    
+
+&lt;ol class=&quot;toc&quot;&gt;
+    
+&lt;/ol&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;comments&quot;&gt;
+    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	(function(){
+		window.disqus_shortname = 'chengmu1893';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://localhost:9778//techs/sublimeText2notes.html';
+		window.disqus_identifier = 'techs-sublimeText2notes';
+		window.disqus_title = 'Sublime Text 2 配置&amp;使用备忘';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+ &lt;!--        &lt;div id=&quot;disqus_thread&quot; class=&quot;comments&quot;&gt;&lt;/div&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    &lt;/script&gt;
+    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
+    
+    &lt;footer class=&quot;footer&quot;&gt;
+	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; • 
+	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; • 
+	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
+&lt;/footer&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41695213-1', 'chengmu.github.io');
+  ga('send', 'pageview');
+
+&lt;/script&gt;
+
+
+    &lt;!-- jQuery --&gt;
+    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
+
+    &lt;!-- DocPad Scripts + Our Own --&gt;
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+		</entry>
+	
+		<entry>
+			<title>w3新人记录</title>
+			<link href="http://localhost:9778///techs/w3notes.html"/>
+			<updated>2013-06-29T06:44:05.000Z</updated>
+			<id>http://localhost:9778///techs/w3notes.html</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot;&gt; &lt;!--&lt;![endif]--&gt;
+&lt;head&gt;
+    &lt;!-- Standard Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+	&lt;!-- Site Properities --&gt;
+	&lt;title&gt;w3新人记录 | Chengmu1893&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;!--[if lte IE 8]&gt;
+	&lt;script type=&quot;text/javascript&quot;&gt; 
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	&lt;/script&gt; 
+	&lt;![endif]--&gt; 
+
+	&lt;!-- DocPad Meta --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.43.1&quot;/&gt;
+	
+	&lt;!-- DocPad Styles + Our Own --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;!-- Favicon --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
+	&lt;!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57x57-precomposed.png&quot; /&gt;
+	&lt;!-- For first- and second-generation iPad: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72x72-precomposed.png&quot; /&gt;
+	&lt;!-- For iPhone with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114x114-precomposed.png&quot; /&gt;
+	&lt;!-- For third-generation iPad with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144x144-precomposed.png&quot; /&gt;
+&lt;/head&gt;
+&lt;body class=&quot;colume-layout&quot;&gt;
+    &lt;!--[if lt IE 7]&gt;
+    &lt;p class=&quot;chromeframe&quot;&gt;You are using an outdated browser. &lt;a href=&quot;http://browsehappy.com/&quot;&gt;Upgrade your browser today&lt;/a&gt; or &lt;a href=&quot;http://www.google.com/chromeframe/?redirect=true&quot;&gt;install Google Chrome Frame&lt;/a&gt; to better experience this site.&lt;/p&gt;
+&lt;![endif]--&gt;
+&lt;header class=&quot;header&quot;&gt;
+	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
+    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
+	&lt;/div&gt;
+	&lt;aside class=&quot;aside main-menu&quot;&gt;
+		&lt;ul&gt;
+			
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
+		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
+		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
+		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;active&quot; href=&quot;/techs.html&quot;&gt;
+		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/trans.html&quot;&gt;
+		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+		&lt;/ul&gt;
+	&lt;/aside&gt;
+	
+&lt;/header&gt;
+    &lt;article class=&quot;article-content&quot;&gt;
+        &lt;div class=&quot;article-nav&quot;&gt;
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                        &lt;a href=&quot;/techs/sublimeText2notes.html&quot; class=&quot;previous&quot;&gt;
+                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
+                            Sublime Text 2 配置&amp;amp;使用备忘
+                        &lt;/a&gt;
+                    
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../.html&quot;&gt;Back To techs&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    
+
+                
+            
+                
+        &lt;/div&gt;
+        &lt;header class=&quot;hd&quot;&gt;
+            &lt;h1&gt;w3新人记录&lt;/h1&gt;
+            &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sat Jun 29 2013&lt;/span&gt;
+        &lt;/header&gt;
+        &lt;section&gt;
+            &lt;h1&gt;w3新人记录&lt;/h1&gt;
+&lt;p&gt;我大概在这里记录下自己在w3的备忘&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.w3.org/html/ig/zh/wiki/Guidebook/translation-and-contribution&quot; title=&quot;w3c新人手册&quot;&gt; W3C新人手册&lt;/a&gt;&lt;/p&gt;
+
+        &lt;/section&gt;
+    &lt;/article&gt;
+    &lt;div class=&quot;sidebar&quot;&gt;
+    &lt;h3&gt;Contents&lt;/h3&gt;
+    
+
+&lt;ol class=&quot;toc&quot;&gt;
+    
+&lt;/ol&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;comments&quot;&gt;
+    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	(function(){
+		window.disqus_shortname = 'chengmu1893';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://localhost:9778//techs/w3notes.html';
+		window.disqus_identifier = 'techs-w3notes';
+		window.disqus_title = 'w3新人记录';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+ &lt;!--        &lt;div id=&quot;disqus_thread&quot; class=&quot;comments&quot;&gt;&lt;/div&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    &lt;/script&gt;
+    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
+    
+    &lt;footer class=&quot;footer&quot;&gt;
+	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; • 
+	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; • 
+	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
+&lt;/footer&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41695213-1', 'chengmu.github.io');
+  ga('send', 'pageview');
+
+&lt;/script&gt;
+
+
+    &lt;!-- jQuery --&gt;
+    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
+
+    &lt;!-- DocPad Scripts + Our Own --&gt;
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+		</entry>
+	
+</feed>

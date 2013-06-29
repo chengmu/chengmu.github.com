@@ -19,10 +19,10 @@
 	<![endif]--> 
 
 	<!-- DocPad Meta -->
-	<meta http-equiv="X-Powered-By" content="DocPad v6.38.1"/>
+	<meta http-equiv="X-Powered-By" content="DocPad v6.43.1"/>
 	
 	<!-- DocPad Styles + Our Own -->
-	<link  rel="stylesheet" href="/styles/style.css" /><link  rel="stylesheet" href="/styles/highlight.css" /><link  rel="stylesheet" href="/styles/postformation.css" />
+	<link  rel="stylesheet" href="/styles/base.css" /><link  rel="stylesheet" href="/styles/style.css" /><link  rel="stylesheet" href="/styles/highlight.css" /><link  rel="stylesheet" href="/styles/postformation.css" /><link  rel="stylesheet" href="/styles/fontawesome.css" />
 
 	<!-- Icons -->
 	<!-- Favicon -->
@@ -36,35 +36,72 @@
 	<!-- For third-generation iPad with high-resolution Retina display: -->
 	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="icons/apple-touch-icon-144x144-precomposed.png" />
 </head>
-<body class="index">
+<body class="index colume-layout">
     <!--[if lt IE 7]>
     <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
 <![endif]-->
 <header class="header">
 	<h1><a href="http://chengmu.github.com">Chengmu1893</a></h1>
+    <span class="avatar"></span>
+	<div class="contacts-icon">
+		<a href="http://weibo.com/chengmuak" title="窝的新浪微博~"><i class="icon-weibo"></i></a>
+		<a href="https://github.com/chengmu"  title="窝的github~"><i class="icon-github"></i></a>
+		<a href="http://chengmu.tumblr.com/"  title="窝的汤不热~"><i class="icon-tumblr-sign"></i></a>
+		<a href="mailto:lin.zhu.ak@gmail.com"  title="写信给窝吧！\(^o^)/"><i class="icon-envelope-alt"></i></a> 
+	</div>
 	<aside class="aside main-menu">
-		
-	            <a class="inactive" href="/about.html">
-	                About Me
-	            </a>
-	    
-	            <a class="active" href="/index.html">
-	                Home
-	            </a>
-	    
-	            <a class="inactive" href="/Posts.html">
-	                Posts
-	            </a>
-	    
-	            <a class="inactive" href="/techs.html">
-	                Techs
-	            </a>
-	    
-	            <a class="inactive" href="/trans.html">
-	                Trans
-	            </a>
-	    
+		<ul>
+			
+				<li>
+		            <a class="inactive" href="/about.html">
+		                <i class="icon-female"></i> About Me 
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="active" href="/index.html">
+		                <i class="icon-home"></i> Home 
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/Posts.html">
+		                <i class="icon-coffee"></i> Posts 
+		            </a>
+		            
+		            <a href="" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/techs.html">
+		                <i class="icon-code"></i> Techs 
+		            </a>
+		            
+		            <a href="" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/trans.html">
+		                <i class="icon-heart"></i> Trans 
+		            </a>
+		            
+		            <a href="" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+		</ul>
 	</aside>
+	
 </header>
     <article class="article index-wrapper">
         <article class="article-list intro-myself">
@@ -74,7 +111,7 @@
                 <p>还在一点点的进行修缮，</p>
                 <p>拿来放些翻译随笔神码的。</p>
                 <p>请enjoy！还有尽情勾搭嗷！</p>      
-                
+                <p><a href="about.html#disqus_thread"><i class="icon-comment-alt"></i>有神马想说的嘛XDD </br>请点这里~</a></p>
             </div>
             
         </article>
@@ -84,7 +121,7 @@
             <ul>
                 
                 <li  class="type-posts">
-                    <span class="article-date">6-8-2013</span>
+                    <span class="article-date">6-12-2013</span>
                     <a href="/posts/testpost.html">
                                 fisrt post!
                     </a>
@@ -100,7 +137,17 @@
             <ul>
                 
                 <li  class="type-trans">
-                    <span class="article-date">6-19-2013</span>
+                    <span class="article-date">6-29-2013</span>
+                    
+                    
+                    <a href="/trans/[ST_TOS]伪神.html">
+                                <span>[ST:TOS]</span>伪神/Graven Image 
+                    </a>
+                    <!-- <span class="article-type">trans</span> -->
+                </li>
+                
+                <li  class="type-trans">
+                    <span class="article-date">6-29-2013</span>
                     
                     
                     <a href="/trans/[Sherlock]来来回回.html">
@@ -110,7 +157,7 @@
                 </li>
                 
                 <li  class="type-trans">
-                    <span class="article-date">6-14-2013</span>
+                    <span class="article-date">6-29-2013</span>
                     
                     
                     <a href="/trans/[TeenWolf]言明我所思.html">
@@ -120,31 +167,21 @@
                 </li>
                 
                 <li  class="type-trans">
-                    <span class="article-date">6-11-2013</span>
-                    
-                    
-                    <a href="/trans/[Sherlock]自那之后.html">
-                                <span>[Sherlock]</span>自那之后
-                    </a>
-                    <!-- <span class="article-type">trans</span> -->
-                </li>
-                
-                <li  class="type-trans">
-                    <span class="article-date">6-11-2013</span>
-                    
-                    
-                    <a href="/trans/[Sherlock]边线与方砖.html">
-                                <span>[Sherlock]</span>边线与方砖
-                    </a>
-                    <!-- <span class="article-type">trans</span> -->
-                </li>
-                
-                <li  class="type-trans">
-                    <span class="article-date">6-11-2013</span>
+                    <span class="article-date">6-12-2013</span>
                     
                     
                     <a href="/trans/[Sherlock]破碎与骨.html">
                                 <span>[Sherlock]</span>破碎与骨
+                    </a>
+                    <!-- <span class="article-type">trans</span> -->
+                </li>
+                
+                <li  class="type-trans">
+                    <span class="article-date">6-12-2013</span>
+                    
+                    
+                    <a href="/trans/[Sherlock]自那之后.html">
+                                <span>[Sherlock]</span>自那之后
                     </a>
                     <!-- <span class="article-type">trans</span> -->
                 </li>
@@ -157,7 +194,7 @@
             <ul>
                 
                 <li  class="type-techs">
-                    <span class="article-date">6-17-2013</span>
+                    <span class="article-date">6-30-2013</span>
                     
                     
                     <a href="/techs/markdownCheetSheet.html">
@@ -167,17 +204,7 @@
                 </li>
                 
                 <li  class="type-techs">
-                    <span class="article-date">6-17-2013</span>
-                    
-                    
-                    <a href="/techs/sublimeText2notes.html">
-                                Sublime Text 2 配置&amp;使用备忘
-                    </a>
-                    <!-- <span class="article-type">techs</span> -->
-                </li>
-                
-                <li  class="type-techs">
-                    <span class="article-date">6-17-2013</span>
+                    <span class="article-date">6-29-2013</span>
                     
                     
                     <a href="/techs/docpad_notes.html">
@@ -187,7 +214,17 @@
                 </li>
                 
                 <li  class="type-techs">
-                    <span class="article-date">6-13-2013</span>
+                    <span class="article-date">6-29-2013</span>
+                    
+                    
+                    <a href="/techs/sublimeText2notes.html">
+                                Sublime Text 2 配置&amp;使用备忘
+                    </a>
+                    <!-- <span class="article-type">techs</span> -->
+                </li>
+                
+                <li  class="type-techs">
+                    <span class="article-date">6-29-2013</span>
                     
                     
                     <a href="/techs/w3notes.html">
@@ -261,6 +298,13 @@ var inject = function(){
   }
 }, 10);
 	}
+})();</script><script >var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();</script><script defer="defer"  src="/vendor/log.js"></script><script defer="defer"  src="/vendor/modernizr.js"></script><script defer="defer"  src="/scripts/script.js"></script>
 </body>
 </html>

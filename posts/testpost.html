@@ -19,10 +19,10 @@
 	<![endif]--> 
 
 	<!-- DocPad Meta -->
-	<meta http-equiv="X-Powered-By" content="DocPad v6.38.1"/>
+	<meta http-equiv="X-Powered-By" content="DocPad v6.43.1"/>
 	
 	<!-- DocPad Styles + Our Own -->
-	<link  rel="stylesheet" href="/styles/style.css" /><link  rel="stylesheet" href="/styles/highlight.css" /><link  rel="stylesheet" href="/styles/postformation.css" />
+	<link  rel="stylesheet" href="/styles/base.css" /><link  rel="stylesheet" href="/styles/style.css" /><link  rel="stylesheet" href="/styles/highlight.css" /><link  rel="stylesheet" href="/styles/postformation.css" /><link  rel="stylesheet" href="/styles/fontawesome.css" />
 
 	<!-- Icons -->
 	<!-- Favicon -->
@@ -42,35 +42,87 @@
 <![endif]-->
 <header class="header">
 	<h1><a href="http://chengmu.github.com">Chengmu1893</a></h1>
+    <span class="avatar"></span>
+	<div class="contacts-icon">
+		<a href="http://weibo.com/chengmuak" title="窝的新浪微博~"><i class="icon-weibo"></i></a>
+		<a href="https://github.com/chengmu"  title="窝的github~"><i class="icon-github"></i></a>
+		<a href="http://chengmu.tumblr.com/"  title="窝的汤不热~"><i class="icon-tumblr-sign"></i></a>
+		<a href="mailto:lin.zhu.ak@gmail.com"  title="写信给窝吧！\(^o^)/"><i class="icon-envelope-alt"></i></a> 
+	</div>
 	<aside class="aside main-menu">
-		
-	            <a class="inactive" href="/about.html">
-	                About Me
-	            </a>
-	    
-	            <a class="inactive" href="/index.html">
-	                Home
-	            </a>
-	    
-	            <a class="inactive" href="/Posts.html">
-	                Posts
-	            </a>
-	    
-	            <a class="inactive" href="/techs.html">
-	                Techs
-	            </a>
-	    
-	            <a class="inactive" href="/trans.html">
-	                Trans
-	            </a>
-	    
+		<ul>
+			
+				<li>
+		            <a class="inactive" href="/about.html">
+		                <i class="icon-female"></i> About Me 
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/index.html">
+		                <i class="icon-home"></i> Home 
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="active" href="/Posts.html">
+		                <i class="icon-coffee"></i> Posts 
+		            </a>
+		            
+		            <a href="" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/techs.html">
+		                <i class="icon-code"></i> Techs 
+		            </a>
+		            
+		            <a href="" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/trans.html">
+		                <i class="icon-heart"></i> Trans 
+		            </a>
+		            
+		            <a href="" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+		</ul>
 	</aside>
+	
 </header>
     <article class="article-content">
+        <div class="article-nav">
+            
+                
+                    
+                    <ins>|</ins>
+                    <a href="../.html">Back To posts</a>
+                    <ins>|</ins>
+                    <a href="../index.html">Home</a>
+                    <ins>|</ins>
+                    
+
+                
+            
+                
+        </div>
         <header class="hd">
             <h1>fisrt post!</h1>
             <span class="catalogue">posts</span>
-            <span class="post-date">Sat Jun 08 2013</span>
+            <span class="post-date">Wed Jun 12 2013</span>
         </header>
         <section>
             <h2>Try Try Try</h2>
@@ -83,7 +135,45 @@
 
         </section>
     </article>
-        <div id="disqus_thread" class="comments"></div>
+    <div class="sidebar">
+    <h3>Contents</h3>
+    
+
+<ol class="toc">
+    
+</ol>
+
+</div>
+<div class="comments">
+    <div id="disqus_thread"></div>
+<script>
+	(function(){
+		window.disqus_shortname = 'chengmu1893';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://localhost:9778//posts/testpost.html';
+		window.disqus_identifier = 'posts-testpost';
+		window.disqus_title = 'fisrt post!';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+ <!--        <div id="disqus_thread" class="comments"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
         var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
@@ -96,7 +186,7 @@
         })();
     </script>
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> -->
     
     <footer class="footer">
 	<span class="logo">Chengmu1893.</span> • 
@@ -160,6 +250,13 @@ var inject = function(){
   }
 }, 10);
 	}
+})();</script><script >var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();</script><script defer="defer"  src="/vendor/log.js"></script><script defer="defer"  src="/vendor/modernizr.js"></script><script defer="defer"  src="/scripts/script.js"></script>
 </body>
 </html>

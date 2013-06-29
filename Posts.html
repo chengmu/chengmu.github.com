@@ -19,10 +19,10 @@
 	<![endif]--> 
 
 	<!-- DocPad Meta -->
-	<meta http-equiv="X-Powered-By" content="DocPad v6.38.1"/>
+	<meta http-equiv="X-Powered-By" content="DocPad v6.43.1"/>
 	
 	<!-- DocPad Styles + Our Own -->
-	<link  rel="stylesheet" href="/styles/style.css" /><link  rel="stylesheet" href="/styles/highlight.css" /><link  rel="stylesheet" href="/styles/postformation.css" />
+	<link  rel="stylesheet" href="/styles/base.css" /><link  rel="stylesheet" href="/styles/style.css" /><link  rel="stylesheet" href="/styles/highlight.css" /><link  rel="stylesheet" href="/styles/postformation.css" /><link  rel="stylesheet" href="/styles/fontawesome.css" />
 
 	<!-- Icons -->
 	<!-- Favicon -->
@@ -36,53 +36,98 @@
 	<!-- For third-generation iPad with high-resolution Retina display: -->
 	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="icons/apple-touch-icon-144x144-precomposed.png" />
 </head>
-<body>
+<body class="list-page colume-layout list-type-posts">
     <!--[if lt IE 7]>
     <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
 <![endif]-->
 <header class="header">
 	<h1><a href="http://chengmu.github.com">Chengmu1893</a></h1>
+    <span class="avatar"></span>
+	<div class="contacts-icon">
+		<a href="http://weibo.com/chengmuak" title="窝的新浪微博~"><i class="icon-weibo"></i></a>
+		<a href="https://github.com/chengmu"  title="窝的github~"><i class="icon-github"></i></a>
+		<a href="http://chengmu.tumblr.com/"  title="窝的汤不热~"><i class="icon-tumblr-sign"></i></a>
+		<a href="mailto:lin.zhu.ak@gmail.com"  title="写信给窝吧！\(^o^)/"><i class="icon-envelope-alt"></i></a> 
+	</div>
 	<aside class="aside main-menu">
-		
-	            <a class="inactive" href="/about.html">
-	                About Me
-	            </a>
-	    
-	            <a class="inactive" href="/index.html">
-	                Home
-	            </a>
-	    
-	            <a class="active" href="/Posts.html">
-	                Posts
-	            </a>
-	    
-	            <a class="inactive" href="/techs.html">
-	                Techs
-	            </a>
-	    
-	            <a class="inactive" href="/trans.html">
-	                Trans
-	            </a>
-	    
+		<ul>
+			
+				<li>
+		            <a class="inactive" href="/about.html">
+		                <i class="icon-female"></i> About Me 
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/index.html">
+		                <i class="icon-home"></i> Home 
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="active" href="/Posts.html">
+		                <i class="icon-coffee"></i> Posts 
+		            </a>
+		            
+		            <a href="" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/techs.html">
+		                <i class="icon-code"></i> Techs 
+		            </a>
+		            
+		            <a href="" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/trans.html">
+		                <i class="icon-heart"></i> Trans 
+		            </a>
+		            
+		            <a href="" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+		</ul>
 	</aside>
+	
 </header>
-<article class="article article-total-list ">
-        <aside class="aside">
-        <p>Here is my diary.</p>
+    <article class="article article-total-list ">
+        <header class="header">
+            <h2>随笔/Posts
+                <a href="posts.xml"><i class="icon-rss"></i></a>
+            </h2>
+            <aside>
+            <p>Here is my diary.</p>
 
-        </aside>
+            </aside>
+        </header>
         <ul>
                 
                 <li  class="type-posts">
+                    <span class="fic-fandom">[]</span>
+                    <span class="fic-cp">[]</span>
                     <a href="/posts/testpost.html">
                                 fisrt post!
                     </a>
-                    <span class="article-date">6-8-2013</span>
-                </li>
+                    <span class="article-date">Wed Jun 12 2013</span>
+<!--                     <span class="article-date">6-12-2013</span>
+ -->                </li>
                 
             </ul>
-</article>
-<footer class="footer">
+    </article>
+    <footer class="footer">
 	<span class="logo">Chengmu1893.</span> • 
 	Created &amp; Maintained by <a href="./">Chengmu</a> using <a href="http://docpad.org">DocPad</a> • 
 	<a href="mailto:lin.zhu.ak@gmail.com">Email Chengmu</a> • 
