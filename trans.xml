@@ -3,7 +3,7 @@
 	<title>Chengmu1893</title>
 	<link href="http://localhost:9778//atom.xml" rel="self"/>
 	<link href="http://localhost:9778/"/>
-	<updated>2013-06-29T17:00:08.748Z</updated>
+	<updated>2013-06-29T17:27:52.454Z</updated>
 	<id>http://localhost:9778/</id>
 	<author>
 		<name></name>
@@ -89,7 +89,7 @@
 		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -100,7 +100,7 @@
 		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -111,7 +111,7 @@
 		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -644,7 +644,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -655,7 +655,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -666,7 +666,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -1042,7 +1042,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -1053,7 +1053,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -1064,7 +1064,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -1365,7 +1365,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -1376,7 +1376,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -1387,7 +1387,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -1792,7 +1792,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -1803,7 +1803,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -1814,7 +1814,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -2247,7 +2247,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -2258,7 +2258,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -2269,7 +2269,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -2647,7 +2647,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -2658,7 +2658,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
@@ -2669,7 +2669,7 @@ _gaq.push(['_trackPageview']);
 		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
 		            &lt;/a&gt;
 		            
-		            &lt;a href=&quot;&quot; class=&quot;rss&quot;&gt;
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
 		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
 		            &lt;/a&gt;
 		            
