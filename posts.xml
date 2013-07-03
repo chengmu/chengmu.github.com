@@ -3,7 +3,7 @@
 	<title>Chengmu1893</title>
 	<link href="http://localhost:9778//atom.xml" rel="self"/>
 	<link href="http://localhost:9778/"/>
-	<updated>2013-06-29T17:27:52.454Z</updated>
+	<updated>2013-07-03T14:53:30.977Z</updated>
 	<id>http://localhost:9778/</id>
 	<author>
 		<name></name>
@@ -153,7 +153,7 @@
 
         &lt;/section&gt;
     &lt;/article&gt;
-    &lt;div class=&quot;sidebar&quot;&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
     
 
@@ -161,7 +161,7 @@
     
 &lt;/ol&gt;
 
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -222,6 +222,15 @@
   ga('create', 'UA-41695213-1', 'chengmu.github.io');
   ga('send', 'pageview');
 
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
 &lt;/script&gt;
 
 

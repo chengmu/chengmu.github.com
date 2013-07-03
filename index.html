@@ -105,7 +105,7 @@
 </header>
     <article class="article index-wrapper">
         <article class="article-list intro-myself">
-            <span class="avatar"></span>
+            <a href="about.html" title="关于窝~"><span class="avatar"></span></a>
             <div>
                 <p>Hi，这是程慕的个人站，</p>
                 <p>还在一点点的进行修缮，</p>
@@ -194,6 +194,16 @@
             <ul>
                 
                 <li  class="type-techs">
+                    <span class="article-date">7-3-2013</span>
+                    
+                    
+                    <a href="/techs/docpad_notes.html">
+                                docpad建站记录
+                    </a>
+                    <!-- <span class="article-type">techs</span> -->
+                </li>
+                
+                <li  class="type-techs">
                     <span class="article-date">6-30-2013</span>
                     
                     
@@ -207,8 +217,8 @@
                     <span class="article-date">6-29-2013</span>
                     
                     
-                    <a href="/techs/docpad_notes.html">
-                                docpad建站记录
+                    <a href="/techs/w3notes.html">
+                                w3新人记录
                     </a>
                     <!-- <span class="article-type">techs</span> -->
                 </li>
@@ -219,16 +229,6 @@
                     
                     <a href="/techs/sublimeText2notes.html">
                                 Sublime Text 2 配置&amp;使用备忘
-                    </a>
-                    <!-- <span class="article-type">techs</span> -->
-                </li>
-                
-                <li  class="type-techs">
-                    <span class="article-date">6-29-2013</span>
-                    
-                    
-                    <a href="/techs/w3notes.html">
-                                w3新人记录
                     </a>
                     <!-- <span class="article-type">techs</span> -->
                 </li>
@@ -255,6 +255,15 @@
   ga('create', 'UA-41695213-1', 'chengmu.github.io');
   ga('send', 'pageview');
 
+</script>
+<script>
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
 </script>
     <!-- jQuery -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>

@@ -266,7 +266,7 @@ PS：喜欢听小熊诗歌的卷福。。。哦真萌。。</p>
 
         </section>
     </article>
-    <div class="sidebar">
+<!--     <div class="sidebar">
     <h3>Contents</h3>
     
 
@@ -274,7 +274,7 @@ PS：喜欢听小熊诗歌的卷福。。。哦真萌。。</p>
     
 </ol>
 
-</div>
+</div> -->
 <div class="comments">
     <div id="disqus_thread"></div>
 <script>
@@ -335,6 +335,15 @@ PS：喜欢听小熊诗歌的卷福。。。哦真萌。。</p>
   ga('create', 'UA-41695213-1', 'chengmu.github.io');
   ga('send', 'pageview');
 
+</script>
+<script>
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
 </script>
 
 

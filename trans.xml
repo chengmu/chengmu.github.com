@@ -3,7 +3,7 @@
 	<title>Chengmu1893</title>
 	<link href="http://localhost:9778//atom.xml" rel="self"/>
 	<link href="http://localhost:9778/"/>
-	<updated>2013-06-29T17:27:52.454Z</updated>
+	<updated>2013-07-03T14:53:30.977Z</updated>
 	<id>http://localhost:9778/</id>
 	<author>
 		<name></name>
@@ -439,7 +439,7 @@
 
         &lt;/section&gt;
     &lt;/article&gt;
-    &lt;div class=&quot;sidebar&quot;&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
     
 
@@ -447,7 +447,7 @@
     
 &lt;/ol&gt;
 
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -508,6 +508,15 @@
   ga('create', 'UA-41695213-1', 'chengmu.github.io');
   ga('send', 'pageview');
 
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
 &lt;/script&gt;
 
 
@@ -837,7 +846,7 @@ _gaq.push(['_trackPageview']);
 
         &lt;/section&gt;
     &lt;/article&gt;
-    &lt;div class=&quot;sidebar&quot;&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
     
 
@@ -845,7 +854,7 @@ _gaq.push(['_trackPageview']);
     
 &lt;/ol&gt;
 
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -906,6 +915,15 @@ _gaq.push(['_trackPageview']);
   ga('create', 'UA-41695213-1', 'chengmu.github.io');
   ga('send', 'pageview');
 
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
 &lt;/script&gt;
 
 
@@ -1160,7 +1178,7 @@ _gaq.push(['_trackPageview']);
 
         &lt;/section&gt;
     &lt;/article&gt;
-    &lt;div class=&quot;sidebar&quot;&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
     
 
@@ -1168,7 +1186,7 @@ _gaq.push(['_trackPageview']);
     
 &lt;/ol&gt;
 
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -1229,6 +1247,15 @@ _gaq.push(['_trackPageview']);
   ga('create', 'UA-41695213-1', 'chengmu.github.io');
   ga('send', 'pageview');
 
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
 &lt;/script&gt;
 
 
@@ -1587,7 +1614,7 @@ Hi! Don’t worry, it’s okay. I would’ve said yes anyway. I’m very happy y
 
         &lt;/section&gt;
     &lt;/article&gt;
-    &lt;div class=&quot;sidebar&quot;&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
     
 
@@ -1595,7 +1622,7 @@ Hi! Don’t worry, it’s okay. I would’ve said yes anyway. I’m very happy y
     
 &lt;/ol&gt;
 
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -1656,6 +1683,15 @@ Hi! Don’t worry, it’s okay. I would’ve said yes anyway. I’m very happy y
   ga('create', 'UA-41695213-1', 'chengmu.github.io');
   ga('send', 'pageview');
 
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
 &lt;/script&gt;
 
 
@@ -2042,7 +2078,7 @@ Warnings: none&lt;/p&gt;
 
         &lt;/section&gt;
     &lt;/article&gt;
-    &lt;div class=&quot;sidebar&quot;&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
     
 
@@ -2050,7 +2086,7 @@ Warnings: none&lt;/p&gt;
     
 &lt;/ol&gt;
 
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -2111,6 +2147,15 @@ Warnings: none&lt;/p&gt;
   ga('create', 'UA-41695213-1', 'chengmu.github.io');
   ga('send', 'pageview');
 
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
 &lt;/script&gt;
 
 
@@ -2442,7 +2487,7 @@ PS：喜欢听小熊诗歌的卷福。。。哦真萌。。&lt;/p&gt;
 
         &lt;/section&gt;
     &lt;/article&gt;
-    &lt;div class=&quot;sidebar&quot;&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
     
 
@@ -2450,7 +2495,7 @@ PS：喜欢听小熊诗歌的卷福。。。哦真萌。。&lt;/p&gt;
     
 &lt;/ol&gt;
 
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -2511,6 +2556,15 @@ PS：喜欢听小熊诗歌的卷福。。。哦真萌。。&lt;/p&gt;
   ga('create', 'UA-41695213-1', 'chengmu.github.io');
   ga('send', 'pageview');
 
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
 &lt;/script&gt;
 
 
@@ -2772,7 +2826,7 @@ Characters: Sherlock+John&lt;/p&gt;
 
         &lt;/section&gt;
     &lt;/article&gt;
-    &lt;div class=&quot;sidebar&quot;&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
     
 
@@ -2780,7 +2834,7 @@ Characters: Sherlock+John&lt;/p&gt;
     
 &lt;/ol&gt;
 
-&lt;/div&gt;
+&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -2841,6 +2895,15 @@ Characters: Sherlock+John&lt;/p&gt;
   ga('create', 'UA-41695213-1', 'chengmu.github.io');
   ga('send', 'pageview');
 
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
 &lt;/script&gt;
 
 

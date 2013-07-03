@@ -107,13 +107,6 @@
         <div class="article-nav">
             
                 
-            
-                
-                    
-                        <a href="/techs/markdownCheetSheet.html" class="previous">
-                            <span>&lt;&lt;</span>
-                            Markdown Reference &amp; Shwocase
-                        </a>
                     
                     <ins>|</ins>
                     <a href="../.html">Back To techs</a>
@@ -121,11 +114,13 @@
                     <a href="../index.html">Home</a>
                     <ins>|</ins>
                     
-                         <a href="/techs/sublimeText2notes.html" class="next">
-                            Sublime Text 2 配置&amp;使用备忘 <span>&gt;&gt;</span>
+                         <a href="/techs/markdownCheetSheet.html" class="next">
+                            Markdown Reference &amp; Shwocase <span>&gt;&gt;</span>
                          </a>
                     
 
+                
+            
                 
             
                 
@@ -137,20 +132,116 @@
         <header class="hd">
             <h1>docpad建站记录</h1>
             <span class="catalogue">techs</span>
-            <span class="post-date">Sat Jun 29 2013</span>
+            <span class="post-date">Wed Jul 03 2013</span>
         </header>
         <section>
-            <h2>代码高亮</h2>
-<p><a href="https://github.com/docpad/docpad-plugin-highlightjs" title="高亮插件">高亮plugin on github</a></p>
-<p>选了个github主题配色~</p>
-<h2>添加RSS订阅</h2>
+            <p>记一下用docpad建站的过程作为备忘。不定时更新</p>
+<h2>why docpad</h2>
+<p>wordpress对我来说太过于臃肿，我就想要个代码干净的小站来写东西。想要个<code>markdown</code>为基础的静态站。
+比较流行的Static Site Generator应该是github的Jekyll。但现在的静态站生成器还挺多的，我在github上找到了<a href="https://gist.github.com/davatron5000/2254924">一个静态站生成器的清单</a>。</p>
+<p>于是我挑了比较有亲切感的nodejs作为驱动~选了里面似乎用的人最多的那个。
+用了之后觉得定制性好强！</p>
+<h2>start up 流程</h2>
+<h3>安装和初始化</h3>
+<pre class="highlighted"><code class="brainfuck"><span class="comment">$</span> <span class="comment">npm</span> <span class="comment">install</span> <span class="literal">-</span><span class="comment">g</span> <span class="comment">docpad</code></pre>
+<p>更新的时候：
+    $ rm -Rf node_modules; npm install
+启动docpad：
+  进入到站点目录
+    $ docpad run</p>
+<p>第一次启动的时候，初始化：
+    $ docpad init
+按提示一步步来，还可以选择最初的架构，<code>bootstrape</code>，<code>HTML5 Boilerplate</code>之类的</p>
+<h3>安装插件</h3>
+<p>接下来捏，要安装渲染用的插件；比如<a href="https://github.com/docpad/docpad-plugin-eco">eco</a>和<a href="https://github.com/docpad/docpad-plugin-marked">marked</a>;还有其他的模板可以用，<a href="http://docpad.org/docs/plugins#renderers">全部的渲染插件清单</a>.</p>
+<p>除了渲染外，还有许多增强功能的插件可以用，例如代码高亮、可以用来代码模块化的partial等等；</p>
+<p>我需要安装的插件</p>
+<pre class="highlighted"><code class="brainfuck"><span class="comment">npm</span> <span class="comment">install</span> <span class="literal">-</span><span class="literal">-</span><span class="comment">save</span> <span class="comment">docpad</span>-<span class="comment">plugin</span>-<span class="comment">livereload</span> <span class="comment">docpad</span>-<span class="comment">plugin</span>-<span class="comment">eco</span> <span class="comment">docpad</span>-<span class="comment">plugin</span>-<span class="comment">marked</span> <span class="comment">docpad</span>-<span class="comment">plugin</span>-<span class="comment">partials</span> <span class="comment">docpad</span>-<span class="comment">plugin</span>-<span class="comment">highlightjs</span> <span class="comment">docpad</span>-<span class="comment">plugin</span>-<span class="comment">services</code></pre>
+<p>具体都是干嘛的稍后说。</p>
+<h2>配置</h2>
+<h3>config</h3>
+<p>配置文件为根目录下的<code>docpad.coffee</code>,也可以使用js或者json来写；js或者coffee的好处是可以写方法。
+里面定义了运行时的各种目录、设置；例如可以修改导出的目录：</p>
+<pre class="highlighted"><code class="coffeescript"><span class="comment"># Out Path</span>
+    <span class="comment"># Where should we put our generated website files?</span>
+    <span class="comment"># If it is a relative path, it will have the resolved `rootPath` prepended to it</span>
+    outPath: <span class="string">'out'</span>  <span class="comment"># default</span></code></pre>
+<p>还有帮助模板渲染用的helper方法及自定义变量：</p>
+<pre class="highlighted"><code class="coffeescript">
+ templateData:  <span class="comment"># example</span>
+
+        <span class="comment"># Specify some site properties</span>
+        site:
+            <span class="comment"># The production url of our website</span>
+            url: <span class="string">"http://website.com"</span>
+
+            <span class="comment"># The default title of our website</span>
+            title: <span class="string">"Your Website"</span></code></pre>
+<p>参考<a href="http://docpad.org/docs/config">Docpad Configuration</a>.</p>
+<h3>目录结构及用途</h3>
+<p>以我自己的站点目录为例：</p>
+<pre class="highlighted"><code class="javascript">+ node_module <span class="comment">//存放各种模块 </span>
++ src  <span class="comment">//源码目录，主工作区~ 里面的东西会经过编译后生成静态页面，导出到out文件夹内</span>
+    + documents 
+        + styles   <span class="comment">//样式文件+字体</span>
+        + scripts  <span class="comment">//脚本</span>
+        + posts    <span class="comment">//这三个是我自己定义的目录，用来做为我文档的归类</span>
+        + techs
+            + docpad建站记录.html.md
+        + trans
+    + files     <span class="comment">//一些额外的东西，例如图标啦404 humans.txt之类</span>
+    + layouts  <span class="comment">//模板存放</span>
+        + index.html.eco
+        + ...
+    + partials  <span class="comment">//安装partials插件后，复用的模块模板在这里定义</span>
+        + head.html
+        + header.html.eco
+        + ...
+ +docpad.coffee  <span class="comment">//这是配置文件，用coffeescript写</span></code></pre>
+<h3>markdown文档</h3>
+<p>在documents下写md文档，类似于<em>*.html.md</em>的后缀，在渲染时就会从md转为html.
+markdown文件的开头会写具体的meta：</p>
+<pre class="highlighted"><code class="markdown"><span class="horizontal_rule">---</span>
+title : 'Docpad建站记录'
+<span class="header">isPage : true
+---</span></code></pre>
+<p>这里写的meta值在模板里可以取到；可以自定义；除写明的meta外，每个文件还会有自己默认的一些定义，参见<a href="http://docpad.org/docs/meta-data">Docpad Meta Data</a>。下文中的relativeOutDirPath便是其中之一；</p>
+<p>除此之外，docpad还提供了一系列的helper方法（也可以自己写，在配置文件docpad.coffee里写），帮助搭建。<a href="http://docpad.org/docs/template-data">Docpad Template Data &amp; Helper</a>.</p>
+<h3>模板（eco）</h3>
+<p>eco模板类似于下面的样子：</p>
+<pre class="highlighted"><code class="xml"><span class="tag">&lt;<span class="title">ul</span>&gt;</span>
+            <span class="vbscript">&lt;% <span class="keyword">for</span> page <span class="keyword">in</span> @getCollection(<span class="string">"pages"</span>).toJSON(): %&gt;</span>
+                <span class="tag">&lt;<span class="title">li</span>&gt;</span>
+                    <span class="tag">&lt;<span class="title">a</span> <span class="attribute">class</span>=<span class="value">"&lt;%= if page.id is @document.id || page.pack is @document.relativeOutDirPath then 'active' else 'inactive' %&gt;"</span> <span class="attribute">href</span>=<span class="value">"&lt;%= page.url %&gt;"</span>&gt;</span>
+                        <span class="tag">&lt;<span class="title">i</span> <span class="attribute">class</span>=<span class="value">"icon-&lt;%= page.icon %&gt;"</span>&gt;</span><span class="tag">&lt;/<span class="title">i</span>&gt;</span> <span class="vbscript">&lt;%= page.title %&gt;</span> 
+                    <span class="tag">&lt;/<span class="title">a</span>&gt;</span>
+                    <span class="vbscript">&lt;%<span class="keyword">if</span> page.pack: %&gt;</span>
+                    <span class="tag">&lt;<span class="title">a</span> <span class="attribute">href</span>=<span class="value">"&lt;%= if !@document.isPage then '../'%&gt;&lt;%= page.pack%&gt;.xml"</span> <span class="attribute">class</span>=<span class="value">"rss"</span>&gt;</span>
+                        <span class="tag">&lt;<span class="title">i</span> <span class="attribute">class</span>=<span class="value">"icon-rss"</span>&gt;</span><span class="tag">&lt;/<span class="title">i</span>&gt;</span>
+                    <span class="tag">&lt;/<span class="title">a</span>&gt;</span>
+                    <span class="vbscript">&lt;%<span class="keyword">end</span>%&gt;</span>
+                   <span class="tag">&lt;/<span class="title">li</span>&gt;</span>    
+            <span class="vbscript">&lt;% <span class="keyword">end</span> %&gt;</span>
+        <span class="tag">&lt;/<span class="title">ul</span>&gt;</span></code></pre>
+<p>组织文章的方法我是在这篇博文里学的<a href="http://takitapart.com/posts/organizing-docpad/">ORGANIZING DOCPAD</a>，顺便赞美下这位的站点设计。</p>
+<pre class="highlighted"><code class="javascript">posts: -&gt;
+        @getCollection(<span class="string">"html"</span>).findAllLive({relativeOutDirPath: <span class="string">'posts'</span>},[{date: -<span class="number">1</span>}]).on <span class="string">"add"</span>, (model) -&gt;
+            model.setMetaDefaults({layout: <span class="string">"post"</span>})
+    techs: -&gt;
+        @getCollection(<span class="string">"html"</span>).findAllLive({relativeOutDirPath: <span class="string">'techs'</span>},[{date: -<span class="number">1</span>}]).on <span class="string">"add"</span>, (model) -&gt;
+            model.setMetaDefaults({layout: <span class="string">"post"</span>})
+    trans: -&gt;
+        @getCollection(<span class="string">"html"</span>).findAllLive({relativeOutDirPath: <span class="string">'trans'</span>},[{date: -<span class="number">1</span>}]).on <span class="string">"add"</span>, (model) -&gt;
+            model.setMetaDefaults({layout: <span class="string">"post"</span>})</code></pre>
+<h3>RSS订阅</h3>
+<p>写xml的模板，然后生成各个目录下对应的xml；</p>
 <p><a href="https://github.com/docpad/twitter-bootstrap.docpad/blob/master/src/documents/atom.xml.eco">docpad rss feed 在github上的模版</a></p>
 <pre class="highlighted"><code class="xml">
     <span class="pi">&lt;?xml version="1.0" encoding="utf-8"?&gt;</span>
     <span class="tag">&lt;<span class="title">feed</span> <span class="attribute">xmlns</span>=<span class="value">"http://www.w3.org/2005/Atom"</span>&gt;</span>
         <span class="tag">&lt;<span class="title">title</span>&gt;</span><span class="vbscript">&lt;%= @site.title %&gt;</span><span class="tag">&lt;/<span class="title">title</span>&gt;</span>
         <span class="tag">&lt;<span class="title">link</span> <span class="attribute">href</span>=<span class="value">"&lt;%= @site.url %&gt;/atom.xml"</span> <span class="attribute">rel</span>=<span class="value">"self"</span>/&gt;</span>
-        <span class="tag">&lt;<span class="title">link</span> <span class="attribute">href</span>=<span class="value">"&lt;%= @site.url %&gt;"</span>/&gt;</span>
+        <span class="tag">&lt;<span class="title">link</span> <span class="attribute">href</span>=<span class="value">"&lt;%= @site.url %&gt;"</span>/&gt;</span> 
         <span class="tag">&lt;<span class="title">updated</span>&gt;</span><span class="vbscript">&lt;%= @site.<span class="built_in">date</span>.toISOString() %&gt;</span><span class="tag">&lt;/<span class="title">updated</span>&gt;</span>
         <span class="tag">&lt;<span class="title">id</span>&gt;</span><span class="vbscript">&lt;%= @site.url %&gt;</span><span class="tag">&lt;/<span class="title">id</span>&gt;</span>
         <span class="tag">&lt;<span class="title">author</span>&gt;</span>
@@ -168,10 +259,37 @@
             <span class="tag">&lt;/<span class="title">entry</span>&gt;</span>
         <span class="vbscript">&lt;% <span class="keyword">end</span> %&gt;</span>
     <span class="tag">&lt;/<span class="title">feed</span>&gt;</span></code></pre>
+<h2>我用的插件</h2>
+<h3>Render（eco &amp; maked）</h3>
+<p>即读取和渲染，不多写。</p>
+<h3>Services</h3>
+<p>集成了一些公共服务，例如google analytics, Disqus等等</p>
+<h3>partials</h3>
+<p>可以实现模块化；
+在src目录下新建<em>partials</em>目录，里面存放复用的模板：例如<em>header.html.eco</em></p>
+<p>在模板要使用的地方写：</p>
+<pre class="highlighted"><code class="ruby">&lt;<span class="string">%-@partial('header.html.eco', @)%&gt;</code></pre>
+<p>后面的@是将本页面的数据传进partial；</p>
+<h3>liveReload</h3>
+<p>代码修改后docpad会立即重新生成，同时刷新浏览器中的页面。</p>
+<h3>代码高亮</h3>
+<p><a href="https://github.com/docpad/docpad-plugin-highlightjs" title="高亮插件">高亮plugin on github</a></p>
+<p>选了个github主题配色~</p>
+<h2>部署</h2>
+<p>目前是使用github作为代码托管，干脆也直接用了他们家的page服务~</p>
+<h2>备注</h2>
+<h3>comments</h3>
+<p>目前使用的是Disque。 Docpad也可以启用本地评论，但是需要服务器为nodejs驱动；</p>
+<h3>加密！</h3>
+<p>现在站点是托在github上，而目前docpad加密的方式需要server端为nodejs</p>
+<h2>TODO：</h2>
+<ul>
+<li>文章目录的自动生成和跳转</li>
+</ul>
 
         </section>
     </article>
-    <div class="sidebar">
+<!--     <div class="sidebar">
     <h3>Contents</h3>
     
 
@@ -179,7 +297,7 @@
     
 </ol>
 
-</div>
+</div> -->
 <div class="comments">
     <div id="disqus_thread"></div>
 <script>
@@ -240,6 +358,15 @@
   ga('create', 'UA-41695213-1', 'chengmu.github.io');
   ga('send', 'pageview');
 
+</script>
+<script>
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
 </script>
 
 
