@@ -3,7 +3,7 @@
 	<title>Chengmu1893</title>
 	<link href="http://localhost:9778//atom.xml" rel="self"/>
 	<link href="http://localhost:9778/"/>
-	<updated>2013-07-03T14:53:30.977Z</updated>
+	<updated>2013-07-03T01:49:53.182Z</updated>
 	<id>http://localhost:9778/</id>
 	<author>
 		<name></name>
@@ -14,7 +14,7 @@
 		<entry>
 			<title>docpad建站记录</title>
 			<link href="http://localhost:9778///techs/docpad_notes.html"/>
-			<updated>2013-07-03T15:06:47.000Z</updated>
+			<updated>2013-07-04T01:18:32.000Z</updated>
 			<id>http://localhost:9778///techs/docpad_notes.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
@@ -37,7 +37,7 @@
 	&lt;![endif]--&gt; 
 
 	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.43.1&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
 	
 	&lt;!-- DocPad Styles + Our Own --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
@@ -150,7 +150,7 @@
         &lt;header class=&quot;hd&quot;&gt;
             &lt;h1&gt;docpad建站记录&lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Thu Jul 04 2013&lt;/span&gt;
         &lt;/header&gt;
         &lt;section&gt;
             &lt;p&gt;记一下用docpad建站的过程作为备忘。不定时更新&lt;/p&gt;
@@ -309,12 +309,7 @@ title : 'Docpad建站记录'
     &lt;/article&gt;
 &lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
-    
-
-&lt;ol class=&quot;toc&quot;&gt;
-    
-&lt;/ol&gt;
-
+    TypeError: Cannot read property 'length' of undefined
 &lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -393,45 +388,7 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
 
     &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;(function(){
-	/* Did we just livereload? */
-var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
-if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReloaded at', new Date())
-}
-
-/* Listen for the regenerated event and perform a reload of the page when the event occurs */
-var listen = function(){
-	var socket = io.connect('/docpad-livereload');
-	socket.on('regenerated',function(){
-		if ( log ) {
-	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-}
-document.location.reload();
-	});
-};
-	if ( typeof io !== 'undefined' ) {
-		listen();
-	} else {
-		/* Inject socket.io into our page then listen once loaded */
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '/socket.io/socket.io.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
-};
-		var readyStateCheckInterval = setInterval(function() {
-  if (document.readyState === &quot;complete&quot;) {
-    inject();
-    clearInterval(readyStateCheckInterval);
-  }
-}, 10);
-	}
-})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+    &lt;script &gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){
@@ -446,7 +403,7 @@ _gaq.push(['_trackPageview']);
 		<entry>
 			<title>Markdown Reference &amp; Shwocase</title>
 			<link href="http://localhost:9778///techs/markdownCheetSheet.html"/>
-			<updated>2013-06-29T16:44:21.000Z</updated>
+			<updated>2013-07-03T01:37:19.000Z</updated>
 			<id>http://localhost:9778///techs/markdownCheetSheet.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
@@ -469,7 +426,7 @@ _gaq.push(['_trackPageview']);
 	&lt;![endif]--&gt; 
 
 	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.43.1&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
 	
 	&lt;!-- DocPad Styles + Our Own --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
@@ -571,8 +528,8 @@ _gaq.push(['_trackPageview']);
                     &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
                     &lt;ins&gt;|&lt;/ins&gt;
                     
-                         &lt;a href=&quot;/techs/w3notes.html&quot; class=&quot;next&quot;&gt;
-                            w3新人记录 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;a href=&quot;/techs/sublimeText2notes.html&quot; class=&quot;next&quot;&gt;
+                            Sublime Text 2 配置&amp;amp;使用备忘 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
                          &lt;/a&gt;
                     
 
@@ -587,7 +544,7 @@ _gaq.push(['_trackPageview']);
         &lt;header class=&quot;hd&quot;&gt;
             &lt;h1&gt;Markdown Reference &amp;amp; Shwocase&lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Sun Jun 30 2013&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
         &lt;/header&gt;
         &lt;section&gt;
             &lt;h4&gt;Table of Contents&lt;/h4&gt;
@@ -883,12 +840,7 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
     &lt;/article&gt;
 &lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
-    
-
-&lt;ol class=&quot;toc&quot;&gt;
-    
-&lt;/ol&gt;
-
+    TypeError: Cannot read property 'length' of undefined
 &lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -967,45 +919,7 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
 
     &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;(function(){
-	/* Did we just livereload? */
-var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
-if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReloaded at', new Date())
-}
-
-/* Listen for the regenerated event and perform a reload of the page when the event occurs */
-var listen = function(){
-	var socket = io.connect('/docpad-livereload');
-	socket.on('regenerated',function(){
-		if ( log ) {
-	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-}
-document.location.reload();
-	});
-};
-	if ( typeof io !== 'undefined' ) {
-		listen();
-	} else {
-		/* Inject socket.io into our page then listen once loaded */
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '/socket.io/socket.io.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
-};
-		var readyStateCheckInterval = setInterval(function() {
-  if (document.readyState === &quot;complete&quot;) {
-    inject();
-    clearInterval(readyStateCheckInterval);
-  }
-}, 10);
-	}
-})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+    &lt;script &gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){
@@ -1018,10 +932,10 @@ _gaq.push(['_trackPageview']);
 		</entry>
 	
 		<entry>
-			<title>w3新人记录</title>
-			<link href="http://localhost:9778///techs/w3notes.html"/>
-			<updated>2013-06-29T06:44:05.000Z</updated>
-			<id>http://localhost:9778///techs/w3notes.html</id>
+			<title>Sublime Text 2 配置&amp;使用备忘</title>
+			<link href="http://localhost:9778///techs/sublimeText2notes.html"/>
+			<updated>2013-07-03T01:37:19.000Z</updated>
+			<id>http://localhost:9778///techs/sublimeText2notes.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
 &lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
@@ -1033,7 +947,7 @@ _gaq.push(['_trackPageview']);
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
 	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;w3新人记录 | Chengmu1893&lt;/title&gt;
+	&lt;title&gt;Sublime Text 2 配置&amp;amp;使用备忘 | Chengmu1893&lt;/title&gt;
 	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
 	&lt;!--[if lte IE 8]&gt;
@@ -1043,7 +957,7 @@ _gaq.push(['_trackPageview']);
 	&lt;![endif]--&gt; 
 
 	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.43.1&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
 	
 	&lt;!-- DocPad Styles + Our Own --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
@@ -1147,8 +1061,8 @@ _gaq.push(['_trackPageview']);
                     &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
                     &lt;ins&gt;|&lt;/ins&gt;
                     
-                         &lt;a href=&quot;/techs/sublimeText2notes.html&quot; class=&quot;next&quot;&gt;
-                            Sublime Text 2 配置&amp;amp;使用备忘 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;a href=&quot;/techs/w3notes.html&quot; class=&quot;next&quot;&gt;
+                            w3新人记录 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
                          &lt;/a&gt;
                     
 
@@ -1159,25 +1073,71 @@ _gaq.push(['_trackPageview']);
                 
         &lt;/div&gt;
         &lt;header class=&quot;hd&quot;&gt;
-            &lt;h1&gt;w3新人记录&lt;/h1&gt;
+            &lt;h1&gt;Sublime Text 2 配置&amp;amp;使用备忘&lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Sat Jun 29 2013&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
         &lt;/header&gt;
         &lt;section&gt;
-            &lt;h1&gt;w3新人记录&lt;/h1&gt;
-&lt;p&gt;我大概在这里记录下自己在w3的备忘&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.w3.org/html/ig/zh/wiki/Guidebook/translation-and-contribution&quot; title=&quot;w3c新人手册&quot;&gt; W3C新人手册&lt;/a&gt;&lt;/p&gt;
-
+            &lt;h2&gt;Tortoise&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://wbond.net/sublime_packages/tortoise#Installation&quot;&gt;Sublime Tortoise&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;Working Copy Commands&lt;/h3&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Commit&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+c&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Status&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+s&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Update/Sync&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+u&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Log&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+l&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Explore&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+e&lt;/em&gt;
+    &lt;/dd&gt;
+&lt;/dl&gt;
+&lt;dl&gt;
+    &lt;dt&gt;Diff&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+f&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Log&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+g&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Blame&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+m&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Explore&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+x&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Revert&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+t&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Remove&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+r&lt;/em&gt;
+    &lt;/dd&gt;
+    &lt;dt&gt;Add&lt;/dt&gt;
+    &lt;dd&gt;
+        &lt;em&gt;ctrl+alt+v+a&lt;/em&gt;
+    &lt;/dd&gt;
+&lt;/dl&gt;
         &lt;/section&gt;
     &lt;/article&gt;
 &lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
-    
-
-&lt;ol class=&quot;toc&quot;&gt;
-    
-&lt;/ol&gt;
-
+    TypeError: Cannot read property 'length' of undefined
 &lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -1185,9 +1145,9 @@ _gaq.push(['_trackPageview']);
 	(function(){
 		window.disqus_shortname = 'chengmu1893';
 		window.disqus_developer = '1';
-		window.disqus_url = 'http://localhost:9778//techs/w3notes.html';
-		window.disqus_identifier = 'techs-w3notes';
-		window.disqus_title = 'w3新人记录';
+		window.disqus_url = 'http://localhost:9778//techs/sublimeText2notes.html';
+		window.disqus_identifier = 'techs-sublimeText2notes';
+		window.disqus_title = 'Sublime Text 2 配置&amp;使用备忘';
 		if ( window.DISQUS ) {
 			return DISQUS.reset({
 				reload: true,
@@ -1256,45 +1216,7 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
 
     &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;(function(){
-	/* Did we just livereload? */
-var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
-if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReloaded at', new Date())
-}
-
-/* Listen for the regenerated event and perform a reload of the page when the event occurs */
-var listen = function(){
-	var socket = io.connect('/docpad-livereload');
-	socket.on('regenerated',function(){
-		if ( log ) {
-	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-}
-document.location.reload();
-	});
-};
-	if ( typeof io !== 'undefined' ) {
-		listen();
-	} else {
-		/* Inject socket.io into our page then listen once loaded */
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '/socket.io/socket.io.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
-};
-		var readyStateCheckInterval = setInterval(function() {
-  if (document.readyState === &quot;complete&quot;) {
-    inject();
-    clearInterval(readyStateCheckInterval);
-  }
-}, 10);
-	}
-})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+    &lt;script &gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){
@@ -1307,10 +1229,10 @@ _gaq.push(['_trackPageview']);
 		</entry>
 	
 		<entry>
-			<title>Sublime Text 2 配置&amp;使用备忘</title>
-			<link href="http://localhost:9778///techs/sublimeText2notes.html"/>
-			<updated>2013-06-29T06:44:05.000Z</updated>
-			<id>http://localhost:9778///techs/sublimeText2notes.html</id>
+			<title>w3新人记录</title>
+			<link href="http://localhost:9778///techs/w3notes.html"/>
+			<updated>2013-07-03T01:37:19.000Z</updated>
+			<id>http://localhost:9778///techs/w3notes.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
 &lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
@@ -1322,7 +1244,7 @@ _gaq.push(['_trackPageview']);
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
 	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;Sublime Text 2 配置&amp;amp;使用备忘 | Chengmu1893&lt;/title&gt;
+	&lt;title&gt;w3新人记录 | Chengmu1893&lt;/title&gt;
 	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
 	&lt;!--[if lte IE 8]&gt;
@@ -1332,7 +1254,7 @@ _gaq.push(['_trackPageview']);
 	&lt;![endif]--&gt; 
 
 	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.43.1&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
 	
 	&lt;!-- DocPad Styles + Our Own --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
@@ -1427,9 +1349,9 @@ _gaq.push(['_trackPageview']);
             
                 
                     
-                        &lt;a href=&quot;/techs/w3notes.html&quot; class=&quot;previous&quot;&gt;
+                        &lt;a href=&quot;/techs/sublimeText2notes.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            w3新人记录
+                            Sublime Text 2 配置&amp;amp;使用备忘
                         &lt;/a&gt;
                     
                     &lt;ins&gt;|&lt;/ins&gt;
@@ -1444,76 +1366,20 @@ _gaq.push(['_trackPageview']);
                 
         &lt;/div&gt;
         &lt;header class=&quot;hd&quot;&gt;
-            &lt;h1&gt;Sublime Text 2 配置&amp;amp;使用备忘&lt;/h1&gt;
+            &lt;h1&gt;w3新人记录&lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Sat Jun 29 2013&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
         &lt;/header&gt;
         &lt;section&gt;
-            &lt;h2&gt;Tortoise&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://wbond.net/sublime_packages/tortoise#Installation&quot;&gt;Sublime Tortoise&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;Working Copy Commands&lt;/h3&gt;
-&lt;dl&gt;
-    &lt;dt&gt;Commit&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+c&lt;/em&gt;
-    &lt;/dd&gt;
-    &lt;dt&gt;Status&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+s&lt;/em&gt;
-    &lt;/dd&gt;
-    &lt;dt&gt;Update/Sync&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+u&lt;/em&gt;
-    &lt;/dd&gt;
-    &lt;dt&gt;Log&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+l&lt;/em&gt;
-    &lt;/dd&gt;
-    &lt;dt&gt;Explore&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+e&lt;/em&gt;
-    &lt;/dd&gt;
-&lt;/dl&gt;
-&lt;dl&gt;
-    &lt;dt&gt;Diff&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+f&lt;/em&gt;
-    &lt;/dd&gt;
-    &lt;dt&gt;Log&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+g&lt;/em&gt;
-    &lt;/dd&gt;
-    &lt;dt&gt;Blame&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+m&lt;/em&gt;
-    &lt;/dd&gt;
-    &lt;dt&gt;Explore&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+x&lt;/em&gt;
-    &lt;/dd&gt;
-    &lt;dt&gt;Revert&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+t&lt;/em&gt;
-    &lt;/dd&gt;
-    &lt;dt&gt;Remove&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+r&lt;/em&gt;
-    &lt;/dd&gt;
-    &lt;dt&gt;Add&lt;/dt&gt;
-    &lt;dd&gt;
-        &lt;em&gt;ctrl+alt+v+a&lt;/em&gt;
-    &lt;/dd&gt;
-&lt;/dl&gt;
+            &lt;h1&gt;w3新人记录&lt;/h1&gt;
+&lt;p&gt;我大概在这里记录下自己在w3的备忘&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.w3.org/html/ig/zh/wiki/Guidebook/translation-and-contribution&quot; title=&quot;w3c新人手册&quot;&gt; W3C新人手册&lt;/a&gt;&lt;/p&gt;
+
         &lt;/section&gt;
     &lt;/article&gt;
 &lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
-    
-
-&lt;ol class=&quot;toc&quot;&gt;
-    
-&lt;/ol&gt;
-
+    TypeError: Cannot read property 'length' of undefined
 &lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -1521,9 +1387,9 @@ _gaq.push(['_trackPageview']);
 	(function(){
 		window.disqus_shortname = 'chengmu1893';
 		window.disqus_developer = '1';
-		window.disqus_url = 'http://localhost:9778//techs/sublimeText2notes.html';
-		window.disqus_identifier = 'techs-sublimeText2notes';
-		window.disqus_title = 'Sublime Text 2 配置&amp;使用备忘';
+		window.disqus_url = 'http://localhost:9778//techs/w3notes.html';
+		window.disqus_identifier = 'techs-w3notes';
+		window.disqus_title = 'w3新人记录';
 		if ( window.DISQUS ) {
 			return DISQUS.reset({
 				reload: true,
@@ -1592,45 +1458,7 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
 
     &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;(function(){
-	/* Did we just livereload? */
-var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
-if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReloaded at', new Date())
-}
-
-/* Listen for the regenerated event and perform a reload of the page when the event occurs */
-var listen = function(){
-	var socket = io.connect('/docpad-livereload');
-	socket.on('regenerated',function(){
-		if ( log ) {
-	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-}
-document.location.reload();
-	});
-};
-	if ( typeof io !== 'undefined' ) {
-		listen();
-	} else {
-		/* Inject socket.io into our page then listen once loaded */
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '/socket.io/socket.io.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
-};
-		var readyStateCheckInterval = setInterval(function() {
-  if (document.readyState === &quot;complete&quot;) {
-    inject();
-    clearInterval(readyStateCheckInterval);
-  }
-}, 10);
-	}
-})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+    &lt;script &gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){

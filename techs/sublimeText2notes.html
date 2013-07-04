@@ -19,7 +19,7 @@
 	<![endif]--> 
 
 	<!-- DocPad Meta -->
-	<meta http-equiv="X-Powered-By" content="DocPad v6.43.1"/>
+	<meta http-equiv="X-Powered-By" content="DocPad v6.44.0"/>
 	
 	<!-- DocPad Styles + Our Own -->
 	<link  rel="stylesheet" href="/styles/base.css" /><link  rel="stylesheet" href="/styles/style.css" /><link  rel="stylesheet" href="/styles/highlight.css" /><link  rel="stylesheet" href="/styles/postformation.css" /><link  rel="stylesheet" href="/styles/fontawesome.css" />
@@ -111,12 +111,10 @@
                 
             
                 
-            
-                
                     
-                        <a href="/techs/w3notes.html" class="previous">
+                        <a href="/techs/markdownCheetSheet.html" class="previous">
                             <span>&lt;&lt;</span>
-                            w3新人记录
+                            Markdown Reference &amp; Shwocase
                         </a>
                     
                     <ins>|</ins>
@@ -125,7 +123,13 @@
                     <a href="../index.html">Home</a>
                     <ins>|</ins>
                     
+                         <a href="/techs/w3notes.html" class="next">
+                            w3新人记录 <span>&gt;&gt;</span>
+                         </a>
+                    
 
+                
+            
                 
             
                 
@@ -133,7 +137,7 @@
         <header class="hd">
             <h1>Sublime Text 2 配置&amp;使用备忘</h1>
             <span class="catalogue">techs</span>
-            <span class="post-date">Sat Jun 29 2013</span>
+            <span class="post-date">Wed Jul 03 2013</span>
         </header>
         <section>
             <h2>Tortoise</h2>
@@ -195,12 +199,7 @@
     </article>
 <!--     <div class="sidebar">
     <h3>Contents</h3>
-    
-
-<ol class="toc">
-    
-</ol>
-
+    TypeError: Cannot read property 'length' of undefined
 </div> -->
 <div class="comments">
     <div id="disqus_thread"></div>
@@ -279,45 +278,7 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
     <script>window.jQuery || document.write('<script src="/vendor/jquery.js"><\/script>')</script>
 
     <!-- DocPad Scripts + Our Own -->
-    <script >(function(){
-	/* Did we just livereload? */
-var log = true && localStorage && console && console.log && true;
-if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReloaded at', new Date())
-}
-
-/* Listen for the regenerated event and perform a reload of the page when the event occurs */
-var listen = function(){
-	var socket = io.connect('/docpad-livereload');
-	socket.on('regenerated',function(){
-		if ( log ) {
-	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-}
-document.location.reload();
-	});
-};
-	if ( typeof io !== 'undefined' ) {
-		listen();
-	} else {
-		/* Inject socket.io into our page then listen once loaded */
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '/socket.io/socket.io.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
-};
-		var readyStateCheckInterval = setInterval(function() {
-  if (document.readyState === "complete") {
-    inject();
-    clearInterval(readyStateCheckInterval);
-  }
-}, 10);
-	}
-})();</script><script >var _gaq = _gaq || [];
+    <script >var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){

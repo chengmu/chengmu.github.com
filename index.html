@@ -19,7 +19,7 @@
 	<![endif]--> 
 
 	<!-- DocPad Meta -->
-	<meta http-equiv="X-Powered-By" content="DocPad v6.43.1"/>
+	<meta http-equiv="X-Powered-By" content="DocPad v6.44.0"/>
 	
 	<!-- DocPad Styles + Our Own -->
 	<link  rel="stylesheet" href="/styles/base.css" /><link  rel="stylesheet" href="/styles/style.css" /><link  rel="stylesheet" href="/styles/highlight.css" /><link  rel="stylesheet" href="/styles/postformation.css" /><link  rel="stylesheet" href="/styles/fontawesome.css" />
@@ -121,7 +121,7 @@
             <ul>
                 
                 <li  class="type-posts">
-                    <span class="article-date">6-12-2013</span>
+                    <span class="article-date">7-3-2013</span>
                     <a href="/posts/testpost.html">
                                 fisrt post!
                     </a>
@@ -137,17 +137,7 @@
             <ul>
                 
                 <li  class="type-trans">
-                    <span class="article-date">6-29-2013</span>
-                    
-                    
-                    <a href="/trans/[ST_TOS]伪神.html">
-                                <span>[ST:TOS]</span>伪神/Graven Image 
-                    </a>
-                    <!-- <span class="article-type">trans</span> -->
-                </li>
-                
-                <li  class="type-trans">
-                    <span class="article-date">6-29-2013</span>
+                    <span class="article-date">7-3-2013</span>
                     
                     
                     <a href="/trans/[Sherlock]来来回回.html">
@@ -157,17 +147,7 @@
                 </li>
                 
                 <li  class="type-trans">
-                    <span class="article-date">6-29-2013</span>
-                    
-                    
-                    <a href="/trans/[TeenWolf]言明我所思.html">
-                                <span>[TeenWolf]</span>言明我所思/Voicing My Concerns
-                    </a>
-                    <!-- <span class="article-type">trans</span> -->
-                </li>
-                
-                <li  class="type-trans">
-                    <span class="article-date">6-12-2013</span>
+                    <span class="article-date">7-3-2013</span>
                     
                     
                     <a href="/trans/[Sherlock]破碎与骨.html">
@@ -177,11 +157,31 @@
                 </li>
                 
                 <li  class="type-trans">
-                    <span class="article-date">6-12-2013</span>
+                    <span class="article-date">7-3-2013</span>
                     
                     
                     <a href="/trans/[Sherlock]自那之后.html">
                                 <span>[Sherlock]</span>自那之后
+                    </a>
+                    <!-- <span class="article-type">trans</span> -->
+                </li>
+                
+                <li  class="type-trans">
+                    <span class="article-date">7-3-2013</span>
+                    
+                    
+                    <a href="/trans/[Sherlock]边线与方砖.html">
+                                <span>[Sherlock]</span>边线与方砖
+                    </a>
+                    <!-- <span class="article-type">trans</span> -->
+                </li>
+                
+                <li  class="type-trans">
+                    <span class="article-date">7-3-2013</span>
+                    
+                    
+                    <a href="/trans/[ST_TOS]伪神.html">
+                                <span>[ST:TOS]</span>伪神/Graven Image 
                     </a>
                     <!-- <span class="article-type">trans</span> -->
                 </li>
@@ -194,7 +194,7 @@
             <ul>
                 
                 <li  class="type-techs">
-                    <span class="article-date">7-3-2013</span>
+                    <span class="article-date">7-4-2013</span>
                     
                     
                     <a href="/techs/docpad_notes.html">
@@ -204,7 +204,7 @@
                 </li>
                 
                 <li  class="type-techs">
-                    <span class="article-date">6-30-2013</span>
+                    <span class="article-date">7-3-2013</span>
                     
                     
                     <a href="/techs/markdownCheetSheet.html">
@@ -214,21 +214,21 @@
                 </li>
                 
                 <li  class="type-techs">
-                    <span class="article-date">6-29-2013</span>
+                    <span class="article-date">7-3-2013</span>
                     
                     
-                    <a href="/techs/w3notes.html">
-                                w3新人记录
+                    <a href="/techs/sublimeText2notes.html">
+                                Sublime Text 2 配置&amp;使用备忘
                     </a>
                     <!-- <span class="article-type">techs</span> -->
                 </li>
                 
                 <li  class="type-techs">
-                    <span class="article-date">6-29-2013</span>
+                    <span class="article-date">7-3-2013</span>
                     
                     
-                    <a href="/techs/sublimeText2notes.html">
-                                Sublime Text 2 配置&amp;使用备忘
+                    <a href="/techs/w3notes.html">
+                                w3新人记录
                     </a>
                     <!-- <span class="article-type">techs</span> -->
                 </li>
@@ -269,45 +269,7 @@ for (var i = 0, linksLength = links.length; i < linksLength; i++) {
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="/vendor/jquery.js"><\/script>')</script>
     <!-- DocPad Scripts + Our Own -->
-    <script >(function(){
-	/* Did we just livereload? */
-var log = true && localStorage && console && console.log && true;
-if ( log && localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReloaded at', new Date())
-}
-
-/* Listen for the regenerated event and perform a reload of the page when the event occurs */
-var listen = function(){
-	var socket = io.connect('/docpad-livereload');
-	socket.on('regenerated',function(){
-		if ( log ) {
-	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-}
-document.location.reload();
-	});
-};
-	if ( typeof io !== 'undefined' ) {
-		listen();
-	} else {
-		/* Inject socket.io into our page then listen once loaded */
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = true;
-	t.src = '/socket.io/socket.io.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t,s);
-};
-		var readyStateCheckInterval = setInterval(function() {
-  if (document.readyState === "complete") {
-    inject();
-    clearInterval(readyStateCheckInterval);
-  }
-}, 10);
-	}
-})();</script><script >var _gaq = _gaq || [];
+    <script >var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){
