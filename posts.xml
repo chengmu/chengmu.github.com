@@ -3,7 +3,7 @@
 	<title>Chengmu1893</title>
 	<link href="http://localhost:9778//atom.xml" rel="self"/>
 	<link href="http://localhost:9778/"/>
-	<updated>2013-07-18T09:01:52.061Z</updated>
+	<updated>2013-07-18T09:54:07.777Z</updated>
 	<id>http://localhost:9778/</id>
 	<author>
 		<name></name>
@@ -28,8 +28,8 @@
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
 	&lt;!-- Site Properities --&gt;
 	&lt;title&gt;fisrt post! | Chengmu1893&lt;/title&gt;
-	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
-	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
 	&lt;!--[if lte IE 8]&gt;
 	&lt;script type=&quot;text/javascript&quot;&gt; 
 		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
