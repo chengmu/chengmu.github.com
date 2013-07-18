@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+    <!-- Standard Meta -->
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="viewport" content="width=device-width" />
+	<!-- Site Properities -->
+	<title>Mobile上的viewport及各种概念澄清贴 | Chengmu1893</title>
+	<meta name="description" content="When your website appears in search results in say Google, the text here will be shown underneath your website's title." />
+	<meta name="keywords" content="place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website" />
+	<!--[if lte IE 8]>
+	<script type="text/javascript"> 
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	</script> 
+	<![endif]--> 
+
+	<!-- DocPad Meta -->
+	<meta http-equiv="X-Powered-By" content="DocPad v6.44.0"/>
+	
+	<!-- DocPad Styles + Our Own -->
+	<link  rel="stylesheet" href="/styles/base.css" /><link  rel="stylesheet" href="/styles/style.css" /><link  rel="stylesheet" href="/styles/highlight.css" /><link  rel="stylesheet" href="/styles/postformation.css" /><link  rel="stylesheet" href="/styles/fontawesome.css" />
+
+	<!-- Icons -->
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="/icons/favicon.ico" />
+	<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+	<link rel="apple-touch-icon-precomposed" href="icons/apple-touch-icon-57x57-precomposed.png" />
+	<!-- For first- and second-generation iPad: -->
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="icons/apple-touch-icon-72x72-precomposed.png" />
+	<!-- For iPhone with high-resolution Retina display: -->
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="icons/apple-touch-icon-114x114-precomposed.png" />
+	<!-- For third-generation iPad with high-resolution Retina display: -->
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="icons/apple-touch-icon-144x144-precomposed.png" />
+</head>
+<body class="colume-layout">
+    <!--[if lt IE 7]>
+    <p class="chromeframe">You are using an outdated browser. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to better experience this site.</p>
+<![endif]-->
+<header class="header">
+	<h1><a href="http://chengmu.github.com">Chengmu1893</a></h1>
+    <span class="avatar"></span>
+	<div class="contacts-icon">
+		<a href="http://weibo.com/chengmuak" title="窝的新浪微博~"><i class="icon-weibo"></i></a>
+		<a href="https://github.com/chengmu"  title="窝的github~"><i class="icon-github"></i></a>
+		<a href="http://chengmu.tumblr.com/"  title="窝的汤不热~"><i class="icon-tumblr-sign"></i></a>
+		<a href="mailto:lin.zhu.ak@gmail.com"  title="写信给窝吧！\(^o^)/"><i class="icon-envelope-alt"></i></a> 
+	</div>
+	<aside class="aside main-menu">
+		<ul>
+			
+				<li>
+		            <a class="inactive" href="/about.html">
+		                <i class="icon-female"></i> About Me 
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/index.html">
+		                <i class="icon-home"></i> Home 
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/Posts.html">
+		                <i class="icon-coffee"></i> Posts 
+		            </a>
+		            
+		            <a href="../posts.xml" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="active" href="/techs.html">
+		                <i class="icon-code"></i> Techs 
+		            </a>
+		            
+		            <a href="../techs.xml" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+				<li>
+		            <a class="inactive" href="/trans.html">
+		                <i class="icon-heart"></i> Trans 
+		            </a>
+		            
+		            <a href="../trans.xml" class="rss">
+		            	<i class="icon-rss"></i>
+		            </a>
+		            
+		   		</li>	
+		    
+		</ul>
+	</aside>
+	
+</header>
+    <article class="article-content">
+        <div class="article-nav">
+            
+                
+                    
+                    <ins>|</ins>
+                    <a href="../.html">Back To techs</a>
+                    <ins>|</ins>
+                    <a href="../index.html">Home</a>
+                    <ins>|</ins>
+                    
+                         <a href="/techs/docpad_notes.html" class="next">
+                            docpad建站记录 <span>&gt;&gt;</span>
+                         </a>
+                    
+
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+        </div>
+        <header class="hd">
+            <h1>Mobile上的viewport及各种概念澄清贴</h1>
+            <span class="catalogue">techs</span>
+            <span class="post-date">Thu Jul 18 2013</span>
+        </header>
+        <section>
+            <h3>device Pixel &amp; CSS Pixel</h3>
+<p>物理像素指显示设备上的物理像素点，比如HTC G11宽是480px，这的480是用物理像素衡量的。
+CSS像素的话则指我们写页面时理解的那个像素单位。可以理解为是设备自己做了一层缩放，让2个物理像素代表一个我们css里说的像素，也就是dp（设备独立像素）的概念。行业内有个约定俗成的规范，即一般这个数值是320。 有的很高密度的手机略作了调整。</p>
+<p>想知道设备的物理像素的话，一般去取 <code>screen.width</code> 就可以。
+但苹果只会给你dp的数值，也就是320。这个时候就得用实际上的虚拟像素数（即dp个数）乘以设备像素和css像素的比值计算出来设备像素值。</p>
+<pre class="highlighted"><code class="profile"><span class="filename">screen.width * devicePiexlRation</code></pre>
+<p>区分好啥时候说的是设备的物理像素，啥时候说的是一般意义上的px对后面的理解非常重要！</p>
+<h3>DPI &amp; PPI</h3>
+<ul>
+<li><code>Dpi</code> 指 <em>Dots Per Inch</em> ;</li>
+<li><code>PPI</code>指 <em>Pixels Per Inch</em>。</li>
+</ul>
+<p>用于衡量设备的物理像素密度；dpi主要见于Google Android开发文档，<a href="http://developer.android.com/guide/practices/screens_support.html">Screen Support</a>这一章节。这篇文章主要是讲安卓开发，因此请不要被带跑，看关键的几个部分就好。</p>
+<p>在我看来，显示设备上的<code>Dots</code>和<code>pixels</code>实际上是一回事：这里的<code>px</code>指的实际上就是物理像素，而不是css文档里的那个相对单位px,和<code>Dots</code>的含义是一致的。</p>
+<p>计算方法便是用物理像素数除以尺寸；例如iPhone4s, 尺寸为对角线3.5英寸，分辨率960×640，那么对角线上大约有1152个物理像素，1152除3.5可得dpi约为329。</p>
+<p><a href="http://dpi.lv/">Lea Verou写的dpi计算工具</a></p>
+<h3>dip, dppx &amp; devicePixelRatio</h3>
+<p>按照正确的做法，以下三个值都是由浏览器决定，不能因为meta viewport设置改变的。（但坑爹浏览器总是存在的比如三星上的海豚。。）</p>
+<ul>
+<li><p><code>dip</code>: device-independent pixel, 设备独立像素。这一概念主要见于Android开发文档；
+安卓和WP的话使用 <code>screen.width/devicePixelRatio</code> 就可以得到dip数量；
+IOS上直接获取 <code>screen.width</code> 就是。</p>
+</li>
+<li><p><code>dppx</code> : device pixel / css pixel; 这个词其实我是在Lea的dpi计算工具里见到的。</p>
+<blockquote>
+<p>(dppx) for the amount of device pixels per CSS pixel </p>
+</blockquote>
+</li>
+<li><p><code>devicePiexlRatio</code> :webkit浏览器（包括opera）支持的一个window属性，在console里面打window.devicePiexlRatio就能看到啦。可参见PPK写的相关博文，<a href="http://www.quirksmode.org/blog/archives/2012/06/devicepixelrati.html">devicePixelRatio</a>及后续<a href="http://www.quirksmode.org/blog/archives/2012/07/more_about_devi.html">More about devicePixelRatio</a>; 国内的张鑫旭也写了很不错的分析： <a href="http://www.zhangxinxu.com/wordpress/2012/08/window-devicepixelratio/">设备像素比devicePixelRatio简单介绍</a></p>
+</li>
+</ul>
+<p>后面两个值dppx和devicePiexlRatio其实代表的是同一个数值；至于dip，俗称dp, 一般见于安卓开发的时候使用，个人认为其实就等同于前端这边使用的css概念里的那个相对单位px。</p>
+<h3>layout viewport &amp; visual viewport</h3>
+<p>关于两个viewport的具体指南，请移步PPK经典大作：<a href="http://www.quirksmode.org/mobile/viewports.html">A tale of two viewports </a>和<a href="http://www.quirksmode.org/mobile/viewports2.html">PART 2</a>. 该文只做概要。</p>
+<p>meta设置的取值分两类：<code>width</code>, <code>height</code> 和 <code>scale</code>：</p>
+<h4>width &amp; height</h4>
+<p>这一设置改变的是layout viewport的宽度。layout viewport的宽度便是我们的文档真正依托的布局宽度。</p>
+<p>对应 <code>documentElement.clientWidth</code> 。 </p>
+<blockquote>
+<p>注意！这里所说的html的宽度是外界限制定的，css不能控制，不是说你设meta里width为320，把body宽度设置成640，这个layout就变成640了。实际上还是320，然后滚动条出现啦！除非你还禁止了缩放，那连滚动条都没了。</p>
+</blockquote>
+<h3>scale（initial\max\min）</h3>
+<p>定义visual viewport初始的缩放比例。这是可以看到的那个小窗口，我们关心的是这个小窗口里可以看到多少像素。<strong>这个值改变不影响layout viewport！</strong>
+可以设置scale,允许用户缩放的话用户自己动手也可以改变：放大时可见的像素点减少；缩小时，可见的像素点增加；</p>
+<p>浏览器在初始载入页面的时候，先是猜想当前文档的宽度（即html元素的宽度，可使用 <code>documentElement.clientWidth</code> 获取到），如果meta设置了width, 那么就会以此为layout宽度，如果文档内有元素宽度超出，且meta定义允许用户缩放，那么就会有滚动条啦。换言之不允许缩放还超出了，那用户基本甭想看到超出去那块内容了。这一宽度即是layout viewport的宽度。</p>
+<p>而为了能让用户看到更多的内容呢，浏览器会根据layout viewport的宽度来调整缩放比率，也就是调整visual viewport的大小，如果meta设置里没有对此做任何规定， 那么layout viewport是多少这个就是多少；如果meta里设了 <code>initial-scale=1</code> , 那么视窗宽度就等于dp宽度，也就是经过设备自行缩放后的宽度。正像我们之前说的，一般就是320啦。</p>
+<p>举个栗子：
+meta里这么写： width=700, 那么layout宽度700，visual viewport宽度也会是700，刚好显示全部文档；</p>
+<p>meta要是改成width=700,initial-scale=1,layout依然是700，但visual viewport就变成了320！</p>
+<h3>Tips!</h3>
+<ul>
+<li>chrome dev tool模拟的时候直接无视meta, 完全按照物理像素来</li>
+<li><p>浏览器喜欢保存你上次的缩放比。。。所以测试非常具有混淆性；改url比较保险
+实际上有两层缩放：</p>
+</li>
+<li><p>iphone那个旋转到landscape后的bug，实际上就是在允许用户缩放的情况下，当页面从portrait旋转到landscape的时候，页面会自行放大。用户必须双敲两下才会还原。解决的方法一般就是在旋转时使用js修改meta，设置最大缩放比率为1：<code>maximum-scale=1</code> （参见<a href="http://webdesignerwall.com/tutorials/iphone-safari-viewport-scaling-bug">iPhone Safari Viewport Scaling Bug</a>）</p>
+</li>
+</ul>
+
+        </section>
+    </article>
+<!--     <div class="sidebar">
+    <h3>Contents</h3>
+    TypeError: Cannot read property 'length' of undefined
+</div> -->
+<div class="comments">
+    <div id="disqus_thread"></div>
+<script>
+	(function(){
+		window.disqus_shortname = 'chengmu1893';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://localhost:9778//techs/viewport_conceptions_notes.html';
+		window.disqus_identifier = 'techs-viewport-conceptions-notes';
+		window.disqus_title = 'Mobile上的viewport及各种概念澄清贴';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+ <!--        <div id="disqus_thread" class="comments"></div>
+    <script type="text/javascript">
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> -->
+    
+    <footer class="footer">
+	<span class="logo">Chengmu1893.</span> • 
+	Created &amp; Maintained by <a href="./">Chengmu</a> using <a href="http://docpad.org">DocPad</a> • 
+	<a href="mailto:lin.zhu.ak@gmail.com">Email Chengmu</a> • 
+	<a href="http://weibo.com/chengmuak">@chengmu</a> • 
+	<a href="https://github.com/chengmu">GitHub</a>
+</footer>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41695213-1', 'chengmu.github.io');
+  ga('send', 'pageview');
+
+</script>
+<script>
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
+</script>
+
+
+    <!-- jQuery -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="/vendor/jquery.js"><\/script>')</script>
+
+    <!-- DocPad Scripts + Our Own -->
+    <script >var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();</script><script defer="defer"  src="/vendor/log.js"></script><script defer="defer"  src="/vendor/modernizr.js"></script><script defer="defer"  src="/scripts/script.js"></script>
+</body>
+</html>

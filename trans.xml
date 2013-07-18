@@ -3,765 +3,13 @@
 	<title>Chengmu1893</title>
 	<link href="http://localhost:9778//atom.xml" rel="self"/>
 	<link href="http://localhost:9778/"/>
-	<updated>2013-07-03T01:49:53.182Z</updated>
+	<updated>2013-07-18T07:54:34.863Z</updated>
 	<id>http://localhost:9778/</id>
 	<author>
 		<name></name>
 		<email></email>
 	</author>
 
-	
-		<entry>
-			<title>来来去去/There and Back Again </title>
-			<link href="http://localhost:9778///trans/[Sherlock]来来回回.html"/>
-			<updated>2013-07-03T01:37:19.000Z</updated>
-			<id>http://localhost:9778///trans/[Sherlock]来来回回.html</id>
-			<content type="html">&lt;!DOCTYPE html&gt;
-&lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot;&gt; &lt;!--&lt;![endif]--&gt;
-&lt;head&gt;
-    &lt;!-- Standard Meta --&gt;
-	&lt;meta charset=&quot;utf-8&quot; /&gt;
-	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
-	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
-	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;来来去去/There and Back Again  | Chengmu1893&lt;/title&gt;
-	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
-	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
-	&lt;!--[if lte IE 8]&gt;
-	&lt;script type=&quot;text/javascript&quot;&gt; 
-		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
-	&lt;/script&gt; 
-	&lt;![endif]--&gt; 
-
-	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
-	
-	&lt;!-- DocPad Styles + Our Own --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
-
-	&lt;!-- Icons --&gt;
-	&lt;!-- Favicon --&gt;
-	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
-	&lt;!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57x57-precomposed.png&quot; /&gt;
-	&lt;!-- For first- and second-generation iPad: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72x72-precomposed.png&quot; /&gt;
-	&lt;!-- For iPhone with high-resolution Retina display: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114x114-precomposed.png&quot; /&gt;
-	&lt;!-- For third-generation iPad with high-resolution Retina display: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144x144-precomposed.png&quot; /&gt;
-&lt;/head&gt;
-&lt;body class=&quot;colume-layout&quot;&gt;
-    &lt;!--[if lt IE 7]&gt;
-    &lt;p class=&quot;chromeframe&quot;&gt;You are using an outdated browser. &lt;a href=&quot;http://browsehappy.com/&quot;&gt;Upgrade your browser today&lt;/a&gt; or &lt;a href=&quot;http://www.google.com/chromeframe/?redirect=true&quot;&gt;install Google Chrome Frame&lt;/a&gt; to better experience this site.&lt;/p&gt;
-&lt;![endif]--&gt;
-&lt;header class=&quot;header&quot;&gt;
-	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
-    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
-	&lt;div class=&quot;contacts-icon&quot;&gt;
-		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
-	&lt;/div&gt;
-	&lt;aside class=&quot;aside main-menu&quot;&gt;
-		&lt;ul&gt;
-			
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
-		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me 
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
-		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home 
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
-		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/techs.html&quot;&gt;
-		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;active&quot; href=&quot;/trans.html&quot;&gt;
-		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-		&lt;/ul&gt;
-	&lt;/aside&gt;
-	
-&lt;/header&gt;
-    &lt;article class=&quot;article-content&quot;&gt;
-        &lt;div class=&quot;article-nav&quot;&gt;
-            
-                
-                    
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    
-                         &lt;a href=&quot;/trans/[Sherlock]破碎与骨.html&quot; class=&quot;next&quot;&gt;
-                            破碎与骨 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
-                         &lt;/a&gt;
-                    
-
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-        &lt;/div&gt;
-        &lt;header class=&quot;hd&quot;&gt;
-            &lt;h1&gt;来来去去/There and Back Again &lt;/h1&gt;
-            &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
-        &lt;/header&gt;
-        &lt;section&gt;
-            &lt;blockquote&gt;
-&lt;p&gt;Title: 来来去去/There and Back Again &lt;/p&gt;
-&lt;p&gt;Author：eleanor k.&lt;/p&gt;
-&lt;p&gt;Fandom: Sherlock (2010)&lt;/p&gt;
-&lt;p&gt;Rating: PG&lt;/p&gt;
-&lt;p&gt;Pairing: 无配对，但也可以说是John/Sherlock.大家随意。。 &lt;/p&gt;
-&lt;p&gt;源地址：&lt;a href=&quot;http://emungere.livejournal.com/243835.html&quot;&gt;http://emungere.livejournal.com/243835.html&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;有声书下载地址：&lt;a href=&quot;http://audiofic.jinjurly.com/there-and-back-again&quot;&gt;http://audiofic.jinjurly.com/there-and-back-again&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;朗读者Fayjay。大力推荐！我就是因为听到了有声书才去找的文。。。&lt;/p&gt;
-&lt;p&gt;授权：我一亢奋就给翻完了所以我现在去要授权。。不行再撤ＯＪＺ。大家请多多去给原作者留言啊&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;John在水下睁开眼，看向Sherlock，那人也正看着他。Sherlock在水下的肤色带上了池水苍白的青绿色调，气泡从他略张的唇间上浮。他紧紧地揽住John的肩膀。在他们之上以及他们身边，世界轰鸣作响。&lt;/p&gt;
-&lt;p&gt;最终，他们浮出了水面，许多东西正燃烧着。Moriaty消失不见了。没有人对他们开枪。&lt;/p&gt;
-&lt;p&gt;“这边。”sherlock说，咳嗽着，抓住了他的手。&lt;/p&gt;
-&lt;p&gt;烟雾缭绕着他们。John拉起衬衫捂住嘴，但是他的急速的喘息迅速转为了剧烈的咳嗽，导致他吸入了更多的烟。&lt;/p&gt;
-&lt;p&gt;然后他们离开了。&lt;/p&gt;
-&lt;p&gt;那个晚上星光璀璨而冰冷。那些星星要比以往城市里霓虹灯之上的时候更为清晰。远远地他可以听到警车的警鸣阵阵。&lt;/p&gt;
-&lt;p&gt;sherlock抓住他的胳膊。“我想回家，John。”&lt;/p&gt;
-&lt;p&gt;“Lestrade会在这——”&lt;/p&gt;
-&lt;p&gt;“我是说现在，我们可以明天再跟他说。”&lt;/p&gt;
-&lt;p&gt;John眨眨眼，定神，转头面对他。“你还好么？”&lt;/p&gt;
-&lt;p&gt;“我好的很。我们可以走了么？这边，过来。”&lt;/p&gt;
-&lt;p&gt;Sherlock引领着他走下两条胡同，到了大路上。他们拦下的第一辆出租车不愿他们进去，他们浑身湿漉漉。但是第二辆颇为同情的载上了他们。Sherlock收到了Lestrade 的连环短信，但他甚至不愿意点开看。John倒是看了自己的，并回复让Lestrade安心，说没发生什么可怕的事，他们俩都不需要去医院。&lt;/p&gt;
-&lt;p&gt;他想回家。我们回家了。&lt;/p&gt;
-&lt;p&gt;他发出去这条后等了好长一段时间收到回复。Lestrade回答：&lt;/p&gt;
-&lt;p&gt;好，明天过来做陈述。&lt;/p&gt;
-&lt;p&gt;“看，没什么大不了的，你根本不需要回复。”Sherlock说。他直直的看着前面，手放在膝上，身体紧绷的就好像下一秒他就要从车里冲出去。&lt;/p&gt;
-&lt;p&gt;“他在担心我们。他只是想确定我们俩都好。”&lt;/p&gt;
-&lt;p&gt;Sherlock看起来有些惊吓。“哦。”&lt;/p&gt;
-&lt;p&gt;回到公寓，Sherlock把John拉进厨房，打开冰箱。“我买到牛奶了。”他说。&lt;/p&gt;
-&lt;p&gt;他的确是买了。正放在那个人头旁边。&lt;/p&gt;
-&lt;p&gt;“这……不错。”John说。&lt;/p&gt;
-&lt;p&gt;他们对视。&lt;/p&gt;
-&lt;p&gt;Sherlock迅速转身大步走回了他自己的房间。&lt;/p&gt;
-&lt;p&gt;John关上冰箱门，叹气，回到自己房间，自己的床，自己的干燥的睡衣。&lt;/p&gt;
-&lt;p&gt;一段时间后他醒来。在黑暗中，有人在他房间里。在他完全清醒过来前他已经摸到手枪，对准了那个站在门道里的人影&lt;/p&gt;
-&lt;p&gt;“不准动。”他说。声音平稳的几乎吓到他自己。&lt;/p&gt;
-&lt;p&gt;“是我。”Sherlock说。&lt;/p&gt;
-&lt;p&gt;John放下枪，一头重重的倒在枕头上。“Sherlock。天杀的。干嘛啊？”&lt;/p&gt;
-&lt;p&gt;“没什么，”Sherlock回答的迅速。他转身要走。&lt;/p&gt;
-&lt;p&gt;“等等。”&lt;/p&gt;
-&lt;p&gt;Sherlock等着，手扶在门框上，手指颤抖。他们都在等待着，实际上。等待中安静弥漫。John倒是打了个大哈欠。&lt;/p&gt;
-&lt;p&gt;“过来？”John说。&lt;/p&gt;
-&lt;p&gt;Sherlock站到他床边。他已经衣着齐备，半刻后John意识到那衣服实际上正是不久前他把自己泡进水里时穿的那一身。&lt;/p&gt;
-&lt;p&gt;“哦，看在上帝的份上。”John说。他掀开被子，把自己扯起身来。他的左耳似有水般嗡鸣，全身上下无处不痛，从脚尖到发梢。他开始解Sherlock衬衫的扣子。&lt;/p&gt;
-&lt;p&gt;“现在要扒我的衣服了么？在一间黑漆漆的屋子。越来越认命了啊。”&lt;/p&gt;
-&lt;p&gt;“那我们就别告诉任何人，”John提议，顺手把衬衫从他身上扯掉。“现在轮到你了，我不会替你扒裤子的。”&lt;/p&gt;
-&lt;p&gt;Sherlock脱掉了它们，然后飞速而缺乏优雅的坐到了床边。床垫之嘎作响。他踢掉鞋子，褪掉袜子。&lt;/p&gt;
-&lt;p&gt;“睡衣。”John说，给了他几件，Sherlock的短裤掉地上的时候他转过身去。&lt;/p&gt;
-&lt;p&gt;睡衣太短。Sherlock看下他苍白裸露的脚踝，呼口气，几乎算得上是笑声了。&lt;/p&gt;
-&lt;p&gt;“床。”John说，“睡吧。”&lt;/p&gt;
-&lt;p&gt;Sherlock只是看着他。John叹气。说真的，他就料到会这样的。这就是为什么Sherlock站在这穿着他的睡衣而不是在他自己的房间跟他自己大小合适的睡衣在一起。John回到床上，盖住被子。&lt;/p&gt;
-&lt;p&gt;Sherlock退了一步，对着John的眼看来看去，视线扫来扫去。&lt;/p&gt;
-&lt;p&gt;“这没陷阱。”John说。&lt;/p&gt;
-&lt;p&gt;“我知道，”Sherlock大叫。“你不是那样的。”&lt;/p&gt;
-&lt;p&gt;John不是这世界唯一的咨询侦探，但他也能看出来这未被说出的结论：在Sherlock的生活里曾经有过很多那样的人。&lt;/p&gt;
-&lt;p&gt;“上来，”他说。语气粗暴，伴着他喉头那些无用的怒气。&lt;/p&gt;
-&lt;p&gt;“我不——我从来没跟人一张床过。我不。我不习惯——”&lt;/p&gt;
-&lt;p&gt;“凡事都有第一次。”John说。带着相当显然相当不对的雀跃感。&lt;/p&gt;
-&lt;p&gt;“John，我是说——”&lt;/p&gt;
-&lt;p&gt;“少说多做！”&lt;/p&gt;
-&lt;p&gt;“你是打算在我投降前一直扔这些陈词滥调给我么！”&lt;/p&gt;
-&lt;p&gt;“还是说你比较想听我说哦我太担心你现在的精神状况以至于不能让你离开我的视线？”&lt;/p&gt;
-&lt;p&gt;“……不要。”&lt;/p&gt;
-&lt;p&gt;“这就对了嘛。现在，闭嘴，上床。”&lt;/p&gt;
-&lt;p&gt;Sherlock上来了，一次一条腿，就好像他这是在把自己往冷水里扔。&lt;/p&gt;
-&lt;p&gt;“你听说过低体温症么？”John说。&lt;/p&gt;
-&lt;p&gt;“我有条毯子，在公寓里够温暖的了。除非我睡着了不然没什么危险的。”&lt;/p&gt;
-&lt;p&gt;John轻轻拍拍他的肩。Sherlock就像一座石像般坚硬而冰冷。&lt;/p&gt;
-&lt;p&gt;“我们到家了。”John说。“我们是安全的。”&lt;/p&gt;
-&lt;p&gt;“这完全是扯谎，John，你知道的。”&lt;/p&gt;
-&lt;p&gt;“莫非我说他现在很有可能跑远了正在计划怎么干掉我们会比较安慰人么？”&lt;/p&gt;
-&lt;p&gt;“不。”&lt;/p&gt;
-&lt;p&gt;“这就对了。所以，我们在家里了。我们相对安全了。我没身负炸弹，我还有武器。”他斟酌了下下一句话会得到多少嘲讽，但还是说出来了。“要是他想碰你，就得先过我这关。可以了么？”&lt;/p&gt;
-&lt;p&gt;“我知道。”Sherlock说。非常安静地说。“这——这就是问题所在。”&lt;/p&gt;
-&lt;p&gt;John闭上眼睛，吞咽了下。“是啊，”他说。&lt;/p&gt;
-&lt;p&gt;也许他并不是Moriaty打算烧毁的那颗心脏。也许Sherlock的妈妈还在世，或者会是Mycroft，或者——哦，什么几乎不太可能存在的前女友——或前男友。但是在那时他看到了Sherlock的表情，看到了他颤抖的手势，听到他结结巴巴说出的感激，还有那释然的笑声。他听起来非常非常人性化。实际上，就如同他现在听起来的一样。&lt;/p&gt;
-&lt;p&gt;Sherlock猛地转身，嘴唇压上了John的。牙齿碰的太多，压力也太大，John被惊得不轻，这一切导致此举比Sherlock原意打算的带上了多的多的疼痛。当Sherlock拉起身，他脸上表情惊魂不定，就像他随时要跑一样。&lt;/p&gt;
-&lt;p&gt;John一把抓住他肩。“你为什么要那么做！”他低声问。&lt;/p&gt;
-&lt;p&gt;“我不知道！”&lt;/p&gt;
-&lt;p&gt;他们对视。John颇为不安稳。Sherlock不知道什么事这情况本身几乎是史无前例。Sherlock不知道自己的动机简直令人恐慌。&lt;/p&gt;
-&lt;p&gt;“我糟糕的低估了他，”Sherlock说。“我竟然这么蠢，而他——你——”他急促的停下不言，看着John就像John知道答案一样。而他真的，真的，不知道。&lt;/p&gt;
-&lt;p&gt;“没什么。”John轻柔地说。“没什么。不要后悔没法改变的事，”他试着展露了个苍白的微笑。Sherlock没有回应他，但是他最终还是平稳了呼吸，不再直视着John导致John的脑袋里一团糟糕。&lt;/p&gt;
-&lt;p&gt;“那应该就是那样的么？”&lt;/p&gt;
-&lt;p&gt;“什么？”&lt;/p&gt;
-&lt;p&gt;“吻。”&lt;/p&gt;
-&lt;p&gt;悲剧的是，这恐怕是目前比较安全比较安稳的一个话题了。&lt;/p&gt;
-&lt;p&gt;“不，一般……一般会缓慢的多。还有另一个人的回应参与。”&lt;/p&gt;
-&lt;p&gt;“哦，你能做给我看么？我不知道还有这点。”&lt;/p&gt;
-&lt;p&gt;“Sherlock。说真的你有被我吸引么？”&lt;/p&gt;
-&lt;p&gt;“我不认为。”他停顿。“我怎么可能知道？我不知道那是什么感觉。”&lt;/p&gt;
-&lt;p&gt;“这里面成分很多的，在……亲吻里。而且，……很多别的”&lt;/p&gt;
-&lt;p&gt;“这是个必须要求么？不然就不行？”&lt;/p&gt;
-&lt;p&gt;John眨眼。“我是没不带别的含义干过。”&lt;/p&gt;
-&lt;p&gt;“为什么不呢？”&lt;/p&gt;
-&lt;p&gt;他们刚好又撞上了在Sherlock跟真实世界之间的另一堵墙。为什么你不能亲吻一些你并未被吸引的人呢？他得怎么解释这个问题啊？&lt;/p&gt;
-&lt;p&gt;他不解释了，他决定。&lt;/p&gt;
-&lt;p&gt;“好吧，所以我们俩都可以从中学习下。然后我们就睡觉。好吧？”&lt;/p&gt;
-&lt;p&gt;Sherlock点头，几乎称得上温顺。&lt;/p&gt;
-&lt;p&gt;John手合上Sherlock的脸。Sherlock睁着眼直到最后一秒——或者更可能是John闭上眼后他还在睁着眼。Sherlock的嘴唇干燥静止，直到Sherlock决定也在其中扮演个角色。他学的倒是快，随你怎么说吧。&lt;/p&gt;
-&lt;p&gt;当他们分开，John舔着自己嘴唇，他想：这几乎都算不上这过去的24个小时里他为Sherlock做的最诡异的事。即使你不把那个冰箱里的人头也算上。&lt;/p&gt;
-&lt;p&gt;John尽他自己最好的本事了。但是缺乏激情，这就像是唇和舌尖的探索实验而更不像是个吻。&lt;/p&gt;
-&lt;p&gt;“好么？”他说，躺会床上。&lt;/p&gt;
-&lt;p&gt;Sherlock的确是闭上眼了。他皱眉，困惑而任性的样子，就像是一件案子突然发生了他从未预料的转折。&lt;/p&gt;
-&lt;p&gt;John微笑。“感觉不好？”&lt;/p&gt;
-&lt;p&gt;Sherlock睁开眼。“不，感觉……很好？有点……”他的脸纠结成一幅更为复杂的表情。“诡异，有点诡异，但是很好，我没有碰过别人，John。不——像这样。”他挥着手势，最后抚上自己的唇。&lt;/p&gt;
-&lt;p&gt;“你可以的，”John认真的说，“要是你喜欢。”&lt;/p&gt;
-&lt;p&gt;Sherlock躺倒,脑袋枕在枕头往下的地方，那种紧张感已经消失无影，他的整个身体倾靠在John身上。他的头发垂入他眼帘，他的发梢黝黑弯曲散在他胸前。“也许只是因为是你，”他喃喃道，“而不是亲吻。”&lt;/p&gt;
-&lt;p&gt;John 咬住下唇好不失笑出声。“我想这也不错。”&lt;/p&gt;
-&lt;p&gt;John拉起被子盖住他们俩。在被子下面，Sherlock瘦削的膝盖推撞着他大腿前面。这是他们唯一碰触的点。&lt;/p&gt;
-&lt;p&gt;一个想法来源不明的钻进了John脑海里，或许是来自于这两个月看着Sherlock预料之中的被人责骂，换言之是大多数情况下他自找的：我会杀了任何想要伤害他的人。&lt;/p&gt;
-&lt;p&gt;Moriaty自然是第一人选，还有Donovan跟Anderson作为后备。显然这想法很蠢。Moriaty显然是个下决心毁了Sherlock的犯罪头子，而Donovan跟Anderson只是……不怎么让人舒服的人。他们的言论多半是让John不爽而不太像是会让Sherlock不爽。&lt;/p&gt;
-&lt;p&gt;大多数人，实际上，会从Sherlock身边跳开。只有John情愿深陷其中。这令找出谁是最容易伤害他的人一事轻而易举。&lt;/p&gt;
-&lt;p&gt;这真不是什么入睡时安稳人心的想法。&lt;/p&gt;
-&lt;p&gt;FIN&lt;/p&gt;
-
-        &lt;/section&gt;
-    &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    TypeError: Cannot read property 'length' of undefined
-&lt;/div&gt; --&gt;
-&lt;div class=&quot;comments&quot;&gt;
-    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-	(function(){
-		window.disqus_shortname = 'chengmu1893';
-		window.disqus_developer = '1';
-		window.disqus_url = 'http://localhost:9778//trans/[Sherlock]来来回回.html';
-		window.disqus_identifier = 'trans-Sherlock-----';
-		window.disqus_title = '来来去去/There and Back Again ';
-		if ( window.DISQUS ) {
-			return DISQUS.reset({
-				reload: true,
-				config: function () {
-					this.page.identifier = window.disqus_identifier;
-					this.page.url = window.disqus_url;
-					this.page.title = window.disqus_title;
-				}
-			});
-		}
-		else {
-		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-		}
-	})();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;
- &lt;!--        &lt;div id=&quot;disqus_thread&quot; class=&quot;comments&quot;&gt;&lt;/div&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    &lt;/script&gt;
-    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
-    
-    &lt;footer class=&quot;footer&quot;&gt;
-	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; • 
-	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; • 
-	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; • 
-	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; • 
-	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
-&lt;/footer&gt;
-&lt;script&gt;
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-41695213-1', 'chengmu.github.io');
-  ga('send', 'pageview');
-
-&lt;/script&gt;
-&lt;script&gt;
-var links = document.links;
-
-for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-       links[i].target = '_blank';
-   } 
-}
-&lt;/script&gt;
-
-
-    &lt;!-- jQuery --&gt;
-    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
-
-    &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'googleAnalytics-id']);
-_gaq.push(['_trackPageview']);
-(function(){
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content>
-		</entry>
-	
-		<entry>
-			<title>破碎与骨</title>
-			<link href="http://localhost:9778///trans/[Sherlock]破碎与骨.html"/>
-			<updated>2013-07-03T01:37:19.000Z</updated>
-			<id>http://localhost:9778///trans/[Sherlock]破碎与骨.html</id>
-			<content type="html">&lt;!DOCTYPE html&gt;
-&lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot;&gt; &lt;!--&lt;![endif]--&gt;
-&lt;head&gt;
-    &lt;!-- Standard Meta --&gt;
-	&lt;meta charset=&quot;utf-8&quot; /&gt;
-	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
-	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
-	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;破碎与骨 | Chengmu1893&lt;/title&gt;
-	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
-	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
-	&lt;!--[if lte IE 8]&gt;
-	&lt;script type=&quot;text/javascript&quot;&gt; 
-		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
-	&lt;/script&gt; 
-	&lt;![endif]--&gt; 
-
-	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
-	
-	&lt;!-- DocPad Styles + Our Own --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
-
-	&lt;!-- Icons --&gt;
-	&lt;!-- Favicon --&gt;
-	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
-	&lt;!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57x57-precomposed.png&quot; /&gt;
-	&lt;!-- For first- and second-generation iPad: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72x72-precomposed.png&quot; /&gt;
-	&lt;!-- For iPhone with high-resolution Retina display: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114x114-precomposed.png&quot; /&gt;
-	&lt;!-- For third-generation iPad with high-resolution Retina display: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144x144-precomposed.png&quot; /&gt;
-&lt;/head&gt;
-&lt;body class=&quot;colume-layout&quot;&gt;
-    &lt;!--[if lt IE 7]&gt;
-    &lt;p class=&quot;chromeframe&quot;&gt;You are using an outdated browser. &lt;a href=&quot;http://browsehappy.com/&quot;&gt;Upgrade your browser today&lt;/a&gt; or &lt;a href=&quot;http://www.google.com/chromeframe/?redirect=true&quot;&gt;install Google Chrome Frame&lt;/a&gt; to better experience this site.&lt;/p&gt;
-&lt;![endif]--&gt;
-&lt;header class=&quot;header&quot;&gt;
-	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
-    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
-	&lt;div class=&quot;contacts-icon&quot;&gt;
-		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
-	&lt;/div&gt;
-	&lt;aside class=&quot;aside main-menu&quot;&gt;
-		&lt;ul&gt;
-			
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
-		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me 
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
-		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home 
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
-		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/techs.html&quot;&gt;
-		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;active&quot; href=&quot;/trans.html&quot;&gt;
-		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-		&lt;/ul&gt;
-	&lt;/aside&gt;
-	
-&lt;/header&gt;
-    &lt;article class=&quot;article-content&quot;&gt;
-        &lt;div class=&quot;article-nav&quot;&gt;
-            
-                
-            
-                
-                    
-                        &lt;a href=&quot;/trans/[Sherlock]来来回回.html&quot; class=&quot;previous&quot;&gt;
-                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            来来去去/There and Back Again 
-                        &lt;/a&gt;
-                    
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    
-                         &lt;a href=&quot;/trans/[Sherlock]自那之后.html&quot; class=&quot;next&quot;&gt;
-                            自那之后 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
-                         &lt;/a&gt;
-                    
-
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-        &lt;/div&gt;
-        &lt;header class=&quot;hd&quot;&gt;
-            &lt;h1&gt;破碎与骨&lt;/h1&gt;
-            &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
-        &lt;/header&gt;
-        &lt;section&gt;
-            &lt;p&gt;[Sherlock][SJ]破碎与骨&lt;/p&gt;
-&lt;p&gt;破碎与骨
-标题: Rags and Bones
-原文：&lt;a href=&quot;http://emungere.livejournal.com/249891.html&quot;&gt;http://emungere.livejournal.com/249891.html&lt;/a&gt;
-分级: PG-13 
-配对：有点john/sherlock
-警告：（John没死，真的。）John被杀了（反正是被杀了），Sherlock并没有拿他的头骨替换掉书架上那个。不，正相反，他留下了John的手骨。并将其做成手指可弯曲的样式。然后放在自己兜里，外出的时候，要是他觉得孤独，或者苏格兰场太烦人，或者他就是怀念下，他就可以握住John的手。。。&lt;/p&gt;
-&lt;p&gt;译者警告：我只是想翻译！被吓到雷到毛骨悚然到可不可以不要骂我OJZ。。。我最近过的好悲催。。。&lt;/p&gt;
-&lt;p&gt;关于John的手的问题的争议见文末。。。&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;自泳池爆炸之后，Sherlock多等了整整两个周。一个周零三天花在了医院里，拖着身体上下床，在走道里徘徊，抓着输液架维持平衡。四天时间独自呆在221B,竭力说服自己放弃这个想法。这真的不是个好想法。&lt;/p&gt;
-&lt;p&gt;他去见Molly，脸上是玻璃碎片划伤的痕迹，缝线在脖子上清晰可见，还有左臂上，背后两处，右腿三处。所有的伤都拉扯过，所有的伤都在发痒。他想撕裂它们。他从大腿上最严重的那处开始下手过，想用指甲挖断所有缝线，但是他听得到脑海里John的轻唤。Sherlock，规矩点。&lt;/p&gt;
-&lt;p&gt;见到他的时候Molly踉跄几步靠在身后最近的桌子上。随即又往前迈了几步。伸出手，随即落下。&lt;/p&gt;
-&lt;p&gt;“你知道我为什么在这。”Sherlock说。&lt;/p&gt;
-&lt;p&gt;“那是证物。”Molly说。&lt;/p&gt;
-&lt;p&gt;他站在那，看着她，没法说点赞美，或者微笑，或者任何人性化的事情。他可以以上她为筹码，但是她不会真的想要的，他自己也毫无任何情感了。他可以为之杀了她，但这是最后的选择。&lt;/p&gt;
-&lt;p&gt;“我需要，”他说，“他们已经做完所有检查了。只会留在这被冷冻保存，再也不会有人多看一眼。”&lt;/p&gt;
-&lt;p&gt;“你觉得——”她吞咽下。“你还能再做别的测试么？你还能发现更多的信息么？”&lt;/p&gt;
-&lt;p&gt;“是。”他立即回答。这是个谎言。而她愿意相信。这是最好的谎言。&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;当他煮干净那些骨头，整整一天里公寓里闻起来像是煮汤的味道。
-*&lt;/p&gt;
-&lt;p&gt;腕骨，掌骨，近端指骨，中级指骨，远端指骨。&lt;/p&gt;
-&lt;p&gt;手舟骨，月状骨，三角骨，豆状骨，大多角骨，小多角骨，钩骨。 &lt;/p&gt;
-&lt;p&gt;Sherlock最后需要做张表格好详尽记录。这只手如此地不像John，但是有如此多的碎片。这一点很像John，很像他。&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;两天后Lestrade拜访。Sherlock把那只手放在自己口袋里，用铁丝拼好，干净，光洁，平滑的那只手。温暖。来自Sherlock身体的热量，但一样的美好。&lt;/p&gt;
-&lt;p&gt;Lestrade坐在沙发上。两人都在看着John的椅子。&lt;/p&gt;
-&lt;p&gt;“我很抱歉，”Lestrade最终开口。&lt;/p&gt;
-&lt;p&gt;“要是我真的觉得是你的错的话，你觉得你现在还会活着么？”&lt;/p&gt;
-&lt;p&gt;“不。听我说。该死的。想喝茶么？”&lt;/p&gt;
-&lt;p&gt;Sherlock其实只想做一件事，但他还是点头了。Lestrade试着和善起来，John——John。John。Sherlock触摸着兜里的骨头（温暖，光洁，平滑），聆听着Lestrade泡茶的声响。一点也不像John泡茶的声响。要是Sherlock知道John的枪在哪里，他会为这声音一点也不像John而朝Lestrade开枪。但是John的枪也不在了，一如John的其他。&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;Hudson太太开始跟他一起吃晚饭。&lt;/p&gt;
-&lt;p&gt;“一天里你至少得好好吃一顿饭，亲爱的。”&lt;/p&gt;
-&lt;p&gt;这当然很蠢。他吃饭。甚至是办案子的时候，他也每日都进餐。没案子的时候，他跟正常人一样进餐。好吧。他吃饭。一天两顿或三顿。即使是John还没来之前。有时他会忘掉，但并不经常。&lt;/p&gt;
-&lt;p&gt;奇怪的是他的衣服都变宽松了，这可真是一点都说不通。&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;Sally不再叫他怪胎了，当别人这么干的时候去瞪别人了。这真是能发生的最为倒胃口的事。&lt;/p&gt;
-&lt;p&gt;“你为我感到难过。”他说。&lt;/p&gt;
-&lt;p&gt;她开始抽烟了，他没理由拒绝她递过来的烟。这些日子里，呼吸简直是无聊的不能再糟糕了。&lt;/p&gt;
-&lt;p&gt;“我很喜欢他的，”她说。&lt;/p&gt;
-&lt;p&gt;“是啊。我也是。”&lt;/p&gt;
-&lt;p&gt;她看着他，脸上线条角度排列组合就像象形文字，就像古希腊的线形文字A，就像John的手写体，糟糕的很。他伸手摸索口袋，握住John的手，平滑光洁温暖。他不能给她看。她要是知道了会很糟糕的，任何人知道了都不好。虽然他已经记不起为什么这不好。&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;John的心理师跟她丈夫有矛盾。他们就此的谈话成熟一如负责的成年人，但这正是问题所在；他们不如对彼此怒吼咆哮，熬过这一段，而不是无休止的交谈。Sherlock如此的告诉她。&lt;/p&gt;
-&lt;p&gt;“我们不是在这讨论我的，”她说，表情冷静。&lt;/p&gt;
-&lt;p&gt;Sherlock根本就不是来谈话的。&lt;/p&gt;
-&lt;p&gt;“也许你可以跟我讲讲是怎么发生的？”她说。&lt;/p&gt;
-&lt;p&gt;“哦，我杀了他。显而易见。”&lt;/p&gt;
-&lt;p&gt;他是来见见这间屋子，这个女人的，收集事实与细节。John在这花了许多时间，Sherlock觉得这里应该留下了他的什么。最终，这不过是个房间，她不过是另一个笨蛋，显而易见的是她根本对John一无所知。&lt;/p&gt;
-&lt;p&gt;“你……杀了他？”&lt;/p&gt;
-&lt;p&gt;“我留他在身边。本质是一样的。注定会发生。不可避免。即使再来一次我也会这么做。我不是个无私的男人。”&lt;/p&gt;
-&lt;p&gt;“你觉得愧疚么？”&lt;/p&gt;
-&lt;p&gt;愧疚无关紧要，一切尘埃落定。他早已预见。&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;John的母亲来收拾他的遗物。Sherlock不放她进来。&lt;/p&gt;
-&lt;p&gt;Harry跑来对他吼。在门道里吼了十分钟，直到他说，“我在楼上有很多伏特加。”&lt;/p&gt;
-&lt;p&gt;那伏特加本来是为了实验的（不同种类的酒精对人体的长期影响，遗憾的是没能在那具泡在威士忌酒桶里的尸体浮出来前想到这个实验），但是眼下也算是实验。他们喝醉了，醉的离谱。Sherlock醉的已经很夸张了，但Harry的更令人难以置信。他们中没人能站起来了。Harry干脆就没去找洗手间就近在烟灰缸里解决问题了。Sherlock觉得真真是在特定情境下令人印象深刻的绝技。&lt;/p&gt;
-&lt;p&gt;“我想念他，”harry说，“我好想念他，我根本不喜欢他的。这太可怕了，不喜欢你自己的兄弟。”&lt;/p&gt;
-&lt;p&gt;“我厌恶我哥，”Sherlock说，第一次他不确定这是不是真的。&lt;/p&gt;
-&lt;p&gt;“John比你哥哥好多了。”&lt;/p&gt;
-&lt;p&gt;这倒是真的。&lt;/p&gt;
-&lt;p&gt;Harry趴他身上哭，鼻涕眼泪蹭在他衬衫上，就那么沉沉睡去，两人躺在地板上，靠着点沙发。早上的时候，Harry吻了他。Sherlock从没有在自己嘴里感觉到任何别人的舌头，他也不喜欢这感觉。&lt;/p&gt;
-&lt;p&gt;“你喜欢女人，”他说。这么说出来一见明显的要死的事很蠢，但是他头痛欲裂，显然体内没多少水分了，技术上来讲他基本快死了。他能感觉到。&lt;/p&gt;
-&lt;p&gt;“这不管喜欢的事。我不喜欢你。我讨厌你。你让他不一样了。”&lt;/p&gt;
-&lt;p&gt;我让他快乐。Sherlock想。但他允许她一再亲吻自己，允许她抓自己的腿，如果不是Hudson太太端着一盘子松饼咖啡粥推门进来的话大概还会允许她干别的。Harry跑到浴室去吐了。然后三人一起用餐。&lt;/p&gt;
-&lt;p&gt;Sherlock握住John的手，想，我确实让他快乐了，不是么？他觉得差不多。&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;Mycroft门也没敲径直进来了。&lt;/p&gt;
-&lt;p&gt;“你体重长点了，我想。”两人同时开口说同样的话。&lt;/p&gt;
-&lt;p&gt;Sherlock是在努力增肥。买新衣服很麻烦。&lt;/p&gt;
-&lt;p&gt;Mycroft挨着他在沙发上坐下，胳膊环住他。&lt;/p&gt;
-&lt;p&gt;Sherlock一言不发，什么都没做。Mycroft呆了一下午。&lt;/p&gt;
-&lt;p&gt;当窗外光亮暗下来，沉淀，Sherlock说，“我留着他的手。”&lt;/p&gt;
-&lt;p&gt;“我知道，”Mycroft说。“我想他的妈妈应该会想要他的勋章，你不觉得么？”&lt;/p&gt;
-&lt;p&gt;“好吧，”Sherlock拖长了嗓音，“但是就那些。别的都不给。”&lt;/p&gt;
-&lt;p&gt;日落。光线暗淡。&lt;/p&gt;
-&lt;p&gt;“你在迷失自己。”Mycroft说。&lt;/p&gt;
-&lt;p&gt;“我身上没什么值得留住的。”&lt;/p&gt;
-&lt;p&gt;Mycroft的手握紧他的右肩。“我不觉得。”&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;他破案，比以往更容易。他不需要跟任何人谈论案子，甚至也不对头骨说。有时他在自己脑海里跟John说，但次数不多。他有点怕哪天John回应他。&lt;/p&gt;
-&lt;p&gt;John的骨头变得越来越平滑光洁，由于浸渍Sherlock手里出的脂油变得黯淡了些。&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;某天，他回家，看到John坐在沙发里。&lt;/p&gt;
-&lt;p&gt;他立即转身离开。John追他到街上。&lt;/p&gt;
-&lt;p&gt;“Sherlock！等等！”&lt;/p&gt;
-&lt;p&gt;跑过两个地铁站，一直到了最近的公园，Sherlock，等等，等等，直到Sherlock最终在一丛冬日里废弃般的蔷薇花丛边对自己生气的大叫，“我已经够疯的了！”&lt;/p&gt;
-&lt;p&gt;他想自己为什么还要抗拒呢。疯狂说不定是个解脱。但是这不真实。John的手是真实的。要是要他在自己脑海里幻想的John跟这片真实的John的一部分之间做出选择的话，他会选择这部分真实。&lt;/p&gt;
-&lt;p&gt;他坐在长椅上。John坐到他身边。&lt;/p&gt;
-&lt;p&gt;“我很抱歉，”John说。“我必须走。这是最好的机会。”还有些关于Moriaty跟最后对决什么的，还有那人大脑现在保存在一个罐子里要是Sherlock想要的话。&lt;/p&gt;
-&lt;p&gt;“你在我口袋里。”Sherlock说。&lt;/p&gt;
-&lt;p&gt;John嗤之以鼻。“我可没那么矮小。”&lt;/p&gt;
-&lt;p&gt;Sherlock拿给他看。&lt;/p&gt;
-&lt;p&gt;长时间的沉默。一种喧嚣怒吼的沉默，Sherlock渐渐可以听得到，在听到什么已经不再重要的时候。重要的是看到什么。他看到John伸出一只手，并不存在于那里的手，去摸那只手骨。他看到John大睁的双眼，那只他的确还有的那只手的指尖正碰触着那骨头，那手骨，真实毫不虚假的，属于Sherlock的骨头。&lt;/p&gt;
-&lt;p&gt;他脑海里的John会更是完整的，不会这么苍白，不会有染成愚蠢的土棕色的头发，会穿着一身乏味的套头毛衣，而不会是西装。&lt;/p&gt;
-&lt;p&gt;“我有很多的清汤。”Sherlock说。“在冰箱里。我没有吃，我保证。但我也不能扔掉。”&lt;/p&gt;
-&lt;p&gt;“汤。”&lt;/p&gt;
-&lt;p&gt;“我得把骨头煮干净。”&lt;/p&gt;
-&lt;p&gt;“啊，John汤。”&lt;/p&gt;
-&lt;p&gt;Sherlock点头。&lt;/p&gt;
-&lt;p&gt;“我想我很高兴你没吃。”&lt;/p&gt;
-&lt;p&gt;Sherlock再次点头。这就对了。他知道John不会喜欢他那么干的。他做对了。&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;他们扔掉了那汤。这没关系，他有完全的John了。&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;他晚饭后把John拉进自己屋里。他们俩都脱掉了鞋子，John跟他一起躺在床上。他紧紧地尽可能的贴近John，他说，“我想我差点跟你姐姐上床。”&lt;/p&gt;
-&lt;p&gt;John紧紧搂他，胳膊越过他后背，环在他肩头，手在他颈后，那只不再存在的手摩擦着他的脊柱。“我也很高兴你没那么干。”&lt;/p&gt;
-&lt;p&gt;几个月里第一次，Sherlock知道他要做什么了。他在有意说最糟糕的事。他总是对着John说着最糟糕的事。&lt;/p&gt;
-&lt;p&gt;“我想砍断你的脚，这样你就不会离开了。我不会这样做的。”他追加一句，不满意措辞跟里面的情绪。这不是他想干的。他想确保John会留在这，给一些确凿而不能撼动的证据。他不知道怎样索取，不知道怎样得到。&lt;/p&gt;
-&lt;p&gt;John亲吻他的太阳穴。“你生气了。”&lt;/p&gt;
-&lt;p&gt;他分腿好卡住John的，然后屈膝缠绕住John。&lt;/p&gt;
-&lt;p&gt;“你离开了。”&lt;/p&gt;
-&lt;p&gt;“是你在离开我。”John温柔的说。“你满脑子都是他。你眼里几乎都没有我了。你两个月没有从Lestrade那接任何案子。然后就是爆炸，并且……我在一家私人医院醒来。Mycroft，当然啦。”&lt;/p&gt;
-&lt;p&gt;Sherlock点头。当然是Mycroft。他现在不关心那个。有可能以后他也不会关心别的了，除了这，除了John，除了更多的John，而且诡异的是他有点后悔扔掉了肉汤。&lt;/p&gt;
-&lt;p&gt;他的手摸进John的衬衣。不够。他解开John的衬衣，摊开，耳朵贴压在John的胸口，John的心脏上，他能听到自己咬牙的声音。不够。他脱掉了自己的衬衣，这样更近一些。&lt;/p&gt;
-&lt;p&gt;&amp;quot;Sherlock?&amp;quot; &lt;/p&gt;
-&lt;p&gt;John听起来有些犹豫，嗓音有些喘。很有可能跟裸体跟性有关，John喜欢女人，但是Harry说过，这跟喜欢没关系，至少不是那种喜欢。&lt;/p&gt;
-&lt;p&gt;“我不在乎性。”Sherlock说。“这取决于你。你要我就给，不要也无所谓。但是我非常想赤裸着跟你睡在一切，余生的每一晚每一夜。”&lt;/p&gt;
-&lt;p&gt;John的手摸着Sherlock的头发，手指温柔的摩擦着他的头皮。Sherlock可以感受到他在思索，于是保持安静。&lt;/p&gt;
-&lt;p&gt;“赤裸，好吧，”John缓缓说。“睡觉，也可以，很好。睡觉此刻听起来是个极好的注意。至于后半辈子那回事我们稍后再说，等你再稍稍……”&lt;/p&gt;
-&lt;p&gt;他顿住了，紧随而来一阵安静。&lt;/p&gt;
-&lt;p&gt;“神智清醒的时候？”Sherlock帮他补完。&lt;/p&gt;
-&lt;p&gt;“是，我想我是在找那个词。谢谢。”&lt;/p&gt;
-&lt;p&gt;*&lt;/p&gt;
-&lt;p&gt;脱光衣服要温暖得多。Sherlock可以感觉到John松软的阴茎贴在自己大腿上，阴毛蹭着自己，那肋下柔软的肌肤，John在他颈窝的呼气。他之前从未允许过的亲密接触。他的手摸着John肩上凌乱的伤疤，抬起john的胳膊，好让他的不再存在的那只手搁置在两人之间，抵在Sherlock的胸前。&lt;/p&gt;
-&lt;p&gt;John的手依旧在床下，他们刚刚脱衣服的时候他把它搁到了那。他举起它贴近John手腕端，并没有碰触。非常合适，这说明John是真的。这是真的么？不。做最坏打算。在最坏的基础上思考。&lt;/p&gt;
-&lt;p&gt;他想过要短信Mycroft，但是要是他的脑子能够让他相信自己真的在跟活生生的John赤身裸体的躺在一起，那么它大概也可以让他看到根本不存在的短信。或者幻觉里的电话。或者，哦，什么都可能。要是Mycroft否定了John的事，Sherlock是在幻觉，有的是办法证明他是已经疯掉了。&lt;/p&gt;
-&lt;p&gt;没有证明否定句的办法。Sherlock余下五个小时都在考虑如何做到，一直盯着他身边真实存在的被褥。当然，他知道自己早就该精神失常了，大概会沦落在疗养所里，安然地活在静脉注射与镇定剂中。谁都可能。&lt;/p&gt;
-&lt;p&gt;三点的时候，他摇摇John的肩，直到John斜眼看他，拿拳头砸他胸口，睡意朦胧的嘟囔。&lt;/p&gt;
-&lt;p&gt;“我要怎么才能知道你是真的？”Sherlock说。&lt;/p&gt;
-&lt;p&gt;John眨了好半天眼，然后脸扭曲成极其暴怒的皱眉。“哦天哪，你个娘们。闭嘴睡觉。”&lt;/p&gt;
-&lt;p&gt;John更加紧密的搂着他，把Sherlock的脑袋摁到自己胸前。他急促地扯到了Sherlock的头发，随机又抚摸着它们。&lt;/p&gt;
-&lt;p&gt;Sherlock觉得晕眩。他在John胸前闷闷地笑起来，笑的如此大动作，他的嘴张大牙齿咬到了John的锁骨。Sherlock脑袋里可没有那部分能称他自己为小娘们。再怎么逼真的幻觉也想象不出来。&lt;/p&gt;
-&lt;p&gt;最终，John的手不再动了，他轻柔谦逊的鼾声回响在房里。Sherlock把那只手骨放到一边，让自己的手指与john粗糙温暖而鲜活的手指交缠。&lt;/p&gt;
-&lt;p&gt;END&lt;/p&gt;
-&lt;p&gt;关于手的解释：&lt;/p&gt;
-&lt;p&gt;我问过了作者，关于那只手，然后作者的回复如下~&lt;/p&gt;
-&lt;p&gt;emungere May 8th, 2011&lt;/p&gt;
-&lt;p&gt;@akakano2 
-Hi! Don’t worry, it’s okay. I would’ve said yes anyway. I’m very happy you liked the story, and in response to your question – John really did lose his hand in the explosion, yes. Thanks for the the feedback, and for the translation. :)&lt;/p&gt;
-&lt;p&gt;所以说，手是木有了的。==。。。。&lt;/p&gt;
-&lt;p&gt;但我觉得作者的文其实是很开放那种思路，所以大家各自看有各自的感觉，看得开心就好啊XD我只是觉得这文很好想介绍过来而已~&lt;/p&gt;
-
-        &lt;/section&gt;
-    &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    TypeError: Cannot read property 'length' of undefined
-&lt;/div&gt; --&gt;
-&lt;div class=&quot;comments&quot;&gt;
-    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-	(function(){
-		window.disqus_shortname = 'chengmu1893';
-		window.disqus_developer = '1';
-		window.disqus_url = 'http://localhost:9778//trans/[Sherlock]破碎与骨.html';
-		window.disqus_identifier = 'trans-Sherlock-----';
-		window.disqus_title = '破碎与骨';
-		if ( window.DISQUS ) {
-			return DISQUS.reset({
-				reload: true,
-				config: function () {
-					this.page.identifier = window.disqus_identifier;
-					this.page.url = window.disqus_url;
-					this.page.title = window.disqus_title;
-				}
-			});
-		}
-		else {
-		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-		}
-	})();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;
- &lt;!--        &lt;div id=&quot;disqus_thread&quot; class=&quot;comments&quot;&gt;&lt;/div&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    &lt;/script&gt;
-    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
-    
-    &lt;footer class=&quot;footer&quot;&gt;
-	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; • 
-	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; • 
-	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; • 
-	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; • 
-	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
-&lt;/footer&gt;
-&lt;script&gt;
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-41695213-1', 'chengmu.github.io');
-  ga('send', 'pageview');
-
-&lt;/script&gt;
-&lt;script&gt;
-var links = document.links;
-
-for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-       links[i].target = '_blank';
-   } 
-}
-&lt;/script&gt;
-
-
-    &lt;!-- jQuery --&gt;
-    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
-
-    &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'googleAnalytics-id']);
-_gaq.push(['_trackPageview']);
-(function(){
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content>
-		</entry>
 	
 		<entry>
 			<title>自那之后</title>
@@ -877,15 +125,6 @@ _gaq.push(['_trackPageview']);
         &lt;div class=&quot;article-nav&quot;&gt;
             
                 
-            
-                
-            
-                
-                    
-                        &lt;a href=&quot;/trans/[Sherlock]破碎与骨.html&quot; class=&quot;previous&quot;&gt;
-                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            破碎与骨
-                        &lt;/a&gt;
                     
                     &lt;ins&gt;|&lt;/ins&gt;
                     &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
@@ -893,11 +132,15 @@ _gaq.push(['_trackPageview']);
                     &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
                     &lt;ins&gt;|&lt;/ins&gt;
                     
-                         &lt;a href=&quot;/trans/[Sherlock]边线与方砖.html&quot; class=&quot;next&quot;&gt;
-                            边线与方砖 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;a href=&quot;/trans/[Sherlock]来来回回.html&quot; class=&quot;next&quot;&gt;
+                            来来去去/There and Back Again  &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
                          &lt;/a&gt;
                     
 
+                
+            
+                
+            
                 
             
                 
@@ -1185,10 +428,10 @@ _gaq.push(['_trackPageview']);
 		</entry>
 	
 		<entry>
-			<title>边线与方砖</title>
-			<link href="http://localhost:9778///trans/[Sherlock]边线与方砖.html"/>
+			<title>来来去去/There and Back Again </title>
+			<link href="http://localhost:9778///trans/[Sherlock]来来回回.html"/>
 			<updated>2013-07-03T01:37:19.000Z</updated>
-			<id>http://localhost:9778///trans/[Sherlock]边线与方砖.html</id>
+			<id>http://localhost:9778///trans/[Sherlock]来来回回.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
 &lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
@@ -1200,7 +443,7 @@ _gaq.push(['_trackPageview']);
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
 	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;边线与方砖 | Chengmu1893&lt;/title&gt;
+	&lt;title&gt;来来去去/There and Back Again  | Chengmu1893&lt;/title&gt;
 	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
 	&lt;!--[if lte IE 8]&gt;
@@ -1300,10 +543,6 @@ _gaq.push(['_trackPageview']);
                 
             
                 
-            
-                
-            
-                
                     
                         &lt;a href=&quot;/trans/[Sherlock]自那之后.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
@@ -1330,130 +569,132 @@ _gaq.push(['_trackPageview']);
                 
             
                 
+            
+                
+            
+                
         &lt;/div&gt;
         &lt;header class=&quot;hd&quot;&gt;
-            &lt;h1&gt;边线与方砖&lt;/h1&gt;
+            &lt;h1&gt;来来去去/There and Back Again &lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
             &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
         &lt;/header&gt;
         &lt;section&gt;
-            &lt;p&gt;Lines and Squares&lt;/p&gt;
-&lt;p&gt;边线与方砖
-Title: Lines and Squares
-Author：[font=&amp;amp;quot]Eleanor K.
-Fandom: Sherlock (2010)
-Rating: PG
-Pairing: Mycroft/Lestrade (前奏，非已有关系。。。。。)
-源地址：&lt;a href=&quot;http://emungere.livejournal.com/244299.html#cutid1&quot;&gt;http://emungere.livejournal.com/244299.html#cutid1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;注：文中引用小熊维尼的同名诗歌，&lt;/p&gt;
-&lt;p&gt;LINESAND SQUARES/边线与方砖&lt;/p&gt;
-&lt;p&gt;Whenever I walk in a London street,.
-每当我走在伦敦街头，
-I&amp;#39;m ever so careful to watch my feet;
-我总是仔细观察自己的步伐
-And I keep in the squares,
-我只走在方块里
-And the masses of bears,
-一群熊聚集
-Who wait at the corners all ready to eat
-他们等在街角伺机而动
-The sillies who tread on the lines of thestreet,
-他们会撕裂踩在边线上的傻瓜
-Go back to their lairs,
-再回到他们的巢穴
-And I say to them, &amp;quot;Bears,
-我对他们说，熊们，
-just look how i&amp;#39;m walking in all thesquares!&amp;quot;
-就在那看着我安然的行走于方块内吧！&lt;/p&gt;
-&lt;p&gt;And the little bears growl to each other,&amp;quot;He&amp;#39;s mine,
-那些熊互相嘶吼“他将是我的，
-As soon as he&amp;#39;s silly and steps on aline.&amp;quot;
-一旦他傻傻的踩上边线。”
-And some of the bigger bears try to pretend
-一些更大的熊假装
-That they came round the corner to look fora friend;
-假装他们在街角等待朋友
-And they try to pretend that nobody cares
-当他们试着若无其事
-Whether you walk on the lines or squares.
-无论你是走在边线还是方格之上
-But only the sillies believe the talk;
-但是只有傻瓜才会相信这些话
-It&amp;#39;s ever so portant how you walk.
-你如何行走非常重要
-And it&amp;#39;s ever so jolly to call out,&amp;quot;Bears,
-去呼喊出来也一样有趣“熊们，
-just watch me walking in all thesquares!&amp;quot;
-就在那看着我安然的行走于方块之内吧！”&lt;/p&gt;
-&lt;p&gt;黑色车子滑进仓库，安然停下。入口此刻已经遍觅不着，仔细安装的灯光系统确保来者只会看到Mycroft打算让他们看到的景象。那男人钻出了车子，然而，完全没扭头四顾。&lt;/p&gt;
-&lt;p&gt;Mycroft给了他把椅子，他拒绝了。这很有趣；没有人曾经坐下过。Mycroft是可以撤掉它，但有些事像礼数什么的还是要保留为好。&lt;/p&gt;
-&lt;p&gt;他们寒暄了些许，或者该说是Mycroft提供各种寒暄，总是受到锐利的盯着看作为回应。没有人拥有像这名警察一般的眼神。这渲染的他几乎深不可测。Lestrade警官带着数量硕大远超他自己年纪的防备，当然跟Mycroft的比起来是算不上什么。&lt;/p&gt;
-&lt;p&gt;“在你最近的几个案子里，你曾经获得过一位Sherlock holmes先生的帮助。”Mycroft说，最终切入正题。Lestrade刚刚从一个恶性案子里退身，正在他回家的路上，肾上腺素，血糖，咖啡因水平此刻都急速下落。这令他脆弱多了，但是Mycroft不想跟反应迟钝的打交道，因此不能拖太久。一线之隔。&lt;/p&gt;
-&lt;p&gt;“Sherlock Holmes经常帮警方做研究。”Lestrade说。面无表情。&lt;/p&gt;
-&lt;p&gt;“你指的是他对可可因的喜好。我相信他已经戒掉了，你在其中功不可没，警官。人们总是会好奇你怎么会接手这么棘手的事的。”&lt;/p&gt;
-&lt;p&gt;“人们总是有没完没了的好奇心的。”Lestrade说，伸手摸索夹克口袋。他点着了一支烟，叼在嘴角。&lt;/p&gt;
-&lt;p&gt;“我们美好城市的警官们并没有得到相应的报酬，我相信。也许我可以在资金方——”&lt;/p&gt;
-&lt;p&gt;“没门。”Lestrade说。&lt;/p&gt;
-&lt;p&gt;“喔唷，很粗鲁哦，警官。你都还没——”&lt;/p&gt;
-&lt;p&gt;“目前我知道的有，”lestrade开口，Mycroft放纵他打断自己，颇为好奇。“你是政府的人。你浑身都是那味道，从鞋子到发胶。所以你要么就会通过官方渠道要么是你不能。要是你可以的话呢，挺好。我相信你能挖出来一切你想知道的关于Sherlock Holmes的事。要是你不能的话呢，你也不可能通过些把戏跟贿赂从我这弄到消息。”&lt;/p&gt;
-&lt;p&gt;“这可会是相当丰厚的一份贿赂。”&lt;/p&gt;
-&lt;p&gt;“不用了谢谢。”&lt;/p&gt;
-&lt;p&gt;他甚至都没考虑它，一秒都没。这种盲目跟不加思索的品行还真是少见。但这个男人不蠢。大多数人在这种情况下会猜测是有组织的犯罪行径，而不会是政府。（一样的玩意，Sherlock估计会这么说的。）&lt;/p&gt;
-&lt;p&gt;Mycroft微笑。“那么也许，我可以请你继续看好他。这可真的有些令人羞耻呢，若是有什么事发生……在他身上。”&lt;/p&gt;
-&lt;p&gt;Lestrade眼神锐利沉默，下巴线条紧绷。并不是威胁，显然Lestrade知道那是没用的。&lt;/p&gt;
-&lt;p&gt;“你为什么找他？”Lestrade说，嗓音竭力镇定，也几乎差点就真的完全镇定了。&lt;/p&gt;
-&lt;p&gt;“现在么？只是为了消息罢了。我确实很担心他。你得理解。他是一个得仔细关照的人。”&lt;/p&gt;
-&lt;p&gt;Lestrade曾说过同样的话，是在一种很安全的距离下，仅仅是如呼吸般轻巧不被人知晓的喃喃。Mycroft在警官家里装了无数的窃听器和监控设备（还有办公室；在Lestrade进入视线前他就有自己在苏格兰场的眼线），Sherlock最近的……住所。&lt;/p&gt;
-&lt;p&gt;两个月前，Lestrade把他从一个废弃的仓库里拖出来，以所有权的事逮了他，后被说服让他参与协助了一系列杀人案件，再后来允许Sherlock在他的沙发上睡了几乎有一个周，直到他们大叫大吵了一场。Lestrade负责大叫；Sherlock，一如既往的，负责吵。似乎是跟浴缸里的八目鳗有关的事，Mycroft记得。&lt;/p&gt;
-&lt;p&gt;他们之间有些什么。Mycroft怀疑是一个约定，跟Sherlock从监狱里被安然释放有关。不准再用可可因。把自己整干净。对自己生活好点。Mycroft没有那场对话的录音，这让他不爽。Sherlock从来不告诉他什么事。但Lestrade也许会，要是Mycroft手段得当的话。目前为止他就是个途径。&lt;/p&gt;
-&lt;p&gt;“你是他哥。”lestrade说。带着突然的确定无疑。&lt;/p&gt;
-&lt;p&gt;Mycroft眨眼，缓缓地，因为表示出惊讶是礼貌的一种要求。这个男人值的以礼相待。Mycroft，实际上，是吃惊了。Lestrade的确凿无疑显然不是建立在像Sherlock那样的推理逻辑上的。纯属直觉，神经末梢之间的一撮电火花。&lt;/p&gt;
-&lt;p&gt;“你是从何推出如此神奇的理论的？”Mycroft说。&lt;/p&gt;
-&lt;p&gt;Lestrade哼了哼。“你刚才说话。你听起来就像他。还有你的眼里。”&lt;/p&gt;
-&lt;p&gt;“我经常被告知我们之间有着颇为微弱的家族相似性。”妈妈总是说Sherlock得到了所有的外表Mycroft得了所有的才干。她关于才干的部分错了。&lt;/p&gt;
-&lt;p&gt;“不是你看起来如何。是你如何看待事物。”&lt;/p&gt;
-&lt;p&gt;这一点立即升到了监控等级二级上。他捕捉到了助理的眼神，她点点头。他只跟了他一个月，已经拥有了一种坦白说来令人震惊的能力，足以理解他的每一个想法和预料到他的每一个念头。&lt;/p&gt;
-&lt;p&gt;“这就是为什么你要把我弄到这集中营里来是么？”Lestrade说，每一个词透出厌倦疲惫和烟草味。&lt;/p&gt;
-&lt;p&gt;“你该回家了警官。我会颇为关注您的事业的。”&lt;/p&gt;
-&lt;p&gt;Lestrade扔下烟头，脚后跟死命的碾了碾。“有一次他说过你的事，他透露了些。”&lt;/p&gt;
-&lt;p&gt;“哦？”Mycroft发现自己顿时兴趣十足。&lt;/p&gt;
-&lt;p&gt;“他说他生病的时候你从学校溜回来给他读书。”Lestrade扔给他半个硬邦邦的笑容。“[font=&amp;amp;quot]A. A. 麦尼。（注：小熊维尼之父。。。）。我还以为会是什么莎士比亚奥维德呢，像你们俩这样的。”&lt;/p&gt;
-&lt;p&gt;“他喜欢关于熊的诗歌。”Mycroft说。多少有些漫不经心，这恐怕是他十年来最没带有防备谨慎的言论。&lt;/p&gt;
-&lt;p&gt;Lestrade重重的笑出声来。“就在那看着我安然的行走于方块内吧”&lt;/p&gt;
-&lt;p&gt;Mycroft挑起一侧眼眉。“我是那剧情里面的熊么？”&lt;/p&gt;
-&lt;p&gt;“不是我的，你像是Sherlock剧情里的熊。”他伴着最后一句话打了个手势。“为什么呢？”&lt;/p&gt;
-&lt;p&gt;“你最好还是去问Sherlock。恐怕我没法告诉你。”&lt;/p&gt;
-&lt;p&gt;“不能，还是不想？”&lt;/p&gt;
-&lt;p&gt;“这无关紧要，警官。两个选项都以你得不到你想要的答案告终。”&lt;/p&gt;
-&lt;p&gt;“要是哪天我要是能从姓Holmes的人那里得到个干脆利落的答案的话，我说不准会头顶个花冠。那么我可以走了，是吧？还是说你还想再多给点威胁？”&lt;/p&gt;
-&lt;p&gt;“没威胁了，这样的。你倒是明早会接到你上司电话。我只是想确定你明白自己立场。是时候选择阵营了，警官。”&lt;/p&gt;
-&lt;p&gt;“已经选完了。”Lestrade说，转身大步走向车子。&lt;/p&gt;
-&lt;p&gt;“哦？”&lt;/p&gt;
-&lt;p&gt;“我自己的。”&lt;/p&gt;
-&lt;p&gt;有意思。Mycroft想。他旋开声控，但是Lestrade回去的路上一言不发。更有趣的是Lestrade回家后打的电话。&lt;/p&gt;
-&lt;p&gt;“干嘛，Lestrade？”Sherlock说。“我正做一个非常重要的实验关系到——”&lt;/p&gt;
-&lt;p&gt;“你有哥哥么？”&lt;/p&gt;
-&lt;p&gt;Sherlock沉默了会，“你知道我有。我以前跟你提过。”&lt;/p&gt;
-&lt;p&gt;“我不确定你记得不。你穷困潦倒的。高个，脱发，大鼻子？有点对你言听计从？”&lt;/p&gt;
-&lt;p&gt;“公务员装扮，老是带着把伞。”Sherlock提醒。&lt;/p&gt;
-&lt;p&gt;“就是他。”&lt;/p&gt;
-&lt;p&gt;“他把你从街上绑走了么？”&lt;/p&gt;
-&lt;p&gt;“常有，是么？”&lt;/p&gt;
-&lt;p&gt;“倒不是非常多，时常会有。你最好不要反抗他。他是个危险的男人。”&lt;/p&gt;
-&lt;p&gt;“是啊，我了解了。他就是这么跟我谈的。他告诉我选个阵营。”&lt;/p&gt;
-&lt;p&gt;“你也跟他说了，当然了，你是站在你自己那的。我也跟他说过一样的话，但是不用担心。我相信他处理你的事还好点，相比较而言你还没那么重要。我得挂了，那血液开始沸腾了。哦。顺便说句，他有可能正在监听你电话。”&lt;/p&gt;
-&lt;p&gt;Sherlock挂了。&lt;/p&gt;
-&lt;p&gt;Lestrade没。Mycroft听着他的呼吸，都能听到他在好奇是不是真的有人在听。总是有人在听的。最后。Lestrade一言不发。没有威胁，没有无用的“要是你在那的话……”这确凿了mycroft将他的监视等级设为二级的决心。&lt;/p&gt;
-&lt;p&gt;那时，车子已经回来了，他钻了进去。&lt;/p&gt;
-&lt;p&gt;“说到监控，先生，红色级别还是绿色？”助理问。&lt;/p&gt;
-&lt;p&gt;朋友或敌人？其实那并不是有很大区别。“黄色等级，并立即开始着手现状评估。背景，童年经历，已知的人际关系，人际关系的关系，所有所有诸如此类的一切。”&lt;/p&gt;
-&lt;p&gt;“Yes, sir.”&lt;/p&gt;
-&lt;p&gt;Fin.&lt;/p&gt;
-&lt;p&gt;…………………………………………………………
-PS：喜欢听小熊诗歌的卷福。。。哦真萌。。&lt;/p&gt;
-&lt;p&gt;这一篇属于意外，我翻完了HW去看文发现居然还有这个。纯属意译有bug会很正常尽管指出。而且我觉得里面关于熊的隐喻很不错。兄弟俩啊。还有果然我老觉得童话才是最可怕的东西里面总是会带着不知不觉的血腥跟杀气各种最为黑暗的感觉。。。。。&lt;/p&gt;
-&lt;p&gt;关键是。这里面流氓毫不弱势的警官RG萌到我了。。。哦RG你说选了自己的时候该有多么气势啊嗷捂胸口。。。。。TVT~~&lt;/p&gt;
-&lt;p&gt;最后我最囧的是我完全找不到维尼诗歌的翻译。。。所以被迫还翻了那首诗。。。第一次翻这种东西OJZ大家见谅。&lt;/p&gt;
+            &lt;blockquote&gt;
+&lt;p&gt;Title: 来来去去/There and Back Again &lt;/p&gt;
+&lt;p&gt;Author：eleanor k.&lt;/p&gt;
+&lt;p&gt;Fandom: Sherlock (2010)&lt;/p&gt;
+&lt;p&gt;Rating: PG&lt;/p&gt;
+&lt;p&gt;Pairing: 无配对，但也可以说是John/Sherlock.大家随意。。 &lt;/p&gt;
+&lt;p&gt;源地址：&lt;a href=&quot;http://emungere.livejournal.com/243835.html&quot;&gt;http://emungere.livejournal.com/243835.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;有声书下载地址：&lt;a href=&quot;http://audiofic.jinjurly.com/there-and-back-again&quot;&gt;http://audiofic.jinjurly.com/there-and-back-again&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;朗读者Fayjay。大力推荐！我就是因为听到了有声书才去找的文。。。&lt;/p&gt;
+&lt;p&gt;授权：我一亢奋就给翻完了所以我现在去要授权。。不行再撤ＯＪＺ。大家请多多去给原作者留言啊&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;John在水下睁开眼，看向Sherlock，那人也正看着他。Sherlock在水下的肤色带上了池水苍白的青绿色调，气泡从他略张的唇间上浮。他紧紧地揽住John的肩膀。在他们之上以及他们身边，世界轰鸣作响。&lt;/p&gt;
+&lt;p&gt;最终，他们浮出了水面，许多东西正燃烧着。Moriaty消失不见了。没有人对他们开枪。&lt;/p&gt;
+&lt;p&gt;“这边。”sherlock说，咳嗽着，抓住了他的手。&lt;/p&gt;
+&lt;p&gt;烟雾缭绕着他们。John拉起衬衫捂住嘴，但是他的急速的喘息迅速转为了剧烈的咳嗽，导致他吸入了更多的烟。&lt;/p&gt;
+&lt;p&gt;然后他们离开了。&lt;/p&gt;
+&lt;p&gt;那个晚上星光璀璨而冰冷。那些星星要比以往城市里霓虹灯之上的时候更为清晰。远远地他可以听到警车的警鸣阵阵。&lt;/p&gt;
+&lt;p&gt;sherlock抓住他的胳膊。“我想回家，John。”&lt;/p&gt;
+&lt;p&gt;“Lestrade会在这——”&lt;/p&gt;
+&lt;p&gt;“我是说现在，我们可以明天再跟他说。”&lt;/p&gt;
+&lt;p&gt;John眨眨眼，定神，转头面对他。“你还好么？”&lt;/p&gt;
+&lt;p&gt;“我好的很。我们可以走了么？这边，过来。”&lt;/p&gt;
+&lt;p&gt;Sherlock引领着他走下两条胡同，到了大路上。他们拦下的第一辆出租车不愿他们进去，他们浑身湿漉漉。但是第二辆颇为同情的载上了他们。Sherlock收到了Lestrade 的连环短信，但他甚至不愿意点开看。John倒是看了自己的，并回复让Lestrade安心，说没发生什么可怕的事，他们俩都不需要去医院。&lt;/p&gt;
+&lt;p&gt;他想回家。我们回家了。&lt;/p&gt;
+&lt;p&gt;他发出去这条后等了好长一段时间收到回复。Lestrade回答：&lt;/p&gt;
+&lt;p&gt;好，明天过来做陈述。&lt;/p&gt;
+&lt;p&gt;“看，没什么大不了的，你根本不需要回复。”Sherlock说。他直直的看着前面，手放在膝上，身体紧绷的就好像下一秒他就要从车里冲出去。&lt;/p&gt;
+&lt;p&gt;“他在担心我们。他只是想确定我们俩都好。”&lt;/p&gt;
+&lt;p&gt;Sherlock看起来有些惊吓。“哦。”&lt;/p&gt;
+&lt;p&gt;回到公寓，Sherlock把John拉进厨房，打开冰箱。“我买到牛奶了。”他说。&lt;/p&gt;
+&lt;p&gt;他的确是买了。正放在那个人头旁边。&lt;/p&gt;
+&lt;p&gt;“这……不错。”John说。&lt;/p&gt;
+&lt;p&gt;他们对视。&lt;/p&gt;
+&lt;p&gt;Sherlock迅速转身大步走回了他自己的房间。&lt;/p&gt;
+&lt;p&gt;John关上冰箱门，叹气，回到自己房间，自己的床，自己的干燥的睡衣。&lt;/p&gt;
+&lt;p&gt;一段时间后他醒来。在黑暗中，有人在他房间里。在他完全清醒过来前他已经摸到手枪，对准了那个站在门道里的人影&lt;/p&gt;
+&lt;p&gt;“不准动。”他说。声音平稳的几乎吓到他自己。&lt;/p&gt;
+&lt;p&gt;“是我。”Sherlock说。&lt;/p&gt;
+&lt;p&gt;John放下枪，一头重重的倒在枕头上。“Sherlock。天杀的。干嘛啊？”&lt;/p&gt;
+&lt;p&gt;“没什么，”Sherlock回答的迅速。他转身要走。&lt;/p&gt;
+&lt;p&gt;“等等。”&lt;/p&gt;
+&lt;p&gt;Sherlock等着，手扶在门框上，手指颤抖。他们都在等待着，实际上。等待中安静弥漫。John倒是打了个大哈欠。&lt;/p&gt;
+&lt;p&gt;“过来？”John说。&lt;/p&gt;
+&lt;p&gt;Sherlock站到他床边。他已经衣着齐备，半刻后John意识到那衣服实际上正是不久前他把自己泡进水里时穿的那一身。&lt;/p&gt;
+&lt;p&gt;“哦，看在上帝的份上。”John说。他掀开被子，把自己扯起身来。他的左耳似有水般嗡鸣，全身上下无处不痛，从脚尖到发梢。他开始解Sherlock衬衫的扣子。&lt;/p&gt;
+&lt;p&gt;“现在要扒我的衣服了么？在一间黑漆漆的屋子。越来越认命了啊。”&lt;/p&gt;
+&lt;p&gt;“那我们就别告诉任何人，”John提议，顺手把衬衫从他身上扯掉。“现在轮到你了，我不会替你扒裤子的。”&lt;/p&gt;
+&lt;p&gt;Sherlock脱掉了它们，然后飞速而缺乏优雅的坐到了床边。床垫之嘎作响。他踢掉鞋子，褪掉袜子。&lt;/p&gt;
+&lt;p&gt;“睡衣。”John说，给了他几件，Sherlock的短裤掉地上的时候他转过身去。&lt;/p&gt;
+&lt;p&gt;睡衣太短。Sherlock看下他苍白裸露的脚踝，呼口气，几乎算得上是笑声了。&lt;/p&gt;
+&lt;p&gt;“床。”John说，“睡吧。”&lt;/p&gt;
+&lt;p&gt;Sherlock只是看着他。John叹气。说真的，他就料到会这样的。这就是为什么Sherlock站在这穿着他的睡衣而不是在他自己的房间跟他自己大小合适的睡衣在一起。John回到床上，盖住被子。&lt;/p&gt;
+&lt;p&gt;Sherlock退了一步，对着John的眼看来看去，视线扫来扫去。&lt;/p&gt;
+&lt;p&gt;“这没陷阱。”John说。&lt;/p&gt;
+&lt;p&gt;“我知道，”Sherlock大叫。“你不是那样的。”&lt;/p&gt;
+&lt;p&gt;John不是这世界唯一的咨询侦探，但他也能看出来这未被说出的结论：在Sherlock的生活里曾经有过很多那样的人。&lt;/p&gt;
+&lt;p&gt;“上来，”他说。语气粗暴，伴着他喉头那些无用的怒气。&lt;/p&gt;
+&lt;p&gt;“我不——我从来没跟人一张床过。我不。我不习惯——”&lt;/p&gt;
+&lt;p&gt;“凡事都有第一次。”John说。带着相当显然相当不对的雀跃感。&lt;/p&gt;
+&lt;p&gt;“John，我是说——”&lt;/p&gt;
+&lt;p&gt;“少说多做！”&lt;/p&gt;
+&lt;p&gt;“你是打算在我投降前一直扔这些陈词滥调给我么！”&lt;/p&gt;
+&lt;p&gt;“还是说你比较想听我说哦我太担心你现在的精神状况以至于不能让你离开我的视线？”&lt;/p&gt;
+&lt;p&gt;“……不要。”&lt;/p&gt;
+&lt;p&gt;“这就对了嘛。现在，闭嘴，上床。”&lt;/p&gt;
+&lt;p&gt;Sherlock上来了，一次一条腿，就好像他这是在把自己往冷水里扔。&lt;/p&gt;
+&lt;p&gt;“你听说过低体温症么？”John说。&lt;/p&gt;
+&lt;p&gt;“我有条毯子，在公寓里够温暖的了。除非我睡着了不然没什么危险的。”&lt;/p&gt;
+&lt;p&gt;John轻轻拍拍他的肩。Sherlock就像一座石像般坚硬而冰冷。&lt;/p&gt;
+&lt;p&gt;“我们到家了。”John说。“我们是安全的。”&lt;/p&gt;
+&lt;p&gt;“这完全是扯谎，John，你知道的。”&lt;/p&gt;
+&lt;p&gt;“莫非我说他现在很有可能跑远了正在计划怎么干掉我们会比较安慰人么？”&lt;/p&gt;
+&lt;p&gt;“不。”&lt;/p&gt;
+&lt;p&gt;“这就对了。所以，我们在家里了。我们相对安全了。我没身负炸弹，我还有武器。”他斟酌了下下一句话会得到多少嘲讽，但还是说出来了。“要是他想碰你，就得先过我这关。可以了么？”&lt;/p&gt;
+&lt;p&gt;“我知道。”Sherlock说。非常安静地说。“这——这就是问题所在。”&lt;/p&gt;
+&lt;p&gt;John闭上眼睛，吞咽了下。“是啊，”他说。&lt;/p&gt;
+&lt;p&gt;也许他并不是Moriaty打算烧毁的那颗心脏。也许Sherlock的妈妈还在世，或者会是Mycroft，或者——哦，什么几乎不太可能存在的前女友——或前男友。但是在那时他看到了Sherlock的表情，看到了他颤抖的手势，听到他结结巴巴说出的感激，还有那释然的笑声。他听起来非常非常人性化。实际上，就如同他现在听起来的一样。&lt;/p&gt;
+&lt;p&gt;Sherlock猛地转身，嘴唇压上了John的。牙齿碰的太多，压力也太大，John被惊得不轻，这一切导致此举比Sherlock原意打算的带上了多的多的疼痛。当Sherlock拉起身，他脸上表情惊魂不定，就像他随时要跑一样。&lt;/p&gt;
+&lt;p&gt;John一把抓住他肩。“你为什么要那么做！”他低声问。&lt;/p&gt;
+&lt;p&gt;“我不知道！”&lt;/p&gt;
+&lt;p&gt;他们对视。John颇为不安稳。Sherlock不知道什么事这情况本身几乎是史无前例。Sherlock不知道自己的动机简直令人恐慌。&lt;/p&gt;
+&lt;p&gt;“我糟糕的低估了他，”Sherlock说。“我竟然这么蠢，而他——你——”他急促的停下不言，看着John就像John知道答案一样。而他真的，真的，不知道。&lt;/p&gt;
+&lt;p&gt;“没什么。”John轻柔地说。“没什么。不要后悔没法改变的事，”他试着展露了个苍白的微笑。Sherlock没有回应他，但是他最终还是平稳了呼吸，不再直视着John导致John的脑袋里一团糟糕。&lt;/p&gt;
+&lt;p&gt;“那应该就是那样的么？”&lt;/p&gt;
+&lt;p&gt;“什么？”&lt;/p&gt;
+&lt;p&gt;“吻。”&lt;/p&gt;
+&lt;p&gt;悲剧的是，这恐怕是目前比较安全比较安稳的一个话题了。&lt;/p&gt;
+&lt;p&gt;“不，一般……一般会缓慢的多。还有另一个人的回应参与。”&lt;/p&gt;
+&lt;p&gt;“哦，你能做给我看么？我不知道还有这点。”&lt;/p&gt;
+&lt;p&gt;“Sherlock。说真的你有被我吸引么？”&lt;/p&gt;
+&lt;p&gt;“我不认为。”他停顿。“我怎么可能知道？我不知道那是什么感觉。”&lt;/p&gt;
+&lt;p&gt;“这里面成分很多的，在……亲吻里。而且，……很多别的”&lt;/p&gt;
+&lt;p&gt;“这是个必须要求么？不然就不行？”&lt;/p&gt;
+&lt;p&gt;John眨眼。“我是没不带别的含义干过。”&lt;/p&gt;
+&lt;p&gt;“为什么不呢？”&lt;/p&gt;
+&lt;p&gt;他们刚好又撞上了在Sherlock跟真实世界之间的另一堵墙。为什么你不能亲吻一些你并未被吸引的人呢？他得怎么解释这个问题啊？&lt;/p&gt;
+&lt;p&gt;他不解释了，他决定。&lt;/p&gt;
+&lt;p&gt;“好吧，所以我们俩都可以从中学习下。然后我们就睡觉。好吧？”&lt;/p&gt;
+&lt;p&gt;Sherlock点头，几乎称得上温顺。&lt;/p&gt;
+&lt;p&gt;John手合上Sherlock的脸。Sherlock睁着眼直到最后一秒——或者更可能是John闭上眼后他还在睁着眼。Sherlock的嘴唇干燥静止，直到Sherlock决定也在其中扮演个角色。他学的倒是快，随你怎么说吧。&lt;/p&gt;
+&lt;p&gt;当他们分开，John舔着自己嘴唇，他想：这几乎都算不上这过去的24个小时里他为Sherlock做的最诡异的事。即使你不把那个冰箱里的人头也算上。&lt;/p&gt;
+&lt;p&gt;John尽他自己最好的本事了。但是缺乏激情，这就像是唇和舌尖的探索实验而更不像是个吻。&lt;/p&gt;
+&lt;p&gt;“好么？”他说，躺会床上。&lt;/p&gt;
+&lt;p&gt;Sherlock的确是闭上眼了。他皱眉，困惑而任性的样子，就像是一件案子突然发生了他从未预料的转折。&lt;/p&gt;
+&lt;p&gt;John微笑。“感觉不好？”&lt;/p&gt;
+&lt;p&gt;Sherlock睁开眼。“不，感觉……很好？有点……”他的脸纠结成一幅更为复杂的表情。“诡异，有点诡异，但是很好，我没有碰过别人，John。不——像这样。”他挥着手势，最后抚上自己的唇。&lt;/p&gt;
+&lt;p&gt;“你可以的，”John认真的说，“要是你喜欢。”&lt;/p&gt;
+&lt;p&gt;Sherlock躺倒,脑袋枕在枕头往下的地方，那种紧张感已经消失无影，他的整个身体倾靠在John身上。他的头发垂入他眼帘，他的发梢黝黑弯曲散在他胸前。“也许只是因为是你，”他喃喃道，“而不是亲吻。”&lt;/p&gt;
+&lt;p&gt;John 咬住下唇好不失笑出声。“我想这也不错。”&lt;/p&gt;
+&lt;p&gt;John拉起被子盖住他们俩。在被子下面，Sherlock瘦削的膝盖推撞着他大腿前面。这是他们唯一碰触的点。&lt;/p&gt;
+&lt;p&gt;一个想法来源不明的钻进了John脑海里，或许是来自于这两个月看着Sherlock预料之中的被人责骂，换言之是大多数情况下他自找的：我会杀了任何想要伤害他的人。&lt;/p&gt;
+&lt;p&gt;Moriaty自然是第一人选，还有Donovan跟Anderson作为后备。显然这想法很蠢。Moriaty显然是个下决心毁了Sherlock的犯罪头子，而Donovan跟Anderson只是……不怎么让人舒服的人。他们的言论多半是让John不爽而不太像是会让Sherlock不爽。&lt;/p&gt;
+&lt;p&gt;大多数人，实际上，会从Sherlock身边跳开。只有John情愿深陷其中。这令找出谁是最容易伤害他的人一事轻而易举。&lt;/p&gt;
+&lt;p&gt;这真不是什么入睡时安稳人心的想法。&lt;/p&gt;
+&lt;p&gt;FIN&lt;/p&gt;
 
         &lt;/section&gt;
     &lt;/article&gt;
@@ -1467,9 +708,9 @@ PS：喜欢听小熊诗歌的卷福。。。哦真萌。。&lt;/p&gt;
 	(function(){
 		window.disqus_shortname = 'chengmu1893';
 		window.disqus_developer = '1';
-		window.disqus_url = 'http://localhost:9778//trans/[Sherlock]边线与方砖.html';
-		window.disqus_identifier = 'trans-Sherlock------';
-		window.disqus_title = '边线与方砖';
+		window.disqus_url = 'http://localhost:9778//trans/[Sherlock]来来回回.html';
+		window.disqus_identifier = 'trans-Sherlock-----';
+		window.disqus_title = '来来去去/There and Back Again ';
 		if ( window.DISQUS ) {
 			return DISQUS.reset({
 				reload: true,
@@ -1668,14 +909,10 @@ _gaq.push(['_trackPageview']);
                 
             
                 
-            
-                
-            
-                
                     
-                        &lt;a href=&quot;/trans/[Sherlock]边线与方砖.html&quot; class=&quot;previous&quot;&gt;
+                        &lt;a href=&quot;/trans/[Sherlock]来来回回.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            边线与方砖
+                            来来去去/There and Back Again 
                         &lt;/a&gt;
                     
                     &lt;ins&gt;|&lt;/ins&gt;
@@ -1684,11 +921,15 @@ _gaq.push(['_trackPageview']);
                     &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
                     &lt;ins&gt;|&lt;/ins&gt;
                     
-                         &lt;a href=&quot;/trans/[TeenWolf]言明我所思.html&quot; class=&quot;next&quot;&gt;
-                            言明我所思/Voicing My Concerns &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;a href=&quot;/trans/[Sherlock]破碎与骨.html&quot; class=&quot;next&quot;&gt;
+                            破碎与骨 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
                          &lt;/a&gt;
                     
 
+                
+            
+                
+            
                 
             
                 
@@ -2077,6 +1318,399 @@ _gaq.push(['_trackPageview']);
 		</entry>
 	
 		<entry>
+			<title>破碎与骨</title>
+			<link href="http://localhost:9778///trans/[Sherlock]破碎与骨.html"/>
+			<updated>2013-07-03T01:37:19.000Z</updated>
+			<id>http://localhost:9778///trans/[Sherlock]破碎与骨.html</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot;&gt; &lt;!--&lt;![endif]--&gt;
+&lt;head&gt;
+    &lt;!-- Standard Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+	&lt;!-- Site Properities --&gt;
+	&lt;title&gt;破碎与骨 | Chengmu1893&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;!--[if lte IE 8]&gt;
+	&lt;script type=&quot;text/javascript&quot;&gt; 
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	&lt;/script&gt; 
+	&lt;![endif]--&gt; 
+
+	&lt;!-- DocPad Meta --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
+	
+	&lt;!-- DocPad Styles + Our Own --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;!-- Favicon --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
+	&lt;!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57x57-precomposed.png&quot; /&gt;
+	&lt;!-- For first- and second-generation iPad: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72x72-precomposed.png&quot; /&gt;
+	&lt;!-- For iPhone with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114x114-precomposed.png&quot; /&gt;
+	&lt;!-- For third-generation iPad with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144x144-precomposed.png&quot; /&gt;
+&lt;/head&gt;
+&lt;body class=&quot;colume-layout&quot;&gt;
+    &lt;!--[if lt IE 7]&gt;
+    &lt;p class=&quot;chromeframe&quot;&gt;You are using an outdated browser. &lt;a href=&quot;http://browsehappy.com/&quot;&gt;Upgrade your browser today&lt;/a&gt; or &lt;a href=&quot;http://www.google.com/chromeframe/?redirect=true&quot;&gt;install Google Chrome Frame&lt;/a&gt; to better experience this site.&lt;/p&gt;
+&lt;![endif]--&gt;
+&lt;header class=&quot;header&quot;&gt;
+	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
+    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
+	&lt;/div&gt;
+	&lt;aside class=&quot;aside main-menu&quot;&gt;
+		&lt;ul&gt;
+			
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
+		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
+		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
+		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/techs.html&quot;&gt;
+		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;active&quot; href=&quot;/trans.html&quot;&gt;
+		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+		&lt;/ul&gt;
+	&lt;/aside&gt;
+	
+&lt;/header&gt;
+    &lt;article class=&quot;article-content&quot;&gt;
+        &lt;div class=&quot;article-nav&quot;&gt;
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                        &lt;a href=&quot;/trans/[ST_TOS]伪神.html&quot; class=&quot;previous&quot;&gt;
+                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
+                            伪神/Graven Image 
+                        &lt;/a&gt;
+                    
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    
+                         &lt;a href=&quot;/trans/[TeenWolf]言明我所思.html&quot; class=&quot;next&quot;&gt;
+                            言明我所思/Voicing My Concerns &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;/a&gt;
+                    
+
+                
+            
+                
+            
+                
+            
+                
+            
+                
+        &lt;/div&gt;
+        &lt;header class=&quot;hd&quot;&gt;
+            &lt;h1&gt;破碎与骨&lt;/h1&gt;
+            &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
+        &lt;/header&gt;
+        &lt;section&gt;
+            &lt;p&gt;[Sherlock][SJ]破碎与骨&lt;/p&gt;
+&lt;p&gt;破碎与骨
+标题: Rags and Bones
+原文：&lt;a href=&quot;http://emungere.livejournal.com/249891.html&quot;&gt;http://emungere.livejournal.com/249891.html&lt;/a&gt;
+分级: PG-13 
+配对：有点john/sherlock
+警告：（John没死，真的。）John被杀了（反正是被杀了），Sherlock并没有拿他的头骨替换掉书架上那个。不，正相反，他留下了John的手骨。并将其做成手指可弯曲的样式。然后放在自己兜里，外出的时候，要是他觉得孤独，或者苏格兰场太烦人，或者他就是怀念下，他就可以握住John的手。。。&lt;/p&gt;
+&lt;p&gt;译者警告：我只是想翻译！被吓到雷到毛骨悚然到可不可以不要骂我OJZ。。。我最近过的好悲催。。。&lt;/p&gt;
+&lt;p&gt;关于John的手的问题的争议见文末。。。&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;自泳池爆炸之后，Sherlock多等了整整两个周。一个周零三天花在了医院里，拖着身体上下床，在走道里徘徊，抓着输液架维持平衡。四天时间独自呆在221B,竭力说服自己放弃这个想法。这真的不是个好想法。&lt;/p&gt;
+&lt;p&gt;他去见Molly，脸上是玻璃碎片划伤的痕迹，缝线在脖子上清晰可见，还有左臂上，背后两处，右腿三处。所有的伤都拉扯过，所有的伤都在发痒。他想撕裂它们。他从大腿上最严重的那处开始下手过，想用指甲挖断所有缝线，但是他听得到脑海里John的轻唤。Sherlock，规矩点。&lt;/p&gt;
+&lt;p&gt;见到他的时候Molly踉跄几步靠在身后最近的桌子上。随即又往前迈了几步。伸出手，随即落下。&lt;/p&gt;
+&lt;p&gt;“你知道我为什么在这。”Sherlock说。&lt;/p&gt;
+&lt;p&gt;“那是证物。”Molly说。&lt;/p&gt;
+&lt;p&gt;他站在那，看着她，没法说点赞美，或者微笑，或者任何人性化的事情。他可以以上她为筹码，但是她不会真的想要的，他自己也毫无任何情感了。他可以为之杀了她，但这是最后的选择。&lt;/p&gt;
+&lt;p&gt;“我需要，”他说，“他们已经做完所有检查了。只会留在这被冷冻保存，再也不会有人多看一眼。”&lt;/p&gt;
+&lt;p&gt;“你觉得——”她吞咽下。“你还能再做别的测试么？你还能发现更多的信息么？”&lt;/p&gt;
+&lt;p&gt;“是。”他立即回答。这是个谎言。而她愿意相信。这是最好的谎言。&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;当他煮干净那些骨头，整整一天里公寓里闻起来像是煮汤的味道。
+*&lt;/p&gt;
+&lt;p&gt;腕骨，掌骨，近端指骨，中级指骨，远端指骨。&lt;/p&gt;
+&lt;p&gt;手舟骨，月状骨，三角骨，豆状骨，大多角骨，小多角骨，钩骨。 &lt;/p&gt;
+&lt;p&gt;Sherlock最后需要做张表格好详尽记录。这只手如此地不像John，但是有如此多的碎片。这一点很像John，很像他。&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;两天后Lestrade拜访。Sherlock把那只手放在自己口袋里，用铁丝拼好，干净，光洁，平滑的那只手。温暖。来自Sherlock身体的热量，但一样的美好。&lt;/p&gt;
+&lt;p&gt;Lestrade坐在沙发上。两人都在看着John的椅子。&lt;/p&gt;
+&lt;p&gt;“我很抱歉，”Lestrade最终开口。&lt;/p&gt;
+&lt;p&gt;“要是我真的觉得是你的错的话，你觉得你现在还会活着么？”&lt;/p&gt;
+&lt;p&gt;“不。听我说。该死的。想喝茶么？”&lt;/p&gt;
+&lt;p&gt;Sherlock其实只想做一件事，但他还是点头了。Lestrade试着和善起来，John——John。John。Sherlock触摸着兜里的骨头（温暖，光洁，平滑），聆听着Lestrade泡茶的声响。一点也不像John泡茶的声响。要是Sherlock知道John的枪在哪里，他会为这声音一点也不像John而朝Lestrade开枪。但是John的枪也不在了，一如John的其他。&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Hudson太太开始跟他一起吃晚饭。&lt;/p&gt;
+&lt;p&gt;“一天里你至少得好好吃一顿饭，亲爱的。”&lt;/p&gt;
+&lt;p&gt;这当然很蠢。他吃饭。甚至是办案子的时候，他也每日都进餐。没案子的时候，他跟正常人一样进餐。好吧。他吃饭。一天两顿或三顿。即使是John还没来之前。有时他会忘掉，但并不经常。&lt;/p&gt;
+&lt;p&gt;奇怪的是他的衣服都变宽松了，这可真是一点都说不通。&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Sally不再叫他怪胎了，当别人这么干的时候去瞪别人了。这真是能发生的最为倒胃口的事。&lt;/p&gt;
+&lt;p&gt;“你为我感到难过。”他说。&lt;/p&gt;
+&lt;p&gt;她开始抽烟了，他没理由拒绝她递过来的烟。这些日子里，呼吸简直是无聊的不能再糟糕了。&lt;/p&gt;
+&lt;p&gt;“我很喜欢他的，”她说。&lt;/p&gt;
+&lt;p&gt;“是啊。我也是。”&lt;/p&gt;
+&lt;p&gt;她看着他，脸上线条角度排列组合就像象形文字，就像古希腊的线形文字A，就像John的手写体，糟糕的很。他伸手摸索口袋，握住John的手，平滑光洁温暖。他不能给她看。她要是知道了会很糟糕的，任何人知道了都不好。虽然他已经记不起为什么这不好。&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;John的心理师跟她丈夫有矛盾。他们就此的谈话成熟一如负责的成年人，但这正是问题所在；他们不如对彼此怒吼咆哮，熬过这一段，而不是无休止的交谈。Sherlock如此的告诉她。&lt;/p&gt;
+&lt;p&gt;“我们不是在这讨论我的，”她说，表情冷静。&lt;/p&gt;
+&lt;p&gt;Sherlock根本就不是来谈话的。&lt;/p&gt;
+&lt;p&gt;“也许你可以跟我讲讲是怎么发生的？”她说。&lt;/p&gt;
+&lt;p&gt;“哦，我杀了他。显而易见。”&lt;/p&gt;
+&lt;p&gt;他是来见见这间屋子，这个女人的，收集事实与细节。John在这花了许多时间，Sherlock觉得这里应该留下了他的什么。最终，这不过是个房间，她不过是另一个笨蛋，显而易见的是她根本对John一无所知。&lt;/p&gt;
+&lt;p&gt;“你……杀了他？”&lt;/p&gt;
+&lt;p&gt;“我留他在身边。本质是一样的。注定会发生。不可避免。即使再来一次我也会这么做。我不是个无私的男人。”&lt;/p&gt;
+&lt;p&gt;“你觉得愧疚么？”&lt;/p&gt;
+&lt;p&gt;愧疚无关紧要，一切尘埃落定。他早已预见。&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;John的母亲来收拾他的遗物。Sherlock不放她进来。&lt;/p&gt;
+&lt;p&gt;Harry跑来对他吼。在门道里吼了十分钟，直到他说，“我在楼上有很多伏特加。”&lt;/p&gt;
+&lt;p&gt;那伏特加本来是为了实验的（不同种类的酒精对人体的长期影响，遗憾的是没能在那具泡在威士忌酒桶里的尸体浮出来前想到这个实验），但是眼下也算是实验。他们喝醉了，醉的离谱。Sherlock醉的已经很夸张了，但Harry的更令人难以置信。他们中没人能站起来了。Harry干脆就没去找洗手间就近在烟灰缸里解决问题了。Sherlock觉得真真是在特定情境下令人印象深刻的绝技。&lt;/p&gt;
+&lt;p&gt;“我想念他，”harry说，“我好想念他，我根本不喜欢他的。这太可怕了，不喜欢你自己的兄弟。”&lt;/p&gt;
+&lt;p&gt;“我厌恶我哥，”Sherlock说，第一次他不确定这是不是真的。&lt;/p&gt;
+&lt;p&gt;“John比你哥哥好多了。”&lt;/p&gt;
+&lt;p&gt;这倒是真的。&lt;/p&gt;
+&lt;p&gt;Harry趴他身上哭，鼻涕眼泪蹭在他衬衫上，就那么沉沉睡去，两人躺在地板上，靠着点沙发。早上的时候，Harry吻了他。Sherlock从没有在自己嘴里感觉到任何别人的舌头，他也不喜欢这感觉。&lt;/p&gt;
+&lt;p&gt;“你喜欢女人，”他说。这么说出来一见明显的要死的事很蠢，但是他头痛欲裂，显然体内没多少水分了，技术上来讲他基本快死了。他能感觉到。&lt;/p&gt;
+&lt;p&gt;“这不管喜欢的事。我不喜欢你。我讨厌你。你让他不一样了。”&lt;/p&gt;
+&lt;p&gt;我让他快乐。Sherlock想。但他允许她一再亲吻自己，允许她抓自己的腿，如果不是Hudson太太端着一盘子松饼咖啡粥推门进来的话大概还会允许她干别的。Harry跑到浴室去吐了。然后三人一起用餐。&lt;/p&gt;
+&lt;p&gt;Sherlock握住John的手，想，我确实让他快乐了，不是么？他觉得差不多。&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;Mycroft门也没敲径直进来了。&lt;/p&gt;
+&lt;p&gt;“你体重长点了，我想。”两人同时开口说同样的话。&lt;/p&gt;
+&lt;p&gt;Sherlock是在努力增肥。买新衣服很麻烦。&lt;/p&gt;
+&lt;p&gt;Mycroft挨着他在沙发上坐下，胳膊环住他。&lt;/p&gt;
+&lt;p&gt;Sherlock一言不发，什么都没做。Mycroft呆了一下午。&lt;/p&gt;
+&lt;p&gt;当窗外光亮暗下来，沉淀，Sherlock说，“我留着他的手。”&lt;/p&gt;
+&lt;p&gt;“我知道，”Mycroft说。“我想他的妈妈应该会想要他的勋章，你不觉得么？”&lt;/p&gt;
+&lt;p&gt;“好吧，”Sherlock拖长了嗓音，“但是就那些。别的都不给。”&lt;/p&gt;
+&lt;p&gt;日落。光线暗淡。&lt;/p&gt;
+&lt;p&gt;“你在迷失自己。”Mycroft说。&lt;/p&gt;
+&lt;p&gt;“我身上没什么值得留住的。”&lt;/p&gt;
+&lt;p&gt;Mycroft的手握紧他的右肩。“我不觉得。”&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;他破案，比以往更容易。他不需要跟任何人谈论案子，甚至也不对头骨说。有时他在自己脑海里跟John说，但次数不多。他有点怕哪天John回应他。&lt;/p&gt;
+&lt;p&gt;John的骨头变得越来越平滑光洁，由于浸渍Sherlock手里出的脂油变得黯淡了些。&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;某天，他回家，看到John坐在沙发里。&lt;/p&gt;
+&lt;p&gt;他立即转身离开。John追他到街上。&lt;/p&gt;
+&lt;p&gt;“Sherlock！等等！”&lt;/p&gt;
+&lt;p&gt;跑过两个地铁站，一直到了最近的公园，Sherlock，等等，等等，直到Sherlock最终在一丛冬日里废弃般的蔷薇花丛边对自己生气的大叫，“我已经够疯的了！”&lt;/p&gt;
+&lt;p&gt;他想自己为什么还要抗拒呢。疯狂说不定是个解脱。但是这不真实。John的手是真实的。要是要他在自己脑海里幻想的John跟这片真实的John的一部分之间做出选择的话，他会选择这部分真实。&lt;/p&gt;
+&lt;p&gt;他坐在长椅上。John坐到他身边。&lt;/p&gt;
+&lt;p&gt;“我很抱歉，”John说。“我必须走。这是最好的机会。”还有些关于Moriaty跟最后对决什么的，还有那人大脑现在保存在一个罐子里要是Sherlock想要的话。&lt;/p&gt;
+&lt;p&gt;“你在我口袋里。”Sherlock说。&lt;/p&gt;
+&lt;p&gt;John嗤之以鼻。“我可没那么矮小。”&lt;/p&gt;
+&lt;p&gt;Sherlock拿给他看。&lt;/p&gt;
+&lt;p&gt;长时间的沉默。一种喧嚣怒吼的沉默，Sherlock渐渐可以听得到，在听到什么已经不再重要的时候。重要的是看到什么。他看到John伸出一只手，并不存在于那里的手，去摸那只手骨。他看到John大睁的双眼，那只他的确还有的那只手的指尖正碰触着那骨头，那手骨，真实毫不虚假的，属于Sherlock的骨头。&lt;/p&gt;
+&lt;p&gt;他脑海里的John会更是完整的，不会这么苍白，不会有染成愚蠢的土棕色的头发，会穿着一身乏味的套头毛衣，而不会是西装。&lt;/p&gt;
+&lt;p&gt;“我有很多的清汤。”Sherlock说。“在冰箱里。我没有吃，我保证。但我也不能扔掉。”&lt;/p&gt;
+&lt;p&gt;“汤。”&lt;/p&gt;
+&lt;p&gt;“我得把骨头煮干净。”&lt;/p&gt;
+&lt;p&gt;“啊，John汤。”&lt;/p&gt;
+&lt;p&gt;Sherlock点头。&lt;/p&gt;
+&lt;p&gt;“我想我很高兴你没吃。”&lt;/p&gt;
+&lt;p&gt;Sherlock再次点头。这就对了。他知道John不会喜欢他那么干的。他做对了。&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;他们扔掉了那汤。这没关系，他有完全的John了。&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;他晚饭后把John拉进自己屋里。他们俩都脱掉了鞋子，John跟他一起躺在床上。他紧紧地尽可能的贴近John，他说，“我想我差点跟你姐姐上床。”&lt;/p&gt;
+&lt;p&gt;John紧紧搂他，胳膊越过他后背，环在他肩头，手在他颈后，那只不再存在的手摩擦着他的脊柱。“我也很高兴你没那么干。”&lt;/p&gt;
+&lt;p&gt;几个月里第一次，Sherlock知道他要做什么了。他在有意说最糟糕的事。他总是对着John说着最糟糕的事。&lt;/p&gt;
+&lt;p&gt;“我想砍断你的脚，这样你就不会离开了。我不会这样做的。”他追加一句，不满意措辞跟里面的情绪。这不是他想干的。他想确保John会留在这，给一些确凿而不能撼动的证据。他不知道怎样索取，不知道怎样得到。&lt;/p&gt;
+&lt;p&gt;John亲吻他的太阳穴。“你生气了。”&lt;/p&gt;
+&lt;p&gt;他分腿好卡住John的，然后屈膝缠绕住John。&lt;/p&gt;
+&lt;p&gt;“你离开了。”&lt;/p&gt;
+&lt;p&gt;“是你在离开我。”John温柔的说。“你满脑子都是他。你眼里几乎都没有我了。你两个月没有从Lestrade那接任何案子。然后就是爆炸，并且……我在一家私人医院醒来。Mycroft，当然啦。”&lt;/p&gt;
+&lt;p&gt;Sherlock点头。当然是Mycroft。他现在不关心那个。有可能以后他也不会关心别的了，除了这，除了John，除了更多的John，而且诡异的是他有点后悔扔掉了肉汤。&lt;/p&gt;
+&lt;p&gt;他的手摸进John的衬衣。不够。他解开John的衬衣，摊开，耳朵贴压在John的胸口，John的心脏上，他能听到自己咬牙的声音。不够。他脱掉了自己的衬衣，这样更近一些。&lt;/p&gt;
+&lt;p&gt;&amp;quot;Sherlock?&amp;quot; &lt;/p&gt;
+&lt;p&gt;John听起来有些犹豫，嗓音有些喘。很有可能跟裸体跟性有关，John喜欢女人，但是Harry说过，这跟喜欢没关系，至少不是那种喜欢。&lt;/p&gt;
+&lt;p&gt;“我不在乎性。”Sherlock说。“这取决于你。你要我就给，不要也无所谓。但是我非常想赤裸着跟你睡在一切，余生的每一晚每一夜。”&lt;/p&gt;
+&lt;p&gt;John的手摸着Sherlock的头发，手指温柔的摩擦着他的头皮。Sherlock可以感受到他在思索，于是保持安静。&lt;/p&gt;
+&lt;p&gt;“赤裸，好吧，”John缓缓说。“睡觉，也可以，很好。睡觉此刻听起来是个极好的注意。至于后半辈子那回事我们稍后再说，等你再稍稍……”&lt;/p&gt;
+&lt;p&gt;他顿住了，紧随而来一阵安静。&lt;/p&gt;
+&lt;p&gt;“神智清醒的时候？”Sherlock帮他补完。&lt;/p&gt;
+&lt;p&gt;“是，我想我是在找那个词。谢谢。”&lt;/p&gt;
+&lt;p&gt;*&lt;/p&gt;
+&lt;p&gt;脱光衣服要温暖得多。Sherlock可以感觉到John松软的阴茎贴在自己大腿上，阴毛蹭着自己，那肋下柔软的肌肤，John在他颈窝的呼气。他之前从未允许过的亲密接触。他的手摸着John肩上凌乱的伤疤，抬起john的胳膊，好让他的不再存在的那只手搁置在两人之间，抵在Sherlock的胸前。&lt;/p&gt;
+&lt;p&gt;John的手依旧在床下，他们刚刚脱衣服的时候他把它搁到了那。他举起它贴近John手腕端，并没有碰触。非常合适，这说明John是真的。这是真的么？不。做最坏打算。在最坏的基础上思考。&lt;/p&gt;
+&lt;p&gt;他想过要短信Mycroft，但是要是他的脑子能够让他相信自己真的在跟活生生的John赤身裸体的躺在一起，那么它大概也可以让他看到根本不存在的短信。或者幻觉里的电话。或者，哦，什么都可能。要是Mycroft否定了John的事，Sherlock是在幻觉，有的是办法证明他是已经疯掉了。&lt;/p&gt;
+&lt;p&gt;没有证明否定句的办法。Sherlock余下五个小时都在考虑如何做到，一直盯着他身边真实存在的被褥。当然，他知道自己早就该精神失常了，大概会沦落在疗养所里，安然地活在静脉注射与镇定剂中。谁都可能。&lt;/p&gt;
+&lt;p&gt;三点的时候，他摇摇John的肩，直到John斜眼看他，拿拳头砸他胸口，睡意朦胧的嘟囔。&lt;/p&gt;
+&lt;p&gt;“我要怎么才能知道你是真的？”Sherlock说。&lt;/p&gt;
+&lt;p&gt;John眨了好半天眼，然后脸扭曲成极其暴怒的皱眉。“哦天哪，你个娘们。闭嘴睡觉。”&lt;/p&gt;
+&lt;p&gt;John更加紧密的搂着他，把Sherlock的脑袋摁到自己胸前。他急促地扯到了Sherlock的头发，随机又抚摸着它们。&lt;/p&gt;
+&lt;p&gt;Sherlock觉得晕眩。他在John胸前闷闷地笑起来，笑的如此大动作，他的嘴张大牙齿咬到了John的锁骨。Sherlock脑袋里可没有那部分能称他自己为小娘们。再怎么逼真的幻觉也想象不出来。&lt;/p&gt;
+&lt;p&gt;最终，John的手不再动了，他轻柔谦逊的鼾声回响在房里。Sherlock把那只手骨放到一边，让自己的手指与john粗糙温暖而鲜活的手指交缠。&lt;/p&gt;
+&lt;p&gt;END&lt;/p&gt;
+&lt;p&gt;关于手的解释：&lt;/p&gt;
+&lt;p&gt;我问过了作者，关于那只手，然后作者的回复如下~&lt;/p&gt;
+&lt;p&gt;emungere May 8th, 2011&lt;/p&gt;
+&lt;p&gt;@akakano2 
+Hi! Don’t worry, it’s okay. I would’ve said yes anyway. I’m very happy you liked the story, and in response to your question – John really did lose his hand in the explosion, yes. Thanks for the the feedback, and for the translation. :)&lt;/p&gt;
+&lt;p&gt;所以说，手是木有了的。==。。。。&lt;/p&gt;
+&lt;p&gt;但我觉得作者的文其实是很开放那种思路，所以大家各自看有各自的感觉，看得开心就好啊XD我只是觉得这文很好想介绍过来而已~&lt;/p&gt;
+
+        &lt;/section&gt;
+    &lt;/article&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
+    &lt;h3&gt;Contents&lt;/h3&gt;
+    TypeError: Cannot read property 'length' of undefined
+&lt;/div&gt; --&gt;
+&lt;div class=&quot;comments&quot;&gt;
+    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	(function(){
+		window.disqus_shortname = 'chengmu1893';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://localhost:9778//trans/[Sherlock]破碎与骨.html';
+		window.disqus_identifier = 'trans-Sherlock-----';
+		window.disqus_title = '破碎与骨';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+ &lt;!--        &lt;div id=&quot;disqus_thread&quot; class=&quot;comments&quot;&gt;&lt;/div&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    &lt;/script&gt;
+    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
+    
+    &lt;footer class=&quot;footer&quot;&gt;
+	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; • 
+	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; • 
+	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
+&lt;/footer&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41695213-1', 'chengmu.github.io');
+  ga('send', 'pageview');
+
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
+&lt;/script&gt;
+
+
+    &lt;!-- jQuery --&gt;
+    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
+
+    &lt;!-- DocPad Scripts + Our Own --&gt;
+    &lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+		</entry>
+	
+		<entry>
 			<title>言明我所思/Voicing My Concerns</title>
 			<link href="http://localhost:9778///trans/[TeenWolf]言明我所思.html"/>
 			<updated>2013-07-03T01:37:19.000Z</updated>
@@ -2198,12 +1832,10 @@ _gaq.push(['_trackPageview']);
                 
             
                 
-            
-                
                     
-                        &lt;a href=&quot;/trans/[ST_TOS]伪神.html&quot; class=&quot;previous&quot;&gt;
+                        &lt;a href=&quot;/trans/[Sherlock]破碎与骨.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            伪神/Graven Image 
+                            破碎与骨
                         &lt;/a&gt;
                     
                     &lt;ins&gt;|&lt;/ins&gt;
@@ -2212,11 +1844,13 @@ _gaq.push(['_trackPageview']);
                     &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
                     &lt;ins&gt;|&lt;/ins&gt;
                     
-                         &lt;a href=&quot;/trans/[Sherlock]一猫在手.html&quot; class=&quot;next&quot;&gt;
-                            一猫在手胜似倆头骨蹲壁炉 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;a href=&quot;/trans/[Sherlock]边线与方砖.html&quot; class=&quot;next&quot;&gt;
+                            边线与方砖 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
                          &lt;/a&gt;
                     
 
+                
+            
                 
             
                 
@@ -2285,6 +1919,372 @@ _gaq.push(['_trackPageview']);
 		window.disqus_url = 'http://localhost:9778//trans/[TeenWolf]言明我所思.html';
 		window.disqus_identifier = 'trans-TeenWolf------';
 		window.disqus_title = '言明我所思/Voicing My Concerns';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+ &lt;!--        &lt;div id=&quot;disqus_thread&quot; class=&quot;comments&quot;&gt;&lt;/div&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    &lt;/script&gt;
+    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
+    
+    &lt;footer class=&quot;footer&quot;&gt;
+	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; • 
+	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; • 
+	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
+&lt;/footer&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41695213-1', 'chengmu.github.io');
+  ga('send', 'pageview');
+
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
+&lt;/script&gt;
+
+
+    &lt;!-- jQuery --&gt;
+    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
+
+    &lt;!-- DocPad Scripts + Our Own --&gt;
+    &lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+		</entry>
+	
+		<entry>
+			<title>边线与方砖</title>
+			<link href="http://localhost:9778///trans/[Sherlock]边线与方砖.html"/>
+			<updated>2013-07-03T01:37:19.000Z</updated>
+			<id>http://localhost:9778///trans/[Sherlock]边线与方砖.html</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot;&gt; &lt;!--&lt;![endif]--&gt;
+&lt;head&gt;
+    &lt;!-- Standard Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+	&lt;!-- Site Properities --&gt;
+	&lt;title&gt;边线与方砖 | Chengmu1893&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;When your website appears in search results in say Google, the text here will be shown underneath your website's title.&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;place, your, website, keywoards, here, keep, them, related, to, the, content, of, your, website&quot; /&gt;
+	&lt;!--[if lte IE 8]&gt;
+	&lt;script type=&quot;text/javascript&quot;&gt; 
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	&lt;/script&gt; 
+	&lt;![endif]--&gt; 
+
+	&lt;!-- DocPad Meta --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
+	
+	&lt;!-- DocPad Styles + Our Own --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;!-- Favicon --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
+	&lt;!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57x57-precomposed.png&quot; /&gt;
+	&lt;!-- For first- and second-generation iPad: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72x72-precomposed.png&quot; /&gt;
+	&lt;!-- For iPhone with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114x114-precomposed.png&quot; /&gt;
+	&lt;!-- For third-generation iPad with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144x144-precomposed.png&quot; /&gt;
+&lt;/head&gt;
+&lt;body class=&quot;colume-layout&quot;&gt;
+    &lt;!--[if lt IE 7]&gt;
+    &lt;p class=&quot;chromeframe&quot;&gt;You are using an outdated browser. &lt;a href=&quot;http://browsehappy.com/&quot;&gt;Upgrade your browser today&lt;/a&gt; or &lt;a href=&quot;http://www.google.com/chromeframe/?redirect=true&quot;&gt;install Google Chrome Frame&lt;/a&gt; to better experience this site.&lt;/p&gt;
+&lt;![endif]--&gt;
+&lt;header class=&quot;header&quot;&gt;
+	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
+    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
+	&lt;/div&gt;
+	&lt;aside class=&quot;aside main-menu&quot;&gt;
+		&lt;ul&gt;
+			
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
+		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
+		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
+		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/techs.html&quot;&gt;
+		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;active&quot; href=&quot;/trans.html&quot;&gt;
+		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+		&lt;/ul&gt;
+	&lt;/aside&gt;
+	
+&lt;/header&gt;
+    &lt;article class=&quot;article-content&quot;&gt;
+        &lt;div class=&quot;article-nav&quot;&gt;
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                        &lt;a href=&quot;/trans/[TeenWolf]言明我所思.html&quot; class=&quot;previous&quot;&gt;
+                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
+                            言明我所思/Voicing My Concerns
+                        &lt;/a&gt;
+                    
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    
+                         &lt;a href=&quot;/trans/[Sherlock]一猫在手.html&quot; class=&quot;next&quot;&gt;
+                            一猫在手胜似倆头骨蹲壁炉 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;/a&gt;
+                    
+
+                
+            
+                
+            
+                
+        &lt;/div&gt;
+        &lt;header class=&quot;hd&quot;&gt;
+            &lt;h1&gt;边线与方砖&lt;/h1&gt;
+            &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
+        &lt;/header&gt;
+        &lt;section&gt;
+            &lt;p&gt;Lines and Squares&lt;/p&gt;
+&lt;p&gt;边线与方砖
+Title: Lines and Squares
+Author：[font=&amp;amp;quot]Eleanor K.
+Fandom: Sherlock (2010)
+Rating: PG
+Pairing: Mycroft/Lestrade (前奏，非已有关系。。。。。)
+源地址：&lt;a href=&quot;http://emungere.livejournal.com/244299.html#cutid1&quot;&gt;http://emungere.livejournal.com/244299.html#cutid1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;注：文中引用小熊维尼的同名诗歌，&lt;/p&gt;
+&lt;p&gt;LINESAND SQUARES/边线与方砖&lt;/p&gt;
+&lt;p&gt;Whenever I walk in a London street,.
+每当我走在伦敦街头，
+I&amp;#39;m ever so careful to watch my feet;
+我总是仔细观察自己的步伐
+And I keep in the squares,
+我只走在方块里
+And the masses of bears,
+一群熊聚集
+Who wait at the corners all ready to eat
+他们等在街角伺机而动
+The sillies who tread on the lines of thestreet,
+他们会撕裂踩在边线上的傻瓜
+Go back to their lairs,
+再回到他们的巢穴
+And I say to them, &amp;quot;Bears,
+我对他们说，熊们，
+just look how i&amp;#39;m walking in all thesquares!&amp;quot;
+就在那看着我安然的行走于方块内吧！&lt;/p&gt;
+&lt;p&gt;And the little bears growl to each other,&amp;quot;He&amp;#39;s mine,
+那些熊互相嘶吼“他将是我的，
+As soon as he&amp;#39;s silly and steps on aline.&amp;quot;
+一旦他傻傻的踩上边线。”
+And some of the bigger bears try to pretend
+一些更大的熊假装
+That they came round the corner to look fora friend;
+假装他们在街角等待朋友
+And they try to pretend that nobody cares
+当他们试着若无其事
+Whether you walk on the lines or squares.
+无论你是走在边线还是方格之上
+But only the sillies believe the talk;
+但是只有傻瓜才会相信这些话
+It&amp;#39;s ever so portant how you walk.
+你如何行走非常重要
+And it&amp;#39;s ever so jolly to call out,&amp;quot;Bears,
+去呼喊出来也一样有趣“熊们，
+just watch me walking in all thesquares!&amp;quot;
+就在那看着我安然的行走于方块之内吧！”&lt;/p&gt;
+&lt;p&gt;黑色车子滑进仓库，安然停下。入口此刻已经遍觅不着，仔细安装的灯光系统确保来者只会看到Mycroft打算让他们看到的景象。那男人钻出了车子，然而，完全没扭头四顾。&lt;/p&gt;
+&lt;p&gt;Mycroft给了他把椅子，他拒绝了。这很有趣；没有人曾经坐下过。Mycroft是可以撤掉它，但有些事像礼数什么的还是要保留为好。&lt;/p&gt;
+&lt;p&gt;他们寒暄了些许，或者该说是Mycroft提供各种寒暄，总是受到锐利的盯着看作为回应。没有人拥有像这名警察一般的眼神。这渲染的他几乎深不可测。Lestrade警官带着数量硕大远超他自己年纪的防备，当然跟Mycroft的比起来是算不上什么。&lt;/p&gt;
+&lt;p&gt;“在你最近的几个案子里，你曾经获得过一位Sherlock holmes先生的帮助。”Mycroft说，最终切入正题。Lestrade刚刚从一个恶性案子里退身，正在他回家的路上，肾上腺素，血糖，咖啡因水平此刻都急速下落。这令他脆弱多了，但是Mycroft不想跟反应迟钝的打交道，因此不能拖太久。一线之隔。&lt;/p&gt;
+&lt;p&gt;“Sherlock Holmes经常帮警方做研究。”Lestrade说。面无表情。&lt;/p&gt;
+&lt;p&gt;“你指的是他对可可因的喜好。我相信他已经戒掉了，你在其中功不可没，警官。人们总是会好奇你怎么会接手这么棘手的事的。”&lt;/p&gt;
+&lt;p&gt;“人们总是有没完没了的好奇心的。”Lestrade说，伸手摸索夹克口袋。他点着了一支烟，叼在嘴角。&lt;/p&gt;
+&lt;p&gt;“我们美好城市的警官们并没有得到相应的报酬，我相信。也许我可以在资金方——”&lt;/p&gt;
+&lt;p&gt;“没门。”Lestrade说。&lt;/p&gt;
+&lt;p&gt;“喔唷，很粗鲁哦，警官。你都还没——”&lt;/p&gt;
+&lt;p&gt;“目前我知道的有，”lestrade开口，Mycroft放纵他打断自己，颇为好奇。“你是政府的人。你浑身都是那味道，从鞋子到发胶。所以你要么就会通过官方渠道要么是你不能。要是你可以的话呢，挺好。我相信你能挖出来一切你想知道的关于Sherlock Holmes的事。要是你不能的话呢，你也不可能通过些把戏跟贿赂从我这弄到消息。”&lt;/p&gt;
+&lt;p&gt;“这可会是相当丰厚的一份贿赂。”&lt;/p&gt;
+&lt;p&gt;“不用了谢谢。”&lt;/p&gt;
+&lt;p&gt;他甚至都没考虑它，一秒都没。这种盲目跟不加思索的品行还真是少见。但这个男人不蠢。大多数人在这种情况下会猜测是有组织的犯罪行径，而不会是政府。（一样的玩意，Sherlock估计会这么说的。）&lt;/p&gt;
+&lt;p&gt;Mycroft微笑。“那么也许，我可以请你继续看好他。这可真的有些令人羞耻呢，若是有什么事发生……在他身上。”&lt;/p&gt;
+&lt;p&gt;Lestrade眼神锐利沉默，下巴线条紧绷。并不是威胁，显然Lestrade知道那是没用的。&lt;/p&gt;
+&lt;p&gt;“你为什么找他？”Lestrade说，嗓音竭力镇定，也几乎差点就真的完全镇定了。&lt;/p&gt;
+&lt;p&gt;“现在么？只是为了消息罢了。我确实很担心他。你得理解。他是一个得仔细关照的人。”&lt;/p&gt;
+&lt;p&gt;Lestrade曾说过同样的话，是在一种很安全的距离下，仅仅是如呼吸般轻巧不被人知晓的喃喃。Mycroft在警官家里装了无数的窃听器和监控设备（还有办公室；在Lestrade进入视线前他就有自己在苏格兰场的眼线），Sherlock最近的……住所。&lt;/p&gt;
+&lt;p&gt;两个月前，Lestrade把他从一个废弃的仓库里拖出来，以所有权的事逮了他，后被说服让他参与协助了一系列杀人案件，再后来允许Sherlock在他的沙发上睡了几乎有一个周，直到他们大叫大吵了一场。Lestrade负责大叫；Sherlock，一如既往的，负责吵。似乎是跟浴缸里的八目鳗有关的事，Mycroft记得。&lt;/p&gt;
+&lt;p&gt;他们之间有些什么。Mycroft怀疑是一个约定，跟Sherlock从监狱里被安然释放有关。不准再用可可因。把自己整干净。对自己生活好点。Mycroft没有那场对话的录音，这让他不爽。Sherlock从来不告诉他什么事。但Lestrade也许会，要是Mycroft手段得当的话。目前为止他就是个途径。&lt;/p&gt;
+&lt;p&gt;“你是他哥。”lestrade说。带着突然的确定无疑。&lt;/p&gt;
+&lt;p&gt;Mycroft眨眼，缓缓地，因为表示出惊讶是礼貌的一种要求。这个男人值的以礼相待。Mycroft，实际上，是吃惊了。Lestrade的确凿无疑显然不是建立在像Sherlock那样的推理逻辑上的。纯属直觉，神经末梢之间的一撮电火花。&lt;/p&gt;
+&lt;p&gt;“你是从何推出如此神奇的理论的？”Mycroft说。&lt;/p&gt;
+&lt;p&gt;Lestrade哼了哼。“你刚才说话。你听起来就像他。还有你的眼里。”&lt;/p&gt;
+&lt;p&gt;“我经常被告知我们之间有着颇为微弱的家族相似性。”妈妈总是说Sherlock得到了所有的外表Mycroft得了所有的才干。她关于才干的部分错了。&lt;/p&gt;
+&lt;p&gt;“不是你看起来如何。是你如何看待事物。”&lt;/p&gt;
+&lt;p&gt;这一点立即升到了监控等级二级上。他捕捉到了助理的眼神，她点点头。他只跟了他一个月，已经拥有了一种坦白说来令人震惊的能力，足以理解他的每一个想法和预料到他的每一个念头。&lt;/p&gt;
+&lt;p&gt;“这就是为什么你要把我弄到这集中营里来是么？”Lestrade说，每一个词透出厌倦疲惫和烟草味。&lt;/p&gt;
+&lt;p&gt;“你该回家了警官。我会颇为关注您的事业的。”&lt;/p&gt;
+&lt;p&gt;Lestrade扔下烟头，脚后跟死命的碾了碾。“有一次他说过你的事，他透露了些。”&lt;/p&gt;
+&lt;p&gt;“哦？”Mycroft发现自己顿时兴趣十足。&lt;/p&gt;
+&lt;p&gt;“他说他生病的时候你从学校溜回来给他读书。”Lestrade扔给他半个硬邦邦的笑容。“[font=&amp;amp;quot]A. A. 麦尼。（注：小熊维尼之父。。。）。我还以为会是什么莎士比亚奥维德呢，像你们俩这样的。”&lt;/p&gt;
+&lt;p&gt;“他喜欢关于熊的诗歌。”Mycroft说。多少有些漫不经心，这恐怕是他十年来最没带有防备谨慎的言论。&lt;/p&gt;
+&lt;p&gt;Lestrade重重的笑出声来。“就在那看着我安然的行走于方块内吧”&lt;/p&gt;
+&lt;p&gt;Mycroft挑起一侧眼眉。“我是那剧情里面的熊么？”&lt;/p&gt;
+&lt;p&gt;“不是我的，你像是Sherlock剧情里的熊。”他伴着最后一句话打了个手势。“为什么呢？”&lt;/p&gt;
+&lt;p&gt;“你最好还是去问Sherlock。恐怕我没法告诉你。”&lt;/p&gt;
+&lt;p&gt;“不能，还是不想？”&lt;/p&gt;
+&lt;p&gt;“这无关紧要，警官。两个选项都以你得不到你想要的答案告终。”&lt;/p&gt;
+&lt;p&gt;“要是哪天我要是能从姓Holmes的人那里得到个干脆利落的答案的话，我说不准会头顶个花冠。那么我可以走了，是吧？还是说你还想再多给点威胁？”&lt;/p&gt;
+&lt;p&gt;“没威胁了，这样的。你倒是明早会接到你上司电话。我只是想确定你明白自己立场。是时候选择阵营了，警官。”&lt;/p&gt;
+&lt;p&gt;“已经选完了。”Lestrade说，转身大步走向车子。&lt;/p&gt;
+&lt;p&gt;“哦？”&lt;/p&gt;
+&lt;p&gt;“我自己的。”&lt;/p&gt;
+&lt;p&gt;有意思。Mycroft想。他旋开声控，但是Lestrade回去的路上一言不发。更有趣的是Lestrade回家后打的电话。&lt;/p&gt;
+&lt;p&gt;“干嘛，Lestrade？”Sherlock说。“我正做一个非常重要的实验关系到——”&lt;/p&gt;
+&lt;p&gt;“你有哥哥么？”&lt;/p&gt;
+&lt;p&gt;Sherlock沉默了会，“你知道我有。我以前跟你提过。”&lt;/p&gt;
+&lt;p&gt;“我不确定你记得不。你穷困潦倒的。高个，脱发，大鼻子？有点对你言听计从？”&lt;/p&gt;
+&lt;p&gt;“公务员装扮，老是带着把伞。”Sherlock提醒。&lt;/p&gt;
+&lt;p&gt;“就是他。”&lt;/p&gt;
+&lt;p&gt;“他把你从街上绑走了么？”&lt;/p&gt;
+&lt;p&gt;“常有，是么？”&lt;/p&gt;
+&lt;p&gt;“倒不是非常多，时常会有。你最好不要反抗他。他是个危险的男人。”&lt;/p&gt;
+&lt;p&gt;“是啊，我了解了。他就是这么跟我谈的。他告诉我选个阵营。”&lt;/p&gt;
+&lt;p&gt;“你也跟他说了，当然了，你是站在你自己那的。我也跟他说过一样的话，但是不用担心。我相信他处理你的事还好点，相比较而言你还没那么重要。我得挂了，那血液开始沸腾了。哦。顺便说句，他有可能正在监听你电话。”&lt;/p&gt;
+&lt;p&gt;Sherlock挂了。&lt;/p&gt;
+&lt;p&gt;Lestrade没。Mycroft听着他的呼吸，都能听到他在好奇是不是真的有人在听。总是有人在听的。最后。Lestrade一言不发。没有威胁，没有无用的“要是你在那的话……”这确凿了mycroft将他的监视等级设为二级的决心。&lt;/p&gt;
+&lt;p&gt;那时，车子已经回来了，他钻了进去。&lt;/p&gt;
+&lt;p&gt;“说到监控，先生，红色级别还是绿色？”助理问。&lt;/p&gt;
+&lt;p&gt;朋友或敌人？其实那并不是有很大区别。“黄色等级，并立即开始着手现状评估。背景，童年经历，已知的人际关系，人际关系的关系，所有所有诸如此类的一切。”&lt;/p&gt;
+&lt;p&gt;“Yes, sir.”&lt;/p&gt;
+&lt;p&gt;Fin.&lt;/p&gt;
+&lt;p&gt;…………………………………………………………
+PS：喜欢听小熊诗歌的卷福。。。哦真萌。。&lt;/p&gt;
+&lt;p&gt;这一篇属于意外，我翻完了HW去看文发现居然还有这个。纯属意译有bug会很正常尽管指出。而且我觉得里面关于熊的隐喻很不错。兄弟俩啊。还有果然我老觉得童话才是最可怕的东西里面总是会带着不知不觉的血腥跟杀气各种最为黑暗的感觉。。。。。&lt;/p&gt;
+&lt;p&gt;关键是。这里面流氓毫不弱势的警官RG萌到我了。。。哦RG你说选了自己的时候该有多么气势啊嗷捂胸口。。。。。TVT~~&lt;/p&gt;
+&lt;p&gt;最后我最囧的是我完全找不到维尼诗歌的翻译。。。所以被迫还翻了那首诗。。。第一次翻这种东西OJZ大家见谅。&lt;/p&gt;
+
+        &lt;/section&gt;
+    &lt;/article&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
+    &lt;h3&gt;Contents&lt;/h3&gt;
+    TypeError: Cannot read property 'length' of undefined
+&lt;/div&gt; --&gt;
+&lt;div class=&quot;comments&quot;&gt;
+    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	(function(){
+		window.disqus_shortname = 'chengmu1893';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://localhost:9778//trans/[Sherlock]边线与方砖.html';
+		window.disqus_identifier = 'trans-Sherlock------';
+		window.disqus_title = '边线与方砖';
 		if ( window.DISQUS ) {
 			return DISQUS.reset({
 				reload: true,
@@ -2492,9 +2492,9 @@ _gaq.push(['_trackPageview']);
             
                 
                     
-                        &lt;a href=&quot;/trans/[TeenWolf]言明我所思.html&quot; class=&quot;previous&quot;&gt;
+                        &lt;a href=&quot;/trans/[Sherlock]边线与方砖.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            言明我所思/Voicing My Concerns
+                            边线与方砖
                         &lt;/a&gt;
                     
                     &lt;ins&gt;|&lt;/ins&gt;
