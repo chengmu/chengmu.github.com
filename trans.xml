@@ -3,7 +3,7 @@
 	<title>Chengmu1893</title>
 	<link href="http://localhost:9778//atom.xml" rel="self"/>
 	<link href="http://localhost:9778/"/>
-	<updated>2013-07-18T09:54:07.777Z</updated>
+	<updated>2013-07-30T16:48:06.910Z</updated>
 	<id>http://localhost:9778/</id>
 	<author>
 		<name></name>
@@ -12,10 +12,10 @@
 
 	
 		<entry>
-			<title>边线与方砖</title>
-			<link href="http://localhost:9778///trans/[Sherlock]边线与方砖.html"/>
-			<updated>2013-07-03T01:37:19.000Z</updated>
-			<id>http://localhost:9778///trans/[Sherlock]边线与方砖.html</id>
+			<title>好得多的事情/A Far Better Thing</title>
+			<link href="http://localhost:9778///trans/[ST_TOS]好得多的事情.html"/>
+			<updated>2013-07-30T16:38:43.000Z</updated>
+			<id>http://localhost:9778///trans/[ST_TOS]好得多的事情.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
 &lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
@@ -27,7 +27,7 @@
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
 	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;边线与方砖 | Chengmu1893&lt;/title&gt;
+	&lt;title&gt;好得多的事情/A Far Better Thing | Chengmu1893&lt;/title&gt;
 	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
 	&lt;!--[if lte IE 8]&gt;
@@ -37,7 +37,7 @@
 	&lt;![endif]--&gt; 
 
 	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
 	
 	&lt;!-- DocPad Styles + Our Own --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
@@ -152,136 +152,67 @@
                 
             
                 
+            
+                
         &lt;/div&gt;
         &lt;header class=&quot;hd&quot;&gt;
-            &lt;h1&gt;边线与方砖&lt;/h1&gt;
+            &lt;h1&gt;好得多的事情/A Far Better Thing&lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 31 2013&lt;/span&gt;
         &lt;/header&gt;
         &lt;section&gt;
-            &lt;p&gt;Lines and Squares&lt;/p&gt;
-&lt;p&gt;边线与方砖
-Title: Lines and Squares
-Author：[font=&amp;amp;quot]Eleanor K.
-Fandom: Sherlock (2010)
-Rating: PG
-Pairing: Mycroft/Lestrade (前奏，非已有关系。。。。。)
-源地址：&lt;a href=&quot;http://emungere.livejournal.com/244299.html#cutid1&quot;&gt;http://emungere.livejournal.com/244299.html#cutid1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;注：文中引用小熊维尼的同名诗歌，&lt;/p&gt;
-&lt;p&gt;LINESAND SQUARES/边线与方砖&lt;/p&gt;
-&lt;p&gt;Whenever I walk in a London street,.
-每当我走在伦敦街头，
-I&amp;#39;m ever so careful to watch my feet;
-我总是仔细观察自己的步伐
-And I keep in the squares,
-我只走在方块里
-And the masses of bears,
-一群熊聚集
-Who wait at the corners all ready to eat
-他们等在街角伺机而动
-The sillies who tread on the lines of thestreet,
-他们会撕裂踩在边线上的傻瓜
-Go back to their lairs,
-再回到他们的巢穴
-And I say to them, &amp;quot;Bears,
-我对他们说，熊们，
-just look how i&amp;#39;m walking in all thesquares!&amp;quot;
-就在那看着我安然的行走于方块内吧！&lt;/p&gt;
-&lt;p&gt;And the little bears growl to each other,&amp;quot;He&amp;#39;s mine,
-那些熊互相嘶吼“他将是我的，
-As soon as he&amp;#39;s silly and steps on aline.&amp;quot;
-一旦他傻傻的踩上边线。”
-And some of the bigger bears try to pretend
-一些更大的熊假装
-That they came round the corner to look fora friend;
-假装他们在街角等待朋友
-And they try to pretend that nobody cares
-当他们试着若无其事
-Whether you walk on the lines or squares.
-无论你是走在边线还是方格之上
-But only the sillies believe the talk;
-但是只有傻瓜才会相信这些话
-It&amp;#39;s ever so portant how you walk.
-你如何行走非常重要
-And it&amp;#39;s ever so jolly to call out,&amp;quot;Bears,
-去呼喊出来也一样有趣“熊们，
-just watch me walking in all thesquares!&amp;quot;
-就在那看着我安然的行走于方块之内吧！”&lt;/p&gt;
-&lt;p&gt;黑色车子滑进仓库，安然停下。入口此刻已经遍觅不着，仔细安装的灯光系统确保来者只会看到Mycroft打算让他们看到的景象。那男人钻出了车子，然而，完全没扭头四顾。&lt;/p&gt;
-&lt;p&gt;Mycroft给了他把椅子，他拒绝了。这很有趣；没有人曾经坐下过。Mycroft是可以撤掉它，但有些事像礼数什么的还是要保留为好。&lt;/p&gt;
-&lt;p&gt;他们寒暄了些许，或者该说是Mycroft提供各种寒暄，总是受到锐利的盯着看作为回应。没有人拥有像这名警察一般的眼神。这渲染的他几乎深不可测。Lestrade警官带着数量硕大远超他自己年纪的防备，当然跟Mycroft的比起来是算不上什么。&lt;/p&gt;
-&lt;p&gt;“在你最近的几个案子里，你曾经获得过一位Sherlock holmes先生的帮助。”Mycroft说，最终切入正题。Lestrade刚刚从一个恶性案子里退身，正在他回家的路上，肾上腺素，血糖，咖啡因水平此刻都急速下落。这令他脆弱多了，但是Mycroft不想跟反应迟钝的打交道，因此不能拖太久。一线之隔。&lt;/p&gt;
-&lt;p&gt;“Sherlock Holmes经常帮警方做研究。”Lestrade说。面无表情。&lt;/p&gt;
-&lt;p&gt;“你指的是他对可可因的喜好。我相信他已经戒掉了，你在其中功不可没，警官。人们总是会好奇你怎么会接手这么棘手的事的。”&lt;/p&gt;
-&lt;p&gt;“人们总是有没完没了的好奇心的。”Lestrade说，伸手摸索夹克口袋。他点着了一支烟，叼在嘴角。&lt;/p&gt;
-&lt;p&gt;“我们美好城市的警官们并没有得到相应的报酬，我相信。也许我可以在资金方——”&lt;/p&gt;
-&lt;p&gt;“没门。”Lestrade说。&lt;/p&gt;
-&lt;p&gt;“喔唷，很粗鲁哦，警官。你都还没——”&lt;/p&gt;
-&lt;p&gt;“目前我知道的有，”lestrade开口，Mycroft放纵他打断自己，颇为好奇。“你是政府的人。你浑身都是那味道，从鞋子到发胶。所以你要么就会通过官方渠道要么是你不能。要是你可以的话呢，挺好。我相信你能挖出来一切你想知道的关于Sherlock Holmes的事。要是你不能的话呢，你也不可能通过些把戏跟贿赂从我这弄到消息。”&lt;/p&gt;
-&lt;p&gt;“这可会是相当丰厚的一份贿赂。”&lt;/p&gt;
-&lt;p&gt;“不用了谢谢。”&lt;/p&gt;
-&lt;p&gt;他甚至都没考虑它，一秒都没。这种盲目跟不加思索的品行还真是少见。但这个男人不蠢。大多数人在这种情况下会猜测是有组织的犯罪行径，而不会是政府。（一样的玩意，Sherlock估计会这么说的。）&lt;/p&gt;
-&lt;p&gt;Mycroft微笑。“那么也许，我可以请你继续看好他。这可真的有些令人羞耻呢，若是有什么事发生……在他身上。”&lt;/p&gt;
-&lt;p&gt;Lestrade眼神锐利沉默，下巴线条紧绷。并不是威胁，显然Lestrade知道那是没用的。&lt;/p&gt;
-&lt;p&gt;“你为什么找他？”Lestrade说，嗓音竭力镇定，也几乎差点就真的完全镇定了。&lt;/p&gt;
-&lt;p&gt;“现在么？只是为了消息罢了。我确实很担心他。你得理解。他是一个得仔细关照的人。”&lt;/p&gt;
-&lt;p&gt;Lestrade曾说过同样的话，是在一种很安全的距离下，仅仅是如呼吸般轻巧不被人知晓的喃喃。Mycroft在警官家里装了无数的窃听器和监控设备（还有办公室；在Lestrade进入视线前他就有自己在苏格兰场的眼线），Sherlock最近的……住所。&lt;/p&gt;
-&lt;p&gt;两个月前，Lestrade把他从一个废弃的仓库里拖出来，以所有权的事逮了他，后被说服让他参与协助了一系列杀人案件，再后来允许Sherlock在他的沙发上睡了几乎有一个周，直到他们大叫大吵了一场。Lestrade负责大叫；Sherlock，一如既往的，负责吵。似乎是跟浴缸里的八目鳗有关的事，Mycroft记得。&lt;/p&gt;
-&lt;p&gt;他们之间有些什么。Mycroft怀疑是一个约定，跟Sherlock从监狱里被安然释放有关。不准再用可可因。把自己整干净。对自己生活好点。Mycroft没有那场对话的录音，这让他不爽。Sherlock从来不告诉他什么事。但Lestrade也许会，要是Mycroft手段得当的话。目前为止他就是个途径。&lt;/p&gt;
-&lt;p&gt;“你是他哥。”lestrade说。带着突然的确定无疑。&lt;/p&gt;
-&lt;p&gt;Mycroft眨眼，缓缓地，因为表示出惊讶是礼貌的一种要求。这个男人值的以礼相待。Mycroft，实际上，是吃惊了。Lestrade的确凿无疑显然不是建立在像Sherlock那样的推理逻辑上的。纯属直觉，神经末梢之间的一撮电火花。&lt;/p&gt;
-&lt;p&gt;“你是从何推出如此神奇的理论的？”Mycroft说。&lt;/p&gt;
-&lt;p&gt;Lestrade哼了哼。“你刚才说话。你听起来就像他。还有你的眼里。”&lt;/p&gt;
-&lt;p&gt;“我经常被告知我们之间有着颇为微弱的家族相似性。”妈妈总是说Sherlock得到了所有的外表Mycroft得了所有的才干。她关于才干的部分错了。&lt;/p&gt;
-&lt;p&gt;“不是你看起来如何。是你如何看待事物。”&lt;/p&gt;
-&lt;p&gt;这一点立即升到了监控等级二级上。他捕捉到了助理的眼神，她点点头。他只跟了他一个月，已经拥有了一种坦白说来令人震惊的能力，足以理解他的每一个想法和预料到他的每一个念头。&lt;/p&gt;
-&lt;p&gt;“这就是为什么你要把我弄到这集中营里来是么？”Lestrade说，每一个词透出厌倦疲惫和烟草味。&lt;/p&gt;
-&lt;p&gt;“你该回家了警官。我会颇为关注您的事业的。”&lt;/p&gt;
-&lt;p&gt;Lestrade扔下烟头，脚后跟死命的碾了碾。“有一次他说过你的事，他透露了些。”&lt;/p&gt;
-&lt;p&gt;“哦？”Mycroft发现自己顿时兴趣十足。&lt;/p&gt;
-&lt;p&gt;“他说他生病的时候你从学校溜回来给他读书。”Lestrade扔给他半个硬邦邦的笑容。“[font=&amp;amp;quot]A. A. 麦尼。（注：小熊维尼之父。。。）。我还以为会是什么莎士比亚奥维德呢，像你们俩这样的。”&lt;/p&gt;
-&lt;p&gt;“他喜欢关于熊的诗歌。”Mycroft说。多少有些漫不经心，这恐怕是他十年来最没带有防备谨慎的言论。&lt;/p&gt;
-&lt;p&gt;Lestrade重重的笑出声来。“就在那看着我安然的行走于方块内吧”&lt;/p&gt;
-&lt;p&gt;Mycroft挑起一侧眼眉。“我是那剧情里面的熊么？”&lt;/p&gt;
-&lt;p&gt;“不是我的，你像是Sherlock剧情里的熊。”他伴着最后一句话打了个手势。“为什么呢？”&lt;/p&gt;
-&lt;p&gt;“你最好还是去问Sherlock。恐怕我没法告诉你。”&lt;/p&gt;
-&lt;p&gt;“不能，还是不想？”&lt;/p&gt;
-&lt;p&gt;“这无关紧要，警官。两个选项都以你得不到你想要的答案告终。”&lt;/p&gt;
-&lt;p&gt;“要是哪天我要是能从姓Holmes的人那里得到个干脆利落的答案的话，我说不准会头顶个花冠。那么我可以走了，是吧？还是说你还想再多给点威胁？”&lt;/p&gt;
-&lt;p&gt;“没威胁了，这样的。你倒是明早会接到你上司电话。我只是想确定你明白自己立场。是时候选择阵营了，警官。”&lt;/p&gt;
-&lt;p&gt;“已经选完了。”Lestrade说，转身大步走向车子。&lt;/p&gt;
-&lt;p&gt;“哦？”&lt;/p&gt;
-&lt;p&gt;“我自己的。”&lt;/p&gt;
-&lt;p&gt;有意思。Mycroft想。他旋开声控，但是Lestrade回去的路上一言不发。更有趣的是Lestrade回家后打的电话。&lt;/p&gt;
-&lt;p&gt;“干嘛，Lestrade？”Sherlock说。“我正做一个非常重要的实验关系到——”&lt;/p&gt;
-&lt;p&gt;“你有哥哥么？”&lt;/p&gt;
-&lt;p&gt;Sherlock沉默了会，“你知道我有。我以前跟你提过。”&lt;/p&gt;
-&lt;p&gt;“我不确定你记得不。你穷困潦倒的。高个，脱发，大鼻子？有点对你言听计从？”&lt;/p&gt;
-&lt;p&gt;“公务员装扮，老是带着把伞。”Sherlock提醒。&lt;/p&gt;
-&lt;p&gt;“就是他。”&lt;/p&gt;
-&lt;p&gt;“他把你从街上绑走了么？”&lt;/p&gt;
-&lt;p&gt;“常有，是么？”&lt;/p&gt;
-&lt;p&gt;“倒不是非常多，时常会有。你最好不要反抗他。他是个危险的男人。”&lt;/p&gt;
-&lt;p&gt;“是啊，我了解了。他就是这么跟我谈的。他告诉我选个阵营。”&lt;/p&gt;
-&lt;p&gt;“你也跟他说了，当然了，你是站在你自己那的。我也跟他说过一样的话，但是不用担心。我相信他处理你的事还好点，相比较而言你还没那么重要。我得挂了，那血液开始沸腾了。哦。顺便说句，他有可能正在监听你电话。”&lt;/p&gt;
-&lt;p&gt;Sherlock挂了。&lt;/p&gt;
-&lt;p&gt;Lestrade没。Mycroft听着他的呼吸，都能听到他在好奇是不是真的有人在听。总是有人在听的。最后。Lestrade一言不发。没有威胁，没有无用的“要是你在那的话……”这确凿了mycroft将他的监视等级设为二级的决心。&lt;/p&gt;
-&lt;p&gt;那时，车子已经回来了，他钻了进去。&lt;/p&gt;
-&lt;p&gt;“说到监控，先生，红色级别还是绿色？”助理问。&lt;/p&gt;
-&lt;p&gt;朋友或敌人？其实那并不是有很大区别。“黄色等级，并立即开始着手现状评估。背景，童年经历，已知的人际关系，人际关系的关系，所有所有诸如此类的一切。”&lt;/p&gt;
-&lt;p&gt;“Yes, sir.”&lt;/p&gt;
-&lt;p&gt;Fin.&lt;/p&gt;
-&lt;p&gt;…………………………………………………………
-PS：喜欢听小熊诗歌的卷福。。。哦真萌。。&lt;/p&gt;
-&lt;p&gt;这一篇属于意外，我翻完了HW去看文发现居然还有这个。纯属意译有bug会很正常尽管指出。而且我觉得里面关于熊的隐喻很不错。兄弟俩啊。还有果然我老觉得童话才是最可怕的东西里面总是会带着不知不觉的血腥跟杀气各种最为黑暗的感觉。。。。。&lt;/p&gt;
-&lt;p&gt;关键是。这里面流氓毫不弱势的警官RG萌到我了。。。哦RG你说选了自己的时候该有多么气势啊嗷捂胸口。。。。。TVT~~&lt;/p&gt;
-&lt;p&gt;最后我最囧的是我完全找不到维尼诗歌的翻译。。。所以被迫还翻了那首诗。。。第一次翻这种东西OJZ大家见谅。&lt;/p&gt;
+            &lt;p&gt;好得多的事情/A Far Better Thing  by irrelevant&lt;/p&gt;
+&lt;p&gt;好得多的事情/A Far Better Thing&lt;/p&gt;
+&lt;p&gt;原标题：A Far Better Thing&lt;/p&gt;
+&lt;p&gt;标题：好得多的事情&lt;/p&gt;
+&lt;p&gt;作者： irrelevant&lt;/p&gt;
+&lt;p&gt;源地址:&lt;a href=&quot;http://archiveofourown.org/works/99490&quot;&gt;http://archiveofourown.org/works/99490&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Fandom: Star Trek (2009), Star Trek: The Original Series&lt;/p&gt;
+&lt;p&gt;主要角色：TOS宇宙的Spock，Kirk, McCoy。 还有这个宇宙的T&amp;#39;Pring&lt;/p&gt;
+&lt;p&gt;分级： Gen&lt;/p&gt;
+&lt;p&gt;警告：角色死亡&lt;/p&gt;
+&lt;p&gt;梗概：设置在ST11宇宙，但是这是关于原初铁三角的故事。Spock思考失去的本质意味。&lt;/p&gt;
+&lt;p&gt;在沙漠之中，清晨的空气冰冷干燥，涌动不止。风扬起衣袍，袍子下裹着的双腿前行，踢起蓝色的沙土，掩上穿着便鞋的双脚。习惯了联邦飞船严格计算产生的氧气混合物的肺已经苍老，对这空气缺乏抵御能力，宛若灼烧了一般。在他终于抵达山顶的时候，他大喘着气，但又觉得这份愉悦是值得为此付出这么多的。散步，还有双子太阳从紫色的石山后面升起的景象，这是他仅存的不多乐趣中的两种。&lt;/p&gt;
+&lt;p&gt;在很久之前，在一个他永远不能再次得见的地球上，曾有两个最为杰出，而他又有幸结识的人陪着他，一起漫步，攀爬过着裂谷，那座算得上他所见识过的最为诡谲，令人叹为观止的地貌之一的高山。他记得那个时候，站在那，一如他此刻站在悬崖的边界上，也正像当时那个情景里他所处的地方一样。今时今地，和那已是很久很久之前的那时那地,有诸多相似之处；而同时，又是那么截然不同。[注1：电影版第五部，三人去爬山]&lt;/p&gt;
+&lt;p&gt;这个地方不是地球。他脚下的岩石也非红色。那时的他非孤身一人。今天的他，是。&lt;/p&gt;
+&lt;p&gt;从物理存在的角度上来说，他不会孤身一人很久。在五点六分钟内，T&amp;#39;Khut会跟上来，再过十点二分钟，Saamekh也会爬上来。再过十分钟，等Saamekh清干净山路，T&amp;#39;Pring会开始她攀爬的艰难旅程。从山路脚下开始算，她将会在最多十九分钟之内到达他此刻的地方；但他不会看到她。她或许会在他身后大约八米的地方驻足，与他一同屈膝跪下，沉入冥想，既非一起，亦非分离。&lt;/p&gt;
+&lt;p&gt;而等他起身之后，她将已然离开。他不会听到她离开的声音，但是她离开的时候自己会知道。他会感受到她思绪的轻微讯息。&lt;/p&gt;
+&lt;p&gt;在这么多年之后，再次担任起老师的角色，这确实感觉陌生。特别是自己的门徒，在另一个时间——确实是，另一个人生中——或许本可能是他的妻子。在这里，他不过是他的一个学生，以及另一点：她是为数不多仅存的几位经受过T&amp;#39;Sai训练过的Gol侍僧之一，而T&amp;#39;Sai自己则在五年前随同瓦肯星一起死去了。&lt;/p&gt;
+&lt;p&gt;她称他为Selek,他们皆如此称呼他。一位kolinahru除他自己的名字之外再无需其他任何头衔抑或名号。而从某种程度上来说，比起出生时被赋予的名字，Selek更像是他自己的。他为自己选择的名字，两次皆是如此。[注2：第一次使用这个名字参见动画系列S1E2, 这一集里的Spock回到过去拯救童年时的自己，用的正是这个名字]&lt;/p&gt;
+&lt;p&gt;你不能选择你的家族，但你可以选择你的朋友。显然这是一个人类的思考方式，但同样也是真实。人类做出选择：拥有，受赠，给予，促成。而在他生命晚期的这些日子里，他再次发现自己和一个所属者从未存在过的名字相系在一起，追逐一项从未算是必须的任务。尽管他走到这里，促成这一切的决定并非均是他自己做出，但，这名字和使命却是他可以选择的，而且他的确做出了选择。&lt;/p&gt;
+&lt;p&gt;但是……&lt;/p&gt;
+&lt;p&gt;他甚至在自己的脑海里听到了这个助词。总是会有个‘但是’，正如他妈妈经常说的，特别是人类和Tellarites[注3：一种类人生物，Sarek曾描述他们争辩不是为了逻辑和理性，而单纯为了争辩而已。]. 在这一点上，他非常的人性。&lt;/p&gt;
+&lt;p&gt;他嘴角还是轻轻扬了起来，尽管他控制了自己的情绪，用神智将它们深深地压制下去。他已经很久没有动用这份力气，在过去的至少四分之三个Terran[注四:镜像宇宙]世纪里。他轻侧了下头，看着T&amp;#39;Kut往上爬。在二元星系里，M级星球并不常见，正如只有一个恒星的行星系统那样。但Tau Lyra星系却拥有不止一颗M级行星，它有两颗。第一个，MT-1334, 郁郁葱葱满是绿色，比Terra来的更为浓郁，其土地和海面比例与地球大致相等。但第二颗行星就不一样了，的确，也是M级星球，但是水少得多，大气也稀薄的多。人类在MK-2265上呼吸的可不容易。瓦肯人会认为气候非常适宜。或者至少有一个瓦肯人这么认为。他觉得其他自己的族人也会采用他的这种描述方式。&lt;/p&gt;
+&lt;p&gt;他想起了另外的那两个人，然而，虽然在这个已有偏差但依然在前行的世界里，他们俩仍然活着，但两人中的任何一个恐怕都难以理解他的用词。&lt;/p&gt;
+&lt;p&gt;而他所熟悉的那两个人，均不是瓦肯人，但他们会倾听他的话，一个会觉得非常有趣，另一个则会非常吃惊，然后都会仰起头，大笑出声，让人类的笑声充斥这湛蓝的空气之中。接下来，其中一个肯定无疑地会发现有必要给他们俩一人来一针管Tri-ox. 他几乎都能听到那渐渐平息的笑声，还有那紧跟着的咒骂和倒抽气；那声音如此清晰，以至于在他睁开眼，发现这山顶除自己之外空无一人的那一刻，他感到了惊讶，以及……失望？&lt;/p&gt;
+&lt;p&gt;是的，失望。在过去的几年里，这一感觉他几乎太过于习以为常，而与此同时，在很长的一段时间里，他都难以明白其中原因到底在哪。他有一次或许是明白了，但他太虚弱，也太苍老，重新开始对他来说过于艰难。他已经用尽了重新开始的力量。&lt;/p&gt;
+&lt;p&gt;这是个什么见鬼态度，失败主义还蠢得要死？当时是哪个建议我们穿越好几个世纪去找鲸鱼的？显然不是我，我敢打包票！&lt;/p&gt;
+&lt;p&gt;Bones.他无声的叫着这名字，紧紧闭着眼，不想在睁开眼的时候发现自己是看不到的。他从没使用过这个名字，在他们都活着一起航行的时候。只有一次，在Enterprise-B[注三：电影版第七部，就是Kirk殉职的那艘]归来的时候，那个时候，上面没有——。没有。&lt;/p&gt;
+&lt;p&gt;没有他, 已经很久很久，时间漫长，对他来说仿佛永恒，而他也预见了，在这一掠夺之后，所谓的愉悦地生活下去是多么的令人质疑。那医生告诉他，他没有理由不继续他两百年的寿命活下去。没有理由，除了，他已没有了活下去的欲求。&lt;/p&gt;
+&lt;p&gt;情景恰当，变量合适的情况下，光阴便变成了囚牢。这情景未曾被料到，这变量亦不可被预先计算。从各方面来说，这对他而言，都是措手不及。他当时似乎太过于相信他们先前的经历了。&lt;/p&gt;
+&lt;p&gt;衣袍松动的拍打着他的膝盖，他收紧他们，围住自己蹲蜷下来的腿。他估计风速大约以一点四海里每时的速度增长着。他眯起眼，T&amp;#39;Kunt攀爬的身影将他的眼睑也晕成奇怪的绿色。他闭着眼。没有了其他视野景象的干扰，幻觉变得更加精确。膝盖，亦或者是手肘，压制住了他自己的肋骨，在没有人看到的这一刻，他做了这谨慎的小动作。我们拉着他找个地方，别呆在这个吵得要死的酒会上了怎么样？我知道一个小地方，就在23号那，那里供应真正的好东西，绝不一般，你知道我说的是什么。&lt;/p&gt;
+&lt;p&gt;他们去了么？他记不起来了。怎样都好。如果他们没去的话，那总还是有许许多多的机会的，那些所谓的职责和规矩总可以先放置一边。&lt;/p&gt;
+&lt;p&gt;说的再好不过！&lt;/p&gt;
+&lt;p&gt;Leonard, 他想着。Lenoard，我——&lt;/p&gt;
+&lt;p&gt;没关系的，Spock。那声音低而粗糙，像是要笑出来。医生长长的手指轻轻地扫过他凌乱过长的头发。他们会没事的，相信我。你得放手。嘿，你来跟他说，这绿血的混蛋从来不相信我说的一个字。&lt;/p&gt;
+&lt;p&gt;他无法呼吸。他的肺和心脏都在收缩，心血管的肌肉拉抻绷紧，想要得到些什么，但不会有的。他什么都不会做的。&lt;/p&gt;
+&lt;p&gt;他在那里，感受着时间似乎漫长而又短暂。有双手握住他肩头，正像它们曾做过的很多次一样。他的手被握住，他可以轻易挣脱，但有永不会这么做。没关系的，我的朋友。一切……都好。&lt;/p&gt;
+&lt;p&gt;Spock, Sarek之子，Skon的子孙，Solkar的后代，睁开了他的双眼。然后他微笑了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;她发现他侧躺在深蓝色的土地之上，头枕着胳膊，就好像他不过是在小憩，片刻之后便会起身，呼唤她的名字。&lt;/p&gt;
+&lt;p&gt;他并没有入眠。在手指碰触到神智融合的几点之前，她便明白了：他不在了；更仔细的说，他的katra已经离开，她感受到了只有她才能感受到的那种失去的感觉，&lt;/p&gt;
+&lt;p&gt;她合上了他的双眼。在这之后，在First Wake[注:没有查到资料，是葬礼咩？求指教]之前再无别的事情可为他而做。她在他身旁跪下，看着Saamekh从那爬上来。&lt;/p&gt;
+&lt;p&gt;END&lt;/p&gt;
+&lt;p&gt;译者：&lt;/p&gt;
+&lt;p&gt;通篇没有出现过“舰长”亦或者“Kirk”这两个词。读到我心碎。&lt;/p&gt;
+&lt;p&gt;而且显然我翻译的有问题，因为大家都没发现他是自杀的样子。。。&lt;/p&gt;
+&lt;p&gt;翻译匆忙请抓虫和纠正。里面好多东西我都不熟。&lt;/p&gt;
 
         &lt;/section&gt;
     &lt;/article&gt;
 &lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
-    TypeError: Cannot read property 'length' of undefined
+    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
 &lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -289,9 +220,9 @@ PS：喜欢听小熊诗歌的卷福。。。哦真萌。。&lt;/p&gt;
 	(function(){
 		window.disqus_shortname = 'chengmu1893';
 		window.disqus_developer = '1';
-		window.disqus_url = 'http://localhost:9778//trans/[Sherlock]边线与方砖.html';
-		window.disqus_identifier = 'trans-Sherlock------';
-		window.disqus_title = '边线与方砖';
+		window.disqus_url = 'http://localhost:9778//trans/[ST_TOS]好得多的事情.html';
+		window.disqus_identifier = 'trans-ST-TOS-------';
+		window.disqus_title = '好得多的事情/A Far Better Thing';
 		if ( window.DISQUS ) {
 			return DISQUS.reset({
 				reload: true,
@@ -360,7 +291,45 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
 
     &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;var _gaq = _gaq || [];
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){
@@ -375,7 +344,7 @@ _gaq.push(['_trackPageview']);
 		<entry>
 			<title>伪神/Graven Image </title>
 			<link href="http://localhost:9778///trans/[ST_TOS]伪神.html"/>
-			<updated>2013-07-03T01:37:19.000Z</updated>
+			<updated>2013-07-28T15:36:34.000Z</updated>
 			<id>http://localhost:9778///trans/[ST_TOS]伪神.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
@@ -398,7 +367,7 @@ _gaq.push(['_trackPageview']);
 	&lt;![endif]--&gt; 
 
 	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
 	
 	&lt;!-- DocPad Styles + Our Own --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
@@ -489,9 +458,9 @@ _gaq.push(['_trackPageview']);
             
                 
                     
-                        &lt;a href=&quot;/trans/[Sherlock]边线与方砖.html&quot; class=&quot;previous&quot;&gt;
+                        &lt;a href=&quot;/trans/[ST_TOS]好得多的事情.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            边线与方砖
+                            好得多的事情/A Far Better Thing
                         &lt;/a&gt;
                     
                     &lt;ins&gt;|&lt;/ins&gt;
@@ -500,11 +469,13 @@ _gaq.push(['_trackPageview']);
                     &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
                     &lt;ins&gt;|&lt;/ins&gt;
                     
-                         &lt;a href=&quot;/trans/[TeenWolf]言明我所思.html&quot; class=&quot;next&quot;&gt;
-                            言明我所思/Voicing My Concerns &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;a href=&quot;/trans/[Sherlock]来来回回.html&quot; class=&quot;next&quot;&gt;
+                            来来去去/There and Back Again  &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
                          &lt;/a&gt;
                     
 
+                
+            
                 
             
                 
@@ -522,7 +493,7 @@ _gaq.push(['_trackPageview']);
         &lt;header class=&quot;hd&quot;&gt;
             &lt;h1&gt;伪神/Graven Image &lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sun Jul 28 2013&lt;/span&gt;
         &lt;/header&gt;
         &lt;section&gt;
             &lt;p&gt;[ST] [翻译][TOS][镜像!Kirk&amp;amp;Spock][接S2E4]伪神/Graven Image 6-15END   &lt;/p&gt;
@@ -807,7 +778,7 @@ _gaq.push(['_trackPageview']);
     &lt;/article&gt;
 &lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
-    TypeError: Cannot read property 'length' of undefined
+    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
 &lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -886,7 +857,45 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
 
     &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;var _gaq = _gaq || [];
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){
@@ -899,10 +908,10 @@ _gaq.push(['_trackPageview']);
 		</entry>
 	
 		<entry>
-			<title>言明我所思/Voicing My Concerns</title>
-			<link href="http://localhost:9778///trans/[TeenWolf]言明我所思.html"/>
-			<updated>2013-07-03T01:37:19.000Z</updated>
-			<id>http://localhost:9778///trans/[TeenWolf]言明我所思.html</id>
+			<title>来来去去/There and Back Again </title>
+			<link href="http://localhost:9778///trans/[Sherlock]来来回回.html"/>
+			<updated>2013-07-28T15:36:34.000Z</updated>
+			<id>http://localhost:9778///trans/[Sherlock]来来回回.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
 &lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
@@ -914,7 +923,7 @@ _gaq.push(['_trackPageview']);
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
 	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;言明我所思/Voicing My Concerns | Chengmu1893&lt;/title&gt;
+	&lt;title&gt;来来去去/There and Back Again  | Chengmu1893&lt;/title&gt;
 	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
 	&lt;!--[if lte IE 8]&gt;
@@ -924,7 +933,7 @@ _gaq.push(['_trackPageview']);
 	&lt;![endif]--&gt; 
 
 	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
 	
 	&lt;!-- DocPad Styles + Our Own --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
@@ -1028,297 +1037,6 @@ _gaq.push(['_trackPageview']);
                     &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
                     &lt;ins&gt;|&lt;/ins&gt;
                     
-                         &lt;a href=&quot;/trans/[Sherlock]来来回回.html&quot; class=&quot;next&quot;&gt;
-                            来来去去/There and Back Again  &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
-                         &lt;/a&gt;
-                    
-
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-        &lt;/div&gt;
-        &lt;header class=&quot;hd&quot;&gt;
-            &lt;h1&gt;言明我所思/Voicing My Concerns&lt;/h1&gt;
-            &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
-        &lt;/header&gt;
-        &lt;section&gt;
-            &lt;p&gt;【翻译】【Teen Wolf】[Stiles&amp;amp;Derek Gen] 言明我所思/Voicing My Concerns (END) [复制链接]&lt;/p&gt;
-&lt;p&gt;Voicing My Concerns
-言明我所思
-作者： entanglednow
-原文地址：&lt;a href=&quot;http://archiveofourown.org/works/479891&quot;&gt;http://archiveofourown.org/works/479891&lt;/a&gt;.
-分级：Gen
-人物：Stiles Stilinski, Derek Hale
-授权：
-我的留言~：&lt;/p&gt;
-&lt;p&gt;我留言上面刚好是个俄罗斯妹子要授权~于是顺便截图啦 因为以前有为其他fandom的文联系过作者，也翻译过，所以我觉得授权应该靠谱XDDD&lt;/p&gt;
-&lt;p&gt;真是对不起斑竹大人TVT我个废&lt;/p&gt;
-&lt;p&gt;译者：我以前搞过Entanglednow的DC文~亲爱的作者跟自己墙头一致真是幸福的事情~Sterek文中文的太少了内牛&lt;/p&gt;
-&lt;p&gt;洋妹子搞得有声版，有三个版本哦！声情并茂相当带劲XDDD
-有声版这里&lt;a href=&quot;http://archiveofourown.org/works/541738&quot;&gt;http://archiveofourown.org/works/541738&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;“我简直不敢相信，你害我们俩被捕了。到现在你被捕的次数还不够么？” &lt;/p&gt;
-&lt;p&gt;“是你害我们俩被捕了。因为你就是闭不上嘴。”&lt;/p&gt;
-&lt;p&gt;“我可不是那个看起来身份可疑吓死个人的家伙。这事不是我的错。”&lt;/p&gt;
-&lt;p&gt;“这事绝对是你的错。” &lt;/p&gt;
-&lt;p&gt;“那些门槛看起来得有上千年之久了。你或许可以直接撞出去——哦别那么看着我，我没要求你把我们俩都弄出去。就好像你很需要在另一个小镇也成为个逃亡者似的。我只是说，你想的话，也许你可以。还有别再挑眉毛了，也别瞪我了，这里面至少有一半算是你的错。谁叫你那么做事的，鬼鬼祟祟，眼睛活像连环杀手，周身笼罩着的恐吓和戾气。你怎么到现在都没学聪明？你又不是斯科特，五分钟前才搅合进这些事里。你去超市购物也是这幅德行么？你是不是也恐吓那堆可怜的商品了？我必须得说，这太怪里怪气了。你真该停下这种事了。”&lt;/p&gt;
-&lt;p&gt;“斯泰尔斯，闭嘴。”&lt;/p&gt;
-&lt;p&gt;“我觉得到现在你应该够了解我了，在高压环境下保持安静真不是我做得来的事情。我们被捕了，对我来说今天真不是个好日子，对此我深感抱歉。”&lt;/p&gt;
-&lt;p&gt;“我们可能会因为更糟糕的事情被逮进来。”&lt;/p&gt;
-&lt;p&gt;“例如？”&lt;/p&gt;
-&lt;p&gt;“哦，我不知道啊，例如谋杀？盗窃？绑架？损毁遗体？破坏他人财产？以及公开猥亵罪？”&lt;/p&gt;
-&lt;p&gt;“这些我们都没——这些我们都没做。哦我的上帝。我们做了，不是么？这些事我们都做了。我的生活现在变成了什么样啊？我对我的生活做了什么啊？而且，你才是那个公众场所有失体面的，我体面地十全十美。我只是刚好被你的有失体面波及到了。我解释了这堆‘狼人’知识我爸才放过我。但是他还是心理受创了，你当时居然全裸着。你知道，要在不涉及狼人事由的情况下把这事解释清楚有多难么？在事发当场立马即兴捏造出个可信谎言，我的能耐可真没那么大。”&lt;/p&gt;
-&lt;p&gt;“你听到你自己刚刚说了些什么么？”&lt;/p&gt;
-&lt;p&gt;“我这都有擦伤了你知道么，我手腕上清清楚楚的有手铐蹭出来的擦伤啊。手铐是例行流程的一部分，他们一直都这么干，还是我有什么特别的？因为我手腕上都有擦伤了——这擦伤看起来真的很糟糕，而且现在我得告诉所有人，这伤是我跟人上床搞出来的。既然实话是我什么都没干就被逮了起来，‘床上特别爱好’听起来还是要比‘被通缉的罪犯’好。你觉得‘床上特殊爱好’这个理由听起来怎么样？”&lt;/p&gt;
-&lt;p&gt;“他们不能把我们一直关在这里的，我们实际上什么都没干，而且你才十六岁。他们只是给你点教训。”&lt;/p&gt;
-&lt;p&gt;“真的？为什么？这可跟人们一贯以为的你不会因为讨厌别人长什么样被逮捕的观点大相径庭啊。也不会因为他们说话伤了你而逮捕他们。”&lt;/p&gt;
-&lt;p&gt;“或者因为他们叫你‘混蛋’？”&lt;/p&gt;
-&lt;p&gt;“他是个混蛋。”&lt;/p&gt;
-&lt;p&gt;“这就是为什么你被拷上了手铐。你那该死的嘴，斯泰尔斯。我跟你说过什么？下次，我发誓，我一定给你带上口塞。”&lt;/p&gt;
-&lt;p&gt;“嘿，我能听到你说什么呢，而且你根本不用呆在这，德里克。你本来可以直接冲进树林里的。”&lt;/p&gt;
-&lt;p&gt;“不，我做不到。”&lt;/p&gt;
-&lt;p&gt;“你能别再那么冲我咆哮了么，这又不是我的错。而且你又不是第一次被捕。你已经劣迹斑斑了。这可是我第一次被捕，第一次实打实的被捕，被推攘，还戴了手铐。我是个罪犯，我爸爸会失望死的，他会因为失望碎成一地的。你能让我在这哀怨一会么。”&lt;/p&gt;
-&lt;p&gt;“你不是罪犯。他们甚至都不会把这个走文书。他们只会在外面坐一下午，指望我们能够给他们点理由，好起诉我们。”&lt;/p&gt;
-&lt;p&gt;“什么样的理由？”&lt;/p&gt;
-&lt;p&gt;“你才是那个在回警局路上一直扒在我身上不肯下来的。你觉得呢?”&lt;/p&gt;
-&lt;p&gt;“我才没有扒在你身上，我只是确保你不会冲出去揍死他们。再说了，我们俩被单独关在同一间牢房里的时候，能违反什么法律啊——为什么你用一种好像是在说我是个白痴的眼神瞪着我——哦。哦！”&lt;/p&gt;
-&lt;p&gt;译注：有个罪叫做Statutory rape（法定强奸罪），即成人和未成年人发生性关系的话捏。。。成人就算是犯了这个罪啦~&lt;/p&gt;
-
-        &lt;/section&gt;
-    &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    TypeError: Cannot read property 'length' of undefined
-&lt;/div&gt; --&gt;
-&lt;div class=&quot;comments&quot;&gt;
-    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-	(function(){
-		window.disqus_shortname = 'chengmu1893';
-		window.disqus_developer = '1';
-		window.disqus_url = 'http://localhost:9778//trans/[TeenWolf]言明我所思.html';
-		window.disqus_identifier = 'trans-TeenWolf------';
-		window.disqus_title = '言明我所思/Voicing My Concerns';
-		if ( window.DISQUS ) {
-			return DISQUS.reset({
-				reload: true,
-				config: function () {
-					this.page.identifier = window.disqus_identifier;
-					this.page.url = window.disqus_url;
-					this.page.title = window.disqus_title;
-				}
-			});
-		}
-		else {
-		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-		}
-	})();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;
- &lt;!--        &lt;div id=&quot;disqus_thread&quot; class=&quot;comments&quot;&gt;&lt;/div&gt;
-    &lt;script type=&quot;text/javascript&quot;&gt;
-        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    &lt;/script&gt;
-    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
-    
-    &lt;footer class=&quot;footer&quot;&gt;
-	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; • 
-	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; • 
-	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; • 
-	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; • 
-	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
-&lt;/footer&gt;
-&lt;script&gt;
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-41695213-1', 'chengmu.github.io');
-  ga('send', 'pageview');
-
-&lt;/script&gt;
-&lt;script&gt;
-var links = document.links;
-
-for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-       links[i].target = '_blank';
-   } 
-}
-&lt;/script&gt;
-
-
-    &lt;!-- jQuery --&gt;
-    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
-
-    &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'googleAnalytics-id']);
-_gaq.push(['_trackPageview']);
-(function(){
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content>
-		</entry>
-	
-		<entry>
-			<title>来来去去/There and Back Again </title>
-			<link href="http://localhost:9778///trans/[Sherlock]来来回回.html"/>
-			<updated>2013-07-03T01:37:19.000Z</updated>
-			<id>http://localhost:9778///trans/[Sherlock]来来回回.html</id>
-			<content type="html">&lt;!DOCTYPE html&gt;
-&lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot;&gt; &lt;!--&lt;![endif]--&gt;
-&lt;head&gt;
-    &lt;!-- Standard Meta --&gt;
-	&lt;meta charset=&quot;utf-8&quot; /&gt;
-	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
-	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
-	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;来来去去/There and Back Again  | Chengmu1893&lt;/title&gt;
-	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
-	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
-	&lt;!--[if lte IE 8]&gt;
-	&lt;script type=&quot;text/javascript&quot;&gt; 
-		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
-	&lt;/script&gt; 
-	&lt;![endif]--&gt; 
-
-	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
-	
-	&lt;!-- DocPad Styles + Our Own --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
-
-	&lt;!-- Icons --&gt;
-	&lt;!-- Favicon --&gt;
-	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
-	&lt;!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57x57-precomposed.png&quot; /&gt;
-	&lt;!-- For first- and second-generation iPad: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72x72-precomposed.png&quot; /&gt;
-	&lt;!-- For iPhone with high-resolution Retina display: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114x114-precomposed.png&quot; /&gt;
-	&lt;!-- For third-generation iPad with high-resolution Retina display: --&gt;
-	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144x144-precomposed.png&quot; /&gt;
-&lt;/head&gt;
-&lt;body class=&quot;colume-layout&quot;&gt;
-    &lt;!--[if lt IE 7]&gt;
-    &lt;p class=&quot;chromeframe&quot;&gt;You are using an outdated browser. &lt;a href=&quot;http://browsehappy.com/&quot;&gt;Upgrade your browser today&lt;/a&gt; or &lt;a href=&quot;http://www.google.com/chromeframe/?redirect=true&quot;&gt;install Google Chrome Frame&lt;/a&gt; to better experience this site.&lt;/p&gt;
-&lt;![endif]--&gt;
-&lt;header class=&quot;header&quot;&gt;
-	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
-    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
-	&lt;div class=&quot;contacts-icon&quot;&gt;
-		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
-	&lt;/div&gt;
-	&lt;aside class=&quot;aside main-menu&quot;&gt;
-		&lt;ul&gt;
-			
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
-		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me 
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
-		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home 
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
-		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/techs.html&quot;&gt;
-		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;active&quot; href=&quot;/trans.html&quot;&gt;
-		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;	
-		    
-		&lt;/ul&gt;
-	&lt;/aside&gt;
-	
-&lt;/header&gt;
-    &lt;article class=&quot;article-content&quot;&gt;
-        &lt;div class=&quot;article-nav&quot;&gt;
-            
-                
-            
-                
-            
-                
-            
-                
-                    
-                        &lt;a href=&quot;/trans/[TeenWolf]言明我所思.html&quot; class=&quot;previous&quot;&gt;
-                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            言明我所思/Voicing My Concerns
-                        &lt;/a&gt;
-                    
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    
                          &lt;a href=&quot;/trans/[Sherlock]破碎与骨.html&quot; class=&quot;next&quot;&gt;
                             破碎与骨 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
                          &lt;/a&gt;
@@ -1333,11 +1051,15 @@ _gaq.push(['_trackPageview']);
                 
             
                 
+            
+                
+            
+                
         &lt;/div&gt;
         &lt;header class=&quot;hd&quot;&gt;
             &lt;h1&gt;来来去去/There and Back Again &lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sun Jul 28 2013&lt;/span&gt;
         &lt;/header&gt;
         &lt;section&gt;
             &lt;blockquote&gt;
@@ -1460,7 +1182,7 @@ _gaq.push(['_trackPageview']);
     &lt;/article&gt;
 &lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
-    TypeError: Cannot read property 'length' of undefined
+    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
 &lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -1539,7 +1261,45 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
 
     &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;var _gaq = _gaq || [];
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){
@@ -1554,7 +1314,7 @@ _gaq.push(['_trackPageview']);
 		<entry>
 			<title>破碎与骨</title>
 			<link href="http://localhost:9778///trans/[Sherlock]破碎与骨.html"/>
-			<updated>2013-07-03T01:37:19.000Z</updated>
+			<updated>2013-07-28T15:36:34.000Z</updated>
 			<id>http://localhost:9778///trans/[Sherlock]破碎与骨.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
@@ -1577,7 +1337,7 @@ _gaq.push(['_trackPageview']);
 	&lt;![endif]--&gt; 
 
 	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
 	
 	&lt;!-- DocPad Styles + Our Own --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
@@ -1671,8 +1431,6 @@ _gaq.push(['_trackPageview']);
                 
             
                 
-            
-                
                     
                         &lt;a href=&quot;/trans/[Sherlock]来来回回.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
@@ -1697,11 +1455,15 @@ _gaq.push(['_trackPageview']);
                 
             
                 
+            
+                
+            
+                
         &lt;/div&gt;
         &lt;header class=&quot;hd&quot;&gt;
             &lt;h1&gt;破碎与骨&lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sun Jul 28 2013&lt;/span&gt;
         &lt;/header&gt;
         &lt;section&gt;
             &lt;p&gt;[Sherlock][SJ]破碎与骨&lt;/p&gt;
@@ -1853,7 +1615,7 @@ Hi! Don’t worry, it’s okay. I would’ve said yes anyway. I’m very happy y
     &lt;/article&gt;
 &lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
-    TypeError: Cannot read property 'length' of undefined
+    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
 &lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -1932,7 +1694,45 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
 
     &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;var _gaq = _gaq || [];
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){
@@ -1947,7 +1747,7 @@ _gaq.push(['_trackPageview']);
 		<entry>
 			<title>自那之后</title>
 			<link href="http://localhost:9778///trans/[Sherlock]自那之后.html"/>
-			<updated>2013-07-03T01:37:19.000Z</updated>
+			<updated>2013-07-28T15:36:34.000Z</updated>
 			<id>http://localhost:9778///trans/[Sherlock]自那之后.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
@@ -1970,7 +1770,7 @@ _gaq.push(['_trackPageview']);
 	&lt;![endif]--&gt; 
 
 	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
 	
 	&lt;!-- DocPad Styles + Our Own --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
@@ -2066,8 +1866,6 @@ _gaq.push(['_trackPageview']);
                 
             
                 
-            
-                
                     
                         &lt;a href=&quot;/trans/[Sherlock]破碎与骨.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
@@ -2080,11 +1878,15 @@ _gaq.push(['_trackPageview']);
                     &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
                     &lt;ins&gt;|&lt;/ins&gt;
                     
-                         &lt;a href=&quot;/trans/[Sherlock]一猫在手.html&quot; class=&quot;next&quot;&gt;
-                            一猫在手胜似倆头骨蹲壁炉 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;a href=&quot;/trans/[Sherlock]边线与方砖.html&quot; class=&quot;next&quot;&gt;
+                            边线与方砖 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
                          &lt;/a&gt;
                     
 
+                
+            
+                
+            
                 
             
                 
@@ -2094,7 +1896,7 @@ _gaq.push(['_trackPageview']);
         &lt;header class=&quot;hd&quot;&gt;
             &lt;h1&gt;自那之后&lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sun Jul 28 2013&lt;/span&gt;
         &lt;/header&gt;
         &lt;section&gt;
             &lt;h2&gt;自那之后&lt;/h2&gt;
@@ -2274,7 +2076,7 @@ Warnings: none&lt;/p&gt;
     &lt;/article&gt;
 &lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
-    TypeError: Cannot read property 'length' of undefined
+    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
 &lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -2353,7 +2155,45 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
 
     &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;var _gaq = _gaq || [];
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){
@@ -2366,10 +2206,10 @@ _gaq.push(['_trackPageview']);
 		</entry>
 	
 		<entry>
-			<title>一猫在手胜似倆头骨蹲壁炉</title>
-			<link href="http://localhost:9778///trans/[Sherlock]一猫在手.html"/>
-			<updated>2013-06-08T00:00:00.000Z</updated>
-			<id>http://localhost:9778///trans/[Sherlock]一猫在手.html</id>
+			<title>边线与方砖</title>
+			<link href="http://localhost:9778///trans/[Sherlock]边线与方砖.html"/>
+			<updated>2013-07-28T15:36:34.000Z</updated>
+			<id>http://localhost:9778///trans/[Sherlock]边线与方砖.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
 &lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
@@ -2381,7 +2221,7 @@ _gaq.push(['_trackPageview']);
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
 	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;一猫在手胜似倆头骨蹲壁炉 | Chengmu1893&lt;/title&gt;
+	&lt;title&gt;边线与方砖 | Chengmu1893&lt;/title&gt;
 	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
 	&lt;!--[if lte IE 8]&gt;
@@ -2391,7 +2231,413 @@ _gaq.push(['_trackPageview']);
 	&lt;![endif]--&gt; 
 
 	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
+	
+	&lt;!-- DocPad Styles + Our Own --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;!-- Favicon --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
+	&lt;!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57x57-precomposed.png&quot; /&gt;
+	&lt;!-- For first- and second-generation iPad: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72x72-precomposed.png&quot; /&gt;
+	&lt;!-- For iPhone with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114x114-precomposed.png&quot; /&gt;
+	&lt;!-- For third-generation iPad with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144x144-precomposed.png&quot; /&gt;
+&lt;/head&gt;
+&lt;body class=&quot;colume-layout&quot;&gt;
+    &lt;!--[if lt IE 7]&gt;
+    &lt;p class=&quot;chromeframe&quot;&gt;You are using an outdated browser. &lt;a href=&quot;http://browsehappy.com/&quot;&gt;Upgrade your browser today&lt;/a&gt; or &lt;a href=&quot;http://www.google.com/chromeframe/?redirect=true&quot;&gt;install Google Chrome Frame&lt;/a&gt; to better experience this site.&lt;/p&gt;
+&lt;![endif]--&gt;
+&lt;header class=&quot;header&quot;&gt;
+	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
+    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
+	&lt;/div&gt;
+	&lt;aside class=&quot;aside main-menu&quot;&gt;
+		&lt;ul&gt;
+			
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
+		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
+		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
+		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/techs.html&quot;&gt;
+		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;active&quot; href=&quot;/trans.html&quot;&gt;
+		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+		&lt;/ul&gt;
+	&lt;/aside&gt;
+	
+&lt;/header&gt;
+    &lt;article class=&quot;article-content&quot;&gt;
+        &lt;div class=&quot;article-nav&quot;&gt;
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                        &lt;a href=&quot;/trans/[Sherlock]自那之后.html&quot; class=&quot;previous&quot;&gt;
+                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
+                            自那之后
+                        &lt;/a&gt;
+                    
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    
+                         &lt;a href=&quot;/trans/[TeenWolf]言明我所思.html&quot; class=&quot;next&quot;&gt;
+                            言明我所思/Voicing My Concerns &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;/a&gt;
+                    
+
+                
+            
+                
+            
+                
+            
+                
+        &lt;/div&gt;
+        &lt;header class=&quot;hd&quot;&gt;
+            &lt;h1&gt;边线与方砖&lt;/h1&gt;
+            &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sun Jul 28 2013&lt;/span&gt;
+        &lt;/header&gt;
+        &lt;section&gt;
+            &lt;p&gt;Lines and Squares&lt;/p&gt;
+&lt;p&gt;边线与方砖
+Title: Lines and Squares
+Author：[font=&amp;amp;quot]Eleanor K.
+Fandom: Sherlock (2010)
+Rating: PG
+Pairing: Mycroft/Lestrade (前奏，非已有关系。。。。。)
+源地址：&lt;a href=&quot;http://emungere.livejournal.com/244299.html#cutid1&quot;&gt;http://emungere.livejournal.com/244299.html#cutid1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;注：文中引用小熊维尼的同名诗歌，&lt;/p&gt;
+&lt;p&gt;LINESAND SQUARES/边线与方砖&lt;/p&gt;
+&lt;p&gt;Whenever I walk in a London street,.
+每当我走在伦敦街头，
+I&amp;#39;m ever so careful to watch my feet;
+我总是仔细观察自己的步伐
+And I keep in the squares,
+我只走在方块里
+And the masses of bears,
+一群熊聚集
+Who wait at the corners all ready to eat
+他们等在街角伺机而动
+The sillies who tread on the lines of thestreet,
+他们会撕裂踩在边线上的傻瓜
+Go back to their lairs,
+再回到他们的巢穴
+And I say to them, &amp;quot;Bears,
+我对他们说，熊们，
+just look how i&amp;#39;m walking in all thesquares!&amp;quot;
+就在那看着我安然的行走于方块内吧！&lt;/p&gt;
+&lt;p&gt;And the little bears growl to each other,&amp;quot;He&amp;#39;s mine,
+那些熊互相嘶吼“他将是我的，
+As soon as he&amp;#39;s silly and steps on aline.&amp;quot;
+一旦他傻傻的踩上边线。”
+And some of the bigger bears try to pretend
+一些更大的熊假装
+That they came round the corner to look fora friend;
+假装他们在街角等待朋友
+And they try to pretend that nobody cares
+当他们试着若无其事
+Whether you walk on the lines or squares.
+无论你是走在边线还是方格之上
+But only the sillies believe the talk;
+但是只有傻瓜才会相信这些话
+It&amp;#39;s ever so portant how you walk.
+你如何行走非常重要
+And it&amp;#39;s ever so jolly to call out,&amp;quot;Bears,
+去呼喊出来也一样有趣“熊们，
+just watch me walking in all thesquares!&amp;quot;
+就在那看着我安然的行走于方块之内吧！”&lt;/p&gt;
+&lt;p&gt;黑色车子滑进仓库，安然停下。入口此刻已经遍觅不着，仔细安装的灯光系统确保来者只会看到Mycroft打算让他们看到的景象。那男人钻出了车子，然而，完全没扭头四顾。&lt;/p&gt;
+&lt;p&gt;Mycroft给了他把椅子，他拒绝了。这很有趣；没有人曾经坐下过。Mycroft是可以撤掉它，但有些事像礼数什么的还是要保留为好。&lt;/p&gt;
+&lt;p&gt;他们寒暄了些许，或者该说是Mycroft提供各种寒暄，总是受到锐利的盯着看作为回应。没有人拥有像这名警察一般的眼神。这渲染的他几乎深不可测。Lestrade警官带着数量硕大远超他自己年纪的防备，当然跟Mycroft的比起来是算不上什么。&lt;/p&gt;
+&lt;p&gt;“在你最近的几个案子里，你曾经获得过一位Sherlock holmes先生的帮助。”Mycroft说，最终切入正题。Lestrade刚刚从一个恶性案子里退身，正在他回家的路上，肾上腺素，血糖，咖啡因水平此刻都急速下落。这令他脆弱多了，但是Mycroft不想跟反应迟钝的打交道，因此不能拖太久。一线之隔。&lt;/p&gt;
+&lt;p&gt;“Sherlock Holmes经常帮警方做研究。”Lestrade说。面无表情。&lt;/p&gt;
+&lt;p&gt;“你指的是他对可可因的喜好。我相信他已经戒掉了，你在其中功不可没，警官。人们总是会好奇你怎么会接手这么棘手的事的。”&lt;/p&gt;
+&lt;p&gt;“人们总是有没完没了的好奇心的。”Lestrade说，伸手摸索夹克口袋。他点着了一支烟，叼在嘴角。&lt;/p&gt;
+&lt;p&gt;“我们美好城市的警官们并没有得到相应的报酬，我相信。也许我可以在资金方——”&lt;/p&gt;
+&lt;p&gt;“没门。”Lestrade说。&lt;/p&gt;
+&lt;p&gt;“喔唷，很粗鲁哦，警官。你都还没——”&lt;/p&gt;
+&lt;p&gt;“目前我知道的有，”lestrade开口，Mycroft放纵他打断自己，颇为好奇。“你是政府的人。你浑身都是那味道，从鞋子到发胶。所以你要么就会通过官方渠道要么是你不能。要是你可以的话呢，挺好。我相信你能挖出来一切你想知道的关于Sherlock Holmes的事。要是你不能的话呢，你也不可能通过些把戏跟贿赂从我这弄到消息。”&lt;/p&gt;
+&lt;p&gt;“这可会是相当丰厚的一份贿赂。”&lt;/p&gt;
+&lt;p&gt;“不用了谢谢。”&lt;/p&gt;
+&lt;p&gt;他甚至都没考虑它，一秒都没。这种盲目跟不加思索的品行还真是少见。但这个男人不蠢。大多数人在这种情况下会猜测是有组织的犯罪行径，而不会是政府。（一样的玩意，Sherlock估计会这么说的。）&lt;/p&gt;
+&lt;p&gt;Mycroft微笑。“那么也许，我可以请你继续看好他。这可真的有些令人羞耻呢，若是有什么事发生……在他身上。”&lt;/p&gt;
+&lt;p&gt;Lestrade眼神锐利沉默，下巴线条紧绷。并不是威胁，显然Lestrade知道那是没用的。&lt;/p&gt;
+&lt;p&gt;“你为什么找他？”Lestrade说，嗓音竭力镇定，也几乎差点就真的完全镇定了。&lt;/p&gt;
+&lt;p&gt;“现在么？只是为了消息罢了。我确实很担心他。你得理解。他是一个得仔细关照的人。”&lt;/p&gt;
+&lt;p&gt;Lestrade曾说过同样的话，是在一种很安全的距离下，仅仅是如呼吸般轻巧不被人知晓的喃喃。Mycroft在警官家里装了无数的窃听器和监控设备（还有办公室；在Lestrade进入视线前他就有自己在苏格兰场的眼线），Sherlock最近的……住所。&lt;/p&gt;
+&lt;p&gt;两个月前，Lestrade把他从一个废弃的仓库里拖出来，以所有权的事逮了他，后被说服让他参与协助了一系列杀人案件，再后来允许Sherlock在他的沙发上睡了几乎有一个周，直到他们大叫大吵了一场。Lestrade负责大叫；Sherlock，一如既往的，负责吵。似乎是跟浴缸里的八目鳗有关的事，Mycroft记得。&lt;/p&gt;
+&lt;p&gt;他们之间有些什么。Mycroft怀疑是一个约定，跟Sherlock从监狱里被安然释放有关。不准再用可可因。把自己整干净。对自己生活好点。Mycroft没有那场对话的录音，这让他不爽。Sherlock从来不告诉他什么事。但Lestrade也许会，要是Mycroft手段得当的话。目前为止他就是个途径。&lt;/p&gt;
+&lt;p&gt;“你是他哥。”lestrade说。带着突然的确定无疑。&lt;/p&gt;
+&lt;p&gt;Mycroft眨眼，缓缓地，因为表示出惊讶是礼貌的一种要求。这个男人值的以礼相待。Mycroft，实际上，是吃惊了。Lestrade的确凿无疑显然不是建立在像Sherlock那样的推理逻辑上的。纯属直觉，神经末梢之间的一撮电火花。&lt;/p&gt;
+&lt;p&gt;“你是从何推出如此神奇的理论的？”Mycroft说。&lt;/p&gt;
+&lt;p&gt;Lestrade哼了哼。“你刚才说话。你听起来就像他。还有你的眼里。”&lt;/p&gt;
+&lt;p&gt;“我经常被告知我们之间有着颇为微弱的家族相似性。”妈妈总是说Sherlock得到了所有的外表Mycroft得了所有的才干。她关于才干的部分错了。&lt;/p&gt;
+&lt;p&gt;“不是你看起来如何。是你如何看待事物。”&lt;/p&gt;
+&lt;p&gt;这一点立即升到了监控等级二级上。他捕捉到了助理的眼神，她点点头。他只跟了他一个月，已经拥有了一种坦白说来令人震惊的能力，足以理解他的每一个想法和预料到他的每一个念头。&lt;/p&gt;
+&lt;p&gt;“这就是为什么你要把我弄到这集中营里来是么？”Lestrade说，每一个词透出厌倦疲惫和烟草味。&lt;/p&gt;
+&lt;p&gt;“你该回家了警官。我会颇为关注您的事业的。”&lt;/p&gt;
+&lt;p&gt;Lestrade扔下烟头，脚后跟死命的碾了碾。“有一次他说过你的事，他透露了些。”&lt;/p&gt;
+&lt;p&gt;“哦？”Mycroft发现自己顿时兴趣十足。&lt;/p&gt;
+&lt;p&gt;“他说他生病的时候你从学校溜回来给他读书。”Lestrade扔给他半个硬邦邦的笑容。“[font=&amp;amp;quot]A. A. 麦尼。（注：小熊维尼之父。。。）。我还以为会是什么莎士比亚奥维德呢，像你们俩这样的。”&lt;/p&gt;
+&lt;p&gt;“他喜欢关于熊的诗歌。”Mycroft说。多少有些漫不经心，这恐怕是他十年来最没带有防备谨慎的言论。&lt;/p&gt;
+&lt;p&gt;Lestrade重重的笑出声来。“就在那看着我安然的行走于方块内吧”&lt;/p&gt;
+&lt;p&gt;Mycroft挑起一侧眼眉。“我是那剧情里面的熊么？”&lt;/p&gt;
+&lt;p&gt;“不是我的，你像是Sherlock剧情里的熊。”他伴着最后一句话打了个手势。“为什么呢？”&lt;/p&gt;
+&lt;p&gt;“你最好还是去问Sherlock。恐怕我没法告诉你。”&lt;/p&gt;
+&lt;p&gt;“不能，还是不想？”&lt;/p&gt;
+&lt;p&gt;“这无关紧要，警官。两个选项都以你得不到你想要的答案告终。”&lt;/p&gt;
+&lt;p&gt;“要是哪天我要是能从姓Holmes的人那里得到个干脆利落的答案的话，我说不准会头顶个花冠。那么我可以走了，是吧？还是说你还想再多给点威胁？”&lt;/p&gt;
+&lt;p&gt;“没威胁了，这样的。你倒是明早会接到你上司电话。我只是想确定你明白自己立场。是时候选择阵营了，警官。”&lt;/p&gt;
+&lt;p&gt;“已经选完了。”Lestrade说，转身大步走向车子。&lt;/p&gt;
+&lt;p&gt;“哦？”&lt;/p&gt;
+&lt;p&gt;“我自己的。”&lt;/p&gt;
+&lt;p&gt;有意思。Mycroft想。他旋开声控，但是Lestrade回去的路上一言不发。更有趣的是Lestrade回家后打的电话。&lt;/p&gt;
+&lt;p&gt;“干嘛，Lestrade？”Sherlock说。“我正做一个非常重要的实验关系到——”&lt;/p&gt;
+&lt;p&gt;“你有哥哥么？”&lt;/p&gt;
+&lt;p&gt;Sherlock沉默了会，“你知道我有。我以前跟你提过。”&lt;/p&gt;
+&lt;p&gt;“我不确定你记得不。你穷困潦倒的。高个，脱发，大鼻子？有点对你言听计从？”&lt;/p&gt;
+&lt;p&gt;“公务员装扮，老是带着把伞。”Sherlock提醒。&lt;/p&gt;
+&lt;p&gt;“就是他。”&lt;/p&gt;
+&lt;p&gt;“他把你从街上绑走了么？”&lt;/p&gt;
+&lt;p&gt;“常有，是么？”&lt;/p&gt;
+&lt;p&gt;“倒不是非常多，时常会有。你最好不要反抗他。他是个危险的男人。”&lt;/p&gt;
+&lt;p&gt;“是啊，我了解了。他就是这么跟我谈的。他告诉我选个阵营。”&lt;/p&gt;
+&lt;p&gt;“你也跟他说了，当然了，你是站在你自己那的。我也跟他说过一样的话，但是不用担心。我相信他处理你的事还好点，相比较而言你还没那么重要。我得挂了，那血液开始沸腾了。哦。顺便说句，他有可能正在监听你电话。”&lt;/p&gt;
+&lt;p&gt;Sherlock挂了。&lt;/p&gt;
+&lt;p&gt;Lestrade没。Mycroft听着他的呼吸，都能听到他在好奇是不是真的有人在听。总是有人在听的。最后。Lestrade一言不发。没有威胁，没有无用的“要是你在那的话……”这确凿了mycroft将他的监视等级设为二级的决心。&lt;/p&gt;
+&lt;p&gt;那时，车子已经回来了，他钻了进去。&lt;/p&gt;
+&lt;p&gt;“说到监控，先生，红色级别还是绿色？”助理问。&lt;/p&gt;
+&lt;p&gt;朋友或敌人？其实那并不是有很大区别。“黄色等级，并立即开始着手现状评估。背景，童年经历，已知的人际关系，人际关系的关系，所有所有诸如此类的一切。”&lt;/p&gt;
+&lt;p&gt;“Yes, sir.”&lt;/p&gt;
+&lt;p&gt;Fin.&lt;/p&gt;
+&lt;p&gt;…………………………………………………………
+PS：喜欢听小熊诗歌的卷福。。。哦真萌。。&lt;/p&gt;
+&lt;p&gt;这一篇属于意外，我翻完了HW去看文发现居然还有这个。纯属意译有bug会很正常尽管指出。而且我觉得里面关于熊的隐喻很不错。兄弟俩啊。还有果然我老觉得童话才是最可怕的东西里面总是会带着不知不觉的血腥跟杀气各种最为黑暗的感觉。。。。。&lt;/p&gt;
+&lt;p&gt;关键是。这里面流氓毫不弱势的警官RG萌到我了。。。哦RG你说选了自己的时候该有多么气势啊嗷捂胸口。。。。。TVT~~&lt;/p&gt;
+&lt;p&gt;最后我最囧的是我完全找不到维尼诗歌的翻译。。。所以被迫还翻了那首诗。。。第一次翻这种东西OJZ大家见谅。&lt;/p&gt;
+
+        &lt;/section&gt;
+    &lt;/article&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
+    &lt;h3&gt;Contents&lt;/h3&gt;
+    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
+&lt;/div&gt; --&gt;
+&lt;div class=&quot;comments&quot;&gt;
+    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	(function(){
+		window.disqus_shortname = 'chengmu1893';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://localhost:9778//trans/[Sherlock]边线与方砖.html';
+		window.disqus_identifier = 'trans-Sherlock------';
+		window.disqus_title = '边线与方砖';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+ &lt;!--        &lt;div id=&quot;disqus_thread&quot; class=&quot;comments&quot;&gt;&lt;/div&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    &lt;/script&gt;
+    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
+    
+    &lt;footer class=&quot;footer&quot;&gt;
+	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; • 
+	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; • 
+	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
+&lt;/footer&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41695213-1', 'chengmu.github.io');
+  ga('send', 'pageview');
+
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
+&lt;/script&gt;
+
+
+    &lt;!-- jQuery --&gt;
+    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
+
+    &lt;!-- DocPad Scripts + Our Own --&gt;
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+		</entry>
+	
+		<entry>
+			<title>言明我所思/Voicing My Concerns</title>
+			<link href="http://localhost:9778///trans/[TeenWolf]言明我所思.html"/>
+			<updated>2013-07-28T15:36:34.000Z</updated>
+			<id>http://localhost:9778///trans/[TeenWolf]言明我所思.html</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot;&gt; &lt;!--&lt;![endif]--&gt;
+&lt;head&gt;
+    &lt;!-- Standard Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+	&lt;!-- Site Properities --&gt;
+	&lt;title&gt;言明我所思/Voicing My Concerns | Chengmu1893&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
+	&lt;!--[if lte IE 8]&gt;
+	&lt;script type=&quot;text/javascript&quot;&gt; 
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	&lt;/script&gt; 
+	&lt;![endif]--&gt; 
+
+	&lt;!-- DocPad Meta --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
 	
 	&lt;!-- DocPad Styles + Our Own --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
@@ -2492,9 +2738,340 @@ _gaq.push(['_trackPageview']);
             
                 
                     
-                        &lt;a href=&quot;/trans/[Sherlock]自那之后.html&quot; class=&quot;previous&quot;&gt;
+                        &lt;a href=&quot;/trans/[Sherlock]边线与方砖.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            自那之后
+                            边线与方砖
+                        &lt;/a&gt;
+                    
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    
+                         &lt;a href=&quot;/trans/[Sherlock]一猫在手.html&quot; class=&quot;next&quot;&gt;
+                            一猫在手胜似倆头骨蹲壁炉 &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;/a&gt;
+                    
+
+                
+            
+                
+            
+                
+        &lt;/div&gt;
+        &lt;header class=&quot;hd&quot;&gt;
+            &lt;h1&gt;言明我所思/Voicing My Concerns&lt;/h1&gt;
+            &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sun Jul 28 2013&lt;/span&gt;
+        &lt;/header&gt;
+        &lt;section&gt;
+            &lt;p&gt;【翻译】【Teen Wolf】[Stiles&amp;amp;Derek Gen] 言明我所思/Voicing My Concerns (END) [复制链接]&lt;/p&gt;
+&lt;p&gt;Voicing My Concerns
+言明我所思
+作者： entanglednow
+原文地址：&lt;a href=&quot;http://archiveofourown.org/works/479891&quot;&gt;http://archiveofourown.org/works/479891&lt;/a&gt;.
+分级：Gen
+人物：Stiles Stilinski, Derek Hale
+授权：
+我的留言~：&lt;/p&gt;
+&lt;p&gt;我留言上面刚好是个俄罗斯妹子要授权~于是顺便截图啦 因为以前有为其他fandom的文联系过作者，也翻译过，所以我觉得授权应该靠谱XDDD&lt;/p&gt;
+&lt;p&gt;真是对不起斑竹大人TVT我个废&lt;/p&gt;
+&lt;p&gt;译者：我以前搞过Entanglednow的DC文~亲爱的作者跟自己墙头一致真是幸福的事情~Sterek文中文的太少了内牛&lt;/p&gt;
+&lt;p&gt;洋妹子搞得有声版，有三个版本哦！声情并茂相当带劲XDDD
+有声版这里&lt;a href=&quot;http://archiveofourown.org/works/541738&quot;&gt;http://archiveofourown.org/works/541738&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;“我简直不敢相信，你害我们俩被捕了。到现在你被捕的次数还不够么？” &lt;/p&gt;
+&lt;p&gt;“是你害我们俩被捕了。因为你就是闭不上嘴。”&lt;/p&gt;
+&lt;p&gt;“我可不是那个看起来身份可疑吓死个人的家伙。这事不是我的错。”&lt;/p&gt;
+&lt;p&gt;“这事绝对是你的错。” &lt;/p&gt;
+&lt;p&gt;“那些门槛看起来得有上千年之久了。你或许可以直接撞出去——哦别那么看着我，我没要求你把我们俩都弄出去。就好像你很需要在另一个小镇也成为个逃亡者似的。我只是说，你想的话，也许你可以。还有别再挑眉毛了，也别瞪我了，这里面至少有一半算是你的错。谁叫你那么做事的，鬼鬼祟祟，眼睛活像连环杀手，周身笼罩着的恐吓和戾气。你怎么到现在都没学聪明？你又不是斯科特，五分钟前才搅合进这些事里。你去超市购物也是这幅德行么？你是不是也恐吓那堆可怜的商品了？我必须得说，这太怪里怪气了。你真该停下这种事了。”&lt;/p&gt;
+&lt;p&gt;“斯泰尔斯，闭嘴。”&lt;/p&gt;
+&lt;p&gt;“我觉得到现在你应该够了解我了，在高压环境下保持安静真不是我做得来的事情。我们被捕了，对我来说今天真不是个好日子，对此我深感抱歉。”&lt;/p&gt;
+&lt;p&gt;“我们可能会因为更糟糕的事情被逮进来。”&lt;/p&gt;
+&lt;p&gt;“例如？”&lt;/p&gt;
+&lt;p&gt;“哦，我不知道啊，例如谋杀？盗窃？绑架？损毁遗体？破坏他人财产？以及公开猥亵罪？”&lt;/p&gt;
+&lt;p&gt;“这些我们都没——这些我们都没做。哦我的上帝。我们做了，不是么？这些事我们都做了。我的生活现在变成了什么样啊？我对我的生活做了什么啊？而且，你才是那个公众场所有失体面的，我体面地十全十美。我只是刚好被你的有失体面波及到了。我解释了这堆‘狼人’知识我爸才放过我。但是他还是心理受创了，你当时居然全裸着。你知道，要在不涉及狼人事由的情况下把这事解释清楚有多难么？在事发当场立马即兴捏造出个可信谎言，我的能耐可真没那么大。”&lt;/p&gt;
+&lt;p&gt;“你听到你自己刚刚说了些什么么？”&lt;/p&gt;
+&lt;p&gt;“我这都有擦伤了你知道么，我手腕上清清楚楚的有手铐蹭出来的擦伤啊。手铐是例行流程的一部分，他们一直都这么干，还是我有什么特别的？因为我手腕上都有擦伤了——这擦伤看起来真的很糟糕，而且现在我得告诉所有人，这伤是我跟人上床搞出来的。既然实话是我什么都没干就被逮了起来，‘床上特别爱好’听起来还是要比‘被通缉的罪犯’好。你觉得‘床上特殊爱好’这个理由听起来怎么样？”&lt;/p&gt;
+&lt;p&gt;“他们不能把我们一直关在这里的，我们实际上什么都没干，而且你才十六岁。他们只是给你点教训。”&lt;/p&gt;
+&lt;p&gt;“真的？为什么？这可跟人们一贯以为的你不会因为讨厌别人长什么样被逮捕的观点大相径庭啊。也不会因为他们说话伤了你而逮捕他们。”&lt;/p&gt;
+&lt;p&gt;“或者因为他们叫你‘混蛋’？”&lt;/p&gt;
+&lt;p&gt;“他是个混蛋。”&lt;/p&gt;
+&lt;p&gt;“这就是为什么你被拷上了手铐。你那该死的嘴，斯泰尔斯。我跟你说过什么？下次，我发誓，我一定给你带上口塞。”&lt;/p&gt;
+&lt;p&gt;“嘿，我能听到你说什么呢，而且你根本不用呆在这，德里克。你本来可以直接冲进树林里的。”&lt;/p&gt;
+&lt;p&gt;“不，我做不到。”&lt;/p&gt;
+&lt;p&gt;“你能别再那么冲我咆哮了么，这又不是我的错。而且你又不是第一次被捕。你已经劣迹斑斑了。这可是我第一次被捕，第一次实打实的被捕，被推攘，还戴了手铐。我是个罪犯，我爸爸会失望死的，他会因为失望碎成一地的。你能让我在这哀怨一会么。”&lt;/p&gt;
+&lt;p&gt;“你不是罪犯。他们甚至都不会把这个走文书。他们只会在外面坐一下午，指望我们能够给他们点理由，好起诉我们。”&lt;/p&gt;
+&lt;p&gt;“什么样的理由？”&lt;/p&gt;
+&lt;p&gt;“你才是那个在回警局路上一直扒在我身上不肯下来的。你觉得呢?”&lt;/p&gt;
+&lt;p&gt;“我才没有扒在你身上，我只是确保你不会冲出去揍死他们。再说了，我们俩被单独关在同一间牢房里的时候，能违反什么法律啊——为什么你用一种好像是在说我是个白痴的眼神瞪着我——哦。哦！”&lt;/p&gt;
+&lt;p&gt;译注：有个罪叫做Statutory rape（法定强奸罪），即成人和未成年人发生性关系的话捏。。。成人就算是犯了这个罪啦~&lt;/p&gt;
+
+        &lt;/section&gt;
+    &lt;/article&gt;
+&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
+    &lt;h3&gt;Contents&lt;/h3&gt;
+    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
+&lt;/div&gt; --&gt;
+&lt;div class=&quot;comments&quot;&gt;
+    &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+	(function(){
+		window.disqus_shortname = 'chengmu1893';
+		window.disqus_developer = '1';
+		window.disqus_url = 'http://localhost:9778//trans/[TeenWolf]言明我所思.html';
+		window.disqus_identifier = 'trans-TeenWolf------';
+		window.disqus_title = '言明我所思/Voicing My Concerns';
+		if ( window.DISQUS ) {
+			return DISQUS.reset({
+				reload: true,
+				config: function () {
+					this.page.identifier = window.disqus_identifier;
+					this.page.url = window.disqus_url;
+					this.page.title = window.disqus_title;
+				}
+			});
+		}
+		else {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}
+	})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;/div&gt;
+ &lt;!--        &lt;div id=&quot;disqus_thread&quot; class=&quot;comments&quot;&gt;&lt;/div&gt;
+    &lt;script type=&quot;text/javascript&quot;&gt;
+        /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+        var disqus_shortname = 'chengmu1893'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    &lt;/script&gt;
+    &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;http://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+    &lt;a href=&quot;http://disqus.com&quot; class=&quot;dsq-brlink&quot;&gt;comments powered by &lt;span class=&quot;logo-disqus&quot;&gt;Disqus&lt;/span&gt;&lt;/a&gt; --&gt;
+    
+    &lt;footer class=&quot;footer&quot;&gt;
+	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; • 
+	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; • 
+	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; • 
+	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
+&lt;/footer&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41695213-1', 'chengmu.github.io');
+  ga('send', 'pageview');
+
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   } 
+}
+&lt;/script&gt;
+
+
+    &lt;!-- jQuery --&gt;
+    &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
+
+    &lt;!-- DocPad Scripts + Our Own --&gt;
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'googleAnalytics-id']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/log.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/modernizr.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+		</entry>
+	
+		<entry>
+			<title>一猫在手胜似倆头骨蹲壁炉</title>
+			<link href="http://localhost:9778///trans/[Sherlock]一猫在手.html"/>
+			<updated>2013-06-08T00:00:00.000Z</updated>
+			<id>http://localhost:9778///trans/[Sherlock]一猫在手.html</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 7]&gt;         &lt;html class=&quot;no-js lt-ie9 lt-ie8&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 8]&gt;         &lt;html class=&quot;no-js lt-ie9&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&quot;no-js&quot;&gt; &lt;!--&lt;![endif]--&gt;
+&lt;head&gt;
+    &lt;!-- Standard Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+	&lt;!-- Site Properities --&gt;
+	&lt;title&gt;一猫在手胜似倆头骨蹲壁炉 | Chengmu1893&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
+	&lt;!--[if lte IE 8]&gt;
+	&lt;script type=&quot;text/javascript&quot;&gt; 
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	&lt;/script&gt; 
+	&lt;![endif]--&gt; 
+
+	&lt;!-- DocPad Meta --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
+	
+	&lt;!-- DocPad Styles + Our Own --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;!-- Favicon --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
+	&lt;!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; href=&quot;icons/apple-touch-icon-57x57-precomposed.png&quot; /&gt;
+	&lt;!-- For first- and second-generation iPad: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;72x72&quot; href=&quot;icons/apple-touch-icon-72x72-precomposed.png&quot; /&gt;
+	&lt;!-- For iPhone with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;114x114&quot; href=&quot;icons/apple-touch-icon-114x114-precomposed.png&quot; /&gt;
+	&lt;!-- For third-generation iPad with high-resolution Retina display: --&gt;
+	&lt;link rel=&quot;apple-touch-icon-precomposed&quot; sizes=&quot;144x144&quot; href=&quot;icons/apple-touch-icon-144x144-precomposed.png&quot; /&gt;
+&lt;/head&gt;
+&lt;body class=&quot;colume-layout&quot;&gt;
+    &lt;!--[if lt IE 7]&gt;
+    &lt;p class=&quot;chromeframe&quot;&gt;You are using an outdated browser. &lt;a href=&quot;http://browsehappy.com/&quot;&gt;Upgrade your browser today&lt;/a&gt; or &lt;a href=&quot;http://www.google.com/chromeframe/?redirect=true&quot;&gt;install Google Chrome Frame&lt;/a&gt; to better experience this site.&lt;/p&gt;
+&lt;![endif]--&gt;
+&lt;header class=&quot;header&quot;&gt;
+	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
+    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt; 
+	&lt;/div&gt;
+	&lt;aside class=&quot;aside main-menu&quot;&gt;
+		&lt;ul&gt;
+			
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
+		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
+		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home 
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
+		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/techs.html&quot;&gt;
+		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;active&quot; href=&quot;/trans.html&quot;&gt;
+		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans 
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;	
+		    
+		&lt;/ul&gt;
+	&lt;/aside&gt;
+	
+&lt;/header&gt;
+    &lt;article class=&quot;article-content&quot;&gt;
+        &lt;div class=&quot;article-nav&quot;&gt;
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                        &lt;a href=&quot;/trans/[TeenWolf]言明我所思.html&quot; class=&quot;previous&quot;&gt;
+                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
+                            言明我所思/Voicing My Concerns
                         &lt;/a&gt;
                     
                     &lt;ins&gt;|&lt;/ins&gt;
@@ -2570,7 +3147,7 @@ Characters: Sherlock+John&lt;/p&gt;
     &lt;/article&gt;
 &lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
-    TypeError: Cannot read property 'length' of undefined
+    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
 &lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -2649,7 +3226,45 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
 
     &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;var _gaq = _gaq || [];
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){

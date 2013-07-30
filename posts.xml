@@ -3,7 +3,7 @@
 	<title>Chengmu1893</title>
 	<link href="http://localhost:9778//atom.xml" rel="self"/>
 	<link href="http://localhost:9778/"/>
-	<updated>2013-07-18T09:54:07.777Z</updated>
+	<updated>2013-07-30T16:48:06.910Z</updated>
 	<id>http://localhost:9778/</id>
 	<author>
 		<name></name>
@@ -14,7 +14,7 @@
 		<entry>
 			<title>fisrt post!</title>
 			<link href="http://localhost:9778///posts/testpost.html"/>
-			<updated>2013-07-03T01:37:19.000Z</updated>
+			<updated>2013-07-28T15:36:34.000Z</updated>
 			<id>http://localhost:9778///posts/testpost.html</id>
 			<content type="html">&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;      &lt;html class=&quot;no-js lt-ie9 lt-ie8 lt-ie7&quot;&gt; &lt;![endif]--&gt;
@@ -37,7 +37,7 @@
 	&lt;![endif]--&gt; 
 
 	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.44.0&quot;/&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
 	
 	&lt;!-- DocPad Styles + Our Own --&gt;
 	&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
@@ -140,7 +140,7 @@
         &lt;header class=&quot;hd&quot;&gt;
             &lt;h1&gt;fisrt post!&lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;posts&lt;/span&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Wed Jul 03 2013&lt;/span&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sun Jul 28 2013&lt;/span&gt;
         &lt;/header&gt;
         &lt;section&gt;
             &lt;h2&gt;Try Try Try&lt;/h2&gt;
@@ -155,7 +155,7 @@
     &lt;/article&gt;
 &lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
     &lt;h3&gt;Contents&lt;/h3&gt;
-    TypeError: Cannot read property 'length' of undefined
+    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
 &lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
@@ -234,7 +234,45 @@ for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
     &lt;script&gt;window.jQuery || document.write('&lt;script src=&quot;/vendor/jquery.js&quot;&gt;&lt;\/script&gt;')&lt;/script&gt;
 
     &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;var _gaq = _gaq || [];
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = true &amp;&amp; localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true;
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReloaded at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var socket = io.connect('/docpad-livereload');
+	socket.on('regenerated',function(){
+		if ( log ) {
+	localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+}
+document.location.reload();
+	});
+};
+	if ( typeof io !== 'undefined' ) {
+		listen();
+	} else {
+		/* Inject socket.io into our page then listen once loaded */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = true;
+	t.src = '/socket.io/socket.io.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t,s);
+};
+		var readyStateCheckInterval = setInterval(function() {
+  if (document.readyState === &quot;complete&quot;) {
+    inject();
+    clearInterval(readyStateCheckInterval);
+  }
+}, 10);
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
 _gaq.push(['_setAccount', 'googleAnalytics-id']);
 _gaq.push(['_trackPageview']);
 (function(){
