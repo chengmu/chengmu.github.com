@@ -128,13 +128,11 @@
                 
             
                 
-            
-                
         </div>
         <header class="hd">
             <h1>docpad建站记录</h1>
             <span class="catalogue">techs</span>
-            <span class="post-date">Sun Jul 28 2013</span>
+            <span class="post-date">Thu Jul 04 2013</span>
         </header>
         <section>
             <p>记一下用docpad建站的过程作为备忘。不定时更新</p>
@@ -182,9 +180,9 @@
 <p>参考<a href="http://docpad.org/docs/config">Docpad Configuration</a>.</p>
 <h3>目录结构及用途</h3>
 <p>以我自己的站点目录为例：</p>
-<pre class="highlighted"><code class="javascript">+ node_module <span class="comment">//存放各种模块 </span>
+<pre class="highlighted"><code class="javascript">+ node_module <span class="comment">//存放各种模块</span>
 + src  <span class="comment">//源码目录，主工作区~ 里面的东西会经过编译后生成静态页面，导出到out文件夹内</span>
-    + documents 
+    + documents
         + styles   <span class="comment">//样式文件+字体</span>
         + scripts  <span class="comment">//脚本</span>
         + posts    <span class="comment">//这三个是我自己定义的目录，用来做为我文档的归类</span>
@@ -215,14 +213,14 @@ title : 'Docpad建站记录'
             <span class="vbscript">&lt;% <span class="keyword">for</span> page <span class="keyword">in</span> @getCollection(<span class="string">"pages"</span>).toJSON(): %&gt;</span>
                 <span class="tag">&lt;<span class="title">li</span>&gt;</span>
                     <span class="tag">&lt;<span class="title">a</span> <span class="attribute">class</span>=<span class="value">"&lt;%= if page.id is @document.id || page.pack is @document.relativeOutDirPath then 'active' else 'inactive' %&gt;"</span> <span class="attribute">href</span>=<span class="value">"&lt;%= page.url %&gt;"</span>&gt;</span>
-                        <span class="tag">&lt;<span class="title">i</span> <span class="attribute">class</span>=<span class="value">"icon-&lt;%= page.icon %&gt;"</span>&gt;</span><span class="tag">&lt;/<span class="title">i</span>&gt;</span> <span class="vbscript">&lt;%= page.title %&gt;</span> 
+                        <span class="tag">&lt;<span class="title">i</span> <span class="attribute">class</span>=<span class="value">"icon-&lt;%= page.icon %&gt;"</span>&gt;</span><span class="tag">&lt;/<span class="title">i</span>&gt;</span> <span class="vbscript">&lt;%= page.title %&gt;</span>
                     <span class="tag">&lt;/<span class="title">a</span>&gt;</span>
                     <span class="vbscript">&lt;%<span class="keyword">if</span> page.pack: %&gt;</span>
                     <span class="tag">&lt;<span class="title">a</span> <span class="attribute">href</span>=<span class="value">"&lt;%= if !@document.isPage then '../'%&gt;&lt;%= page.pack%&gt;.xml"</span> <span class="attribute">class</span>=<span class="value">"rss"</span>&gt;</span>
                         <span class="tag">&lt;<span class="title">i</span> <span class="attribute">class</span>=<span class="value">"icon-rss"</span>&gt;</span><span class="tag">&lt;/<span class="title">i</span>&gt;</span>
                     <span class="tag">&lt;/<span class="title">a</span>&gt;</span>
                     <span class="vbscript">&lt;%<span class="keyword">end</span>%&gt;</span>
-                   <span class="tag">&lt;/<span class="title">li</span>&gt;</span>    
+                   <span class="tag">&lt;/<span class="title">li</span>&gt;</span>
             <span class="vbscript">&lt;% <span class="keyword">end</span> %&gt;</span>
         <span class="tag">&lt;/<span class="title">ul</span>&gt;</span></code></pre>
 <p>组织文章的方法我是在这篇博文里学的<a href="http://takitapart.com/posts/organizing-docpad/">ORGANIZING DOCPAD</a>，顺便赞美下这位的站点设计。</p>
@@ -243,7 +241,7 @@ title : 'Docpad建站记录'
     <span class="tag">&lt;<span class="title">feed</span> <span class="attribute">xmlns</span>=<span class="value">"http://www.w3.org/2005/Atom"</span>&gt;</span>
         <span class="tag">&lt;<span class="title">title</span>&gt;</span><span class="vbscript">&lt;%= @site.title %&gt;</span><span class="tag">&lt;/<span class="title">title</span>&gt;</span>
         <span class="tag">&lt;<span class="title">link</span> <span class="attribute">href</span>=<span class="value">"&lt;%= @site.url %&gt;/atom.xml"</span> <span class="attribute">rel</span>=<span class="value">"self"</span>/&gt;</span>
-        <span class="tag">&lt;<span class="title">link</span> <span class="attribute">href</span>=<span class="value">"&lt;%= @site.url %&gt;"</span>/&gt;</span> 
+        <span class="tag">&lt;<span class="title">link</span> <span class="attribute">href</span>=<span class="value">"&lt;%= @site.url %&gt;"</span>/&gt;</span>
         <span class="tag">&lt;<span class="title">updated</span>&gt;</span><span class="vbscript">&lt;%= @site.<span class="built_in">date</span>.toISOString() %&gt;</span><span class="tag">&lt;/<span class="title">updated</span>&gt;</span>
         <span class="tag">&lt;<span class="title">id</span>&gt;</span><span class="vbscript">&lt;%= @site.url %&gt;</span><span class="tag">&lt;/<span class="title">id</span>&gt;</span>
         <span class="tag">&lt;<span class="title">author</span>&gt;</span>

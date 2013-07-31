@@ -125,13 +125,7 @@
                     <a href="../index.html">Home</a>
                     <ins>|</ins>
                     
-                         <a href="/techs/w3notes.html" class="next">
-                            w3新人记录 <span>&gt;&gt;</span>
-                         </a>
-                    
 
-                
-            
                 
             
                 
@@ -139,7 +133,7 @@
         <header class="hd">
             <h1>Mobile上的viewport及各种概念澄清贴</h1>
             <span class="catalogue">techs</span>
-            <span class="post-date">Sun Jul 28 2013</span>
+            <span class="post-date">Thu Jul 04 2013</span>
         </header>
         <section>
             <h3>device Pixel &amp; CSS Pixel</h3>
@@ -167,7 +161,7 @@ IOS上直接获取 <code>screen.width</code> 就是。</p>
 </li>
 <li><p><code>dppx</code> : device pixel / css pixel; 这个词其实我是在Lea的dpi计算工具里见到的。</p>
 <blockquote>
-<p>(dppx) for the amount of device pixels per CSS pixel </p>
+<p>(dppx) for the amount of device pixels per CSS pixel</p>
 </blockquote>
 </li>
 <li><p><code>devicePiexlRatio</code> :webkit浏览器（包括opera）支持的一个window属性，在console里面打window.devicePiexlRatio就能看到啦。可参见PPK写的相关博文，<a href="http://www.quirksmode.org/blog/archives/2012/06/devicepixelrati.html">devicePixelRatio</a>及后续<a href="http://www.quirksmode.org/blog/archives/2012/07/more_about_devi.html">More about devicePixelRatio</a>; 国内的张鑫旭也写了很不错的分析： <a href="http://www.zhangxinxu.com/wordpress/2012/08/window-devicepixelratio/">设备像素比devicePixelRatio简单介绍</a></p>
@@ -179,7 +173,7 @@ IOS上直接获取 <code>screen.width</code> 就是。</p>
 <p>meta设置的取值分两类：<code>width</code>, <code>height</code> 和 <code>scale</code>：</p>
 <h4>width &amp; height</h4>
 <p>这一设置改变的是layout viewport的宽度。layout viewport的宽度便是我们的文档真正依托的布局宽度。</p>
-<p>对应 <code>documentElement.clientWidth</code> 。 </p>
+<p>对应 <code>documentElement.clientWidth</code> 。</p>
 <blockquote>
 <p>注意！这里所说的html的宽度是外界限制定的，css不能控制，不是说你设meta里width为320，把body宽度设置成640，这个layout就变成640了。实际上还是320，然后滚动条出现啦！除非你还禁止了缩放，那连滚动条都没了。</p>
 </blockquote>
