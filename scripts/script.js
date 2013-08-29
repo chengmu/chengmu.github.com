@@ -19,7 +19,7 @@ if (ieV && ieV === 8) {
     ieTips.style.textAlign = 'center';
 
 
-    ieTips.innerHTML = ['装个好点的浏览器吧。。比如<a style="font-size:14px;color:red;" href="http://www.google.cn/intl/zh-CN/chrome/">Chrome</a> 。。。因为窝还没有很仔细的做兼容而你刚好用的是IE浏览器或者山寨浏览器的兼容模式，所以这里看起来应该挺惨的。。。IE什么的最讨厌了。。<a style="font-size:14px;color:red;font-weight:bold;text-decoration:underline;" href="http://www.google.cn/intl/zh-CN/chrome/">Chrome</a>浏览器多好啊_(:з」∠)_'];
+    ieTips.innerHTML = ['装个好点的浏览器吧。。比如<a style="font-size:14px;color:red;font-weight:bold;text-decoration:underline;" href="http://www.google.cn/intl/zh-CN/chrome/">Chrome</a> 。。。因为窝还没有很仔细的做兼容而你刚好用的是IE浏览器或者山寨浏览器的兼容模式，所以这里看起来应该挺惨的。。。IE什么的最讨厌了。。<a style="font-size:14px;color:red;font-weight:bold;text-decoration:underline;" href="http://www.google.cn/intl/zh-CN/chrome/">Chrome</a>浏览器多好啊_(:з」∠)_'];
 
     document.getElementsByTagName('body')[0].appendChild(ieTips);
 

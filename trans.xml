@@ -6531,8 +6531,8 @@ _gaq.push(['_trackPageview']);
                     &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
                     &lt;ins&gt;|&lt;/ins&gt;
                     
-                         &lt;a href=&quot;/trans/[Sherlock]感官记忆.html&quot; class=&quot;next&quot;&gt;
-                            感官记忆/Sense Memory &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;a href=&quot;/trans/[Sherlock]自那之后.html&quot; class=&quot;next&quot;&gt;
+                            自那之后/And What Happened After &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
                          &lt;/a&gt;
                     
 
@@ -6861,6 +6861,826 @@ _gaq.push(['_trackPageview']);
 		</entry>
 	
 		<entry>
+			<title>自那之后/And What Happened After</title>
+			<link href="http://localhost:9778///trans/[Sherlock]自那之后.html"/>
+			<updated>2011-03-26T00:00:00.000Z</updated>
+			<id>http://localhost:9778///trans/[Sherlock]自那之后.html</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;!--[if lt IE 7 ]&gt; &lt;html class=&quot;ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 7 ]&gt;    &lt;html class=&quot;ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 8 ]&gt;    &lt;html class=&quot;ie8&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 9 ]&gt;    &lt;html class=&quot;ie9&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if (gt IE 9)|!(IE)]&gt;&lt;!--&gt; &lt;html class=&quot;&quot;&gt; &lt;!--&lt;![endif]--&gt;
+&lt;head&gt;
+&lt;!-- Standard Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+	&lt;!-- Site Properities --&gt;
+	&lt;title&gt;自那之后/And What Happened After | Chengmu1893&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
+	&lt;!--[if lte IE 8]&gt;
+	&lt;script type=&quot;text/javascript&quot;&gt;
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- DocPad Meta --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
+
+	&lt;!-- DocPad Styles + Our Own --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;!-- Favicon --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
+	&lt;!--[if lt IE 8 ]&gt;
+	&lt;script&gt;
+		window.location = &quot;/notsupport.html&quot;
+	&lt;/script&gt;
+	&lt;!--&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body class=&quot;colume-layout&quot;&gt;
+    &lt;header class=&quot;header&quot;&gt;
+	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
+    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
+&lt;!--[if IE 8]&gt;
+	&lt;img style=&quot;display:block;border:none;&quot; class=&quot;avatar&quot; src=&quot;/styles/images/avatar.jpg&quot; width=&quot;60&quot; height=&quot;60&quot; /&gt;
+&lt;![endif]--&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://huaban.com/ywphrm9kqx/&quot;  title=&quot;窝的花瓣网！里面收集好多图\(^o^)/&quot;&gt;&lt;i class=&quot;icon-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://ask.fm/chengmu&quot;  title=&quot;问我！&quot;&gt;&lt;i class=&quot;icon-ask&quot;&gt;&lt;/i&gt;ASK!&lt;/a&gt;
+
+	&lt;/div&gt;
+	&lt;aside class=&quot;aside main-menu&quot;&gt;
+		&lt;ul&gt;
+			
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
+		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
+		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
+		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/techs.html&quot;&gt;
+		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;active&quot; href=&quot;/trans.html&quot;&gt;
+		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;
+		    
+		&lt;/ul&gt;
+	&lt;/aside&gt;
+	&lt;div&gt;
+&lt;iframe src=&quot;http://ask.fm/widget/a33014f84fa7914a22a91305d21356a7638b048a?stylesheet=custom&amp;lang=33&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;140&quot; height=&quot;275&quot; style=&quot;border:none;&quot;&gt;&lt;/iframe&gt;	&lt;/div&gt;
+&lt;/header&gt;
+    &lt;article class=&quot;article-content&quot;&gt;
+        &lt;div class=&quot;article-nav&quot;&gt;
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                        &lt;a href=&quot;/trans/[Sherlock]A Thorough Examination : In Depth.html&quot; class=&quot;previous&quot;&gt;
+                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
+                            彻底检查/A Thorough Examination / In Depth
+                        &lt;/a&gt;
+                    
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    
+                         &lt;a href=&quot;/trans/[Sherlock]Under Mycroft's umbrella.html&quot; class=&quot;next&quot;&gt;
+                            在伞下/Under Mycrofts umbrella &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;/a&gt;
+                    
+
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+
+        &lt;/div&gt;
+        &lt;header class=&quot;hd&quot;&gt;
+            &lt;h1&gt;自那之后/And What Happened After&lt;/h1&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sat Mar 26 2011&lt;/span&gt;
+            &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
+        &lt;/header&gt;
+        
+        &lt;section id=&quot;content&quot; key= style=&gt;
+            &lt;h2&gt;自那之后&lt;/h2&gt;
+&lt;p&gt;[H W PG]自那之后 （END）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Title: And What Happened After&lt;/p&gt;
+&lt;p&gt;Fandom: Sherlock (2010)&lt;/p&gt;
+&lt;p&gt;Rating: PG&lt;/p&gt;
+&lt;p&gt;Warnings: none&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;来来回回的后续。前面的情节在这：&lt;a href=&quot;http://sherlock2010.net/read.php?tid=650&quot;&gt;http://sherlock2010.net/read.php?tid=650&lt;/a&gt;
+有声书下载：&lt;a href=&quot;http://audiofic.jinjurly.com/and-what-happened-after&quot;&gt;http://audiofic.jinjurly.com/and-what-happened-after&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Sherlock听到前门打开，他停下了手里的活。是John。他再次开始拉动琴弦，巴赫C大调第三号奏鸣曲的赋格。&lt;/p&gt;
+&lt;p&gt;John呼啦啦窜上楼梯。他停立在楼梯顶，爬楼令他有些大喘气。他一手拎着购物袋，另一只手上包着冰袋，甚至都不能很好的盖住那下面的横惯了右手三个指节的红色淤痕。他安静的站在那，直到Sherlock结束演奏。&lt;/p&gt;
+&lt;p&gt;“那是什么？”John问。“听起来就像是伦敦桥塌下来（注） 。”&lt;/p&gt;
+&lt;p&gt;“是Anderson么？”&lt;/p&gt;
+&lt;p&gt;“啥？”&lt;/p&gt;
+&lt;p&gt;“你揍了谁。”Sherlock耐心地说。“是Anderson么？”&lt;/p&gt;
+&lt;p&gt;John定定的看了他一会。“过来帮我拿这些东西。”他说。&lt;/p&gt;
+&lt;p&gt;他照做了。John之前买了一个小冰箱，就放在厨房料理台一角，存放着他们的牛奶，芥菜，以及些许烂菜叶。John在冰箱门上贴了个条：只放食物！ 然后下面加了另一张：我是说那些你自己觉得你乐意吃而且估计我也许想吃的东西 。最后一张内容比较简洁：不准有任何人体组件，决不准。&lt;/p&gt;
+&lt;p&gt;John倚着台子。Sherlock放好了莴苣，辣根酱，一些腌蛋，一大块乳酪。&lt;/p&gt;
+&lt;p&gt;“你怎么知道的？”John开口。&lt;/p&gt;
+&lt;p&gt;“你是个非常非常有耐心的人，John，即使是跟我在一起。”&lt;/p&gt;
+&lt;p&gt;“而且Anderson能把德兰修女都给惹毛了，对此我毫无异议。但是我可没计划见他啊今个。我也没去任何可能靠近犯罪现场或者Lestrade办公室的地方，医院都没去。”
+“这 不是一次偶然遇袭或者试图的抢劫什么的。你在烦心，而不是担心。如果这里面有什么疑团的话那才可能是Moriaty的事，但一点也没。你认识你揍的这个 人。所以我问我自己，谁能把John Watson惹毛？远了说，他揍了谁才有可能一点回击都没收到？这个列表很短。当然了，也有点可能是你遇到一个老熟人或者一个死对头——”他停 顿，John微笑着垂下眼帘，轻点着头。“但是不太可能。再加上今晚有场马德里的球赛，Anderson又是个狂热球迷，又没有电视，对他来说最近的就把 就是你从乐购里出来的那条路上的那家…”他耸耸肩。“非常容易。而且你现在闻起来一股他那可怕的古龙水味道。”&lt;/p&gt;
+&lt;p&gt;沾上这么重的味道必然是有了不少肢体冲突。Sherlock想象着：John推攘着Anderson把他制住在墙上，用自己的重量压制这他。Anderson很有可能喝的太过了，不然他该知道什么时候闭嘴为妙的。显然。他没及时闭嘴。&lt;/p&gt;
+&lt;p&gt;John仍然在微笑，显然是忘记了烦躁。“太赞了。”他说。&lt;/p&gt;
+&lt;p&gt;“他说了什么？”&lt;/p&gt;
+&lt;p&gt;“无关紧要。”John扔下化了大半的冰袋，走向冰箱准备去再填充点冰块。他的表情深不可测，至少对Sherlock来说是的。Sherlock私下里还自认为自己在这领域有些建树的。&lt;/p&gt;
+&lt;p&gt;“跟我有关。”他说。&lt;/p&gt;
+&lt;p&gt;“你怎么会这么说？”&lt;/p&gt;
+&lt;p&gt;“因为你跟所有人相处融洽。你不会因为别人诋毁你而动手。所以是为了我。还有谁——哦。Sarah？”&lt;/p&gt;
+&lt;p&gt;“Sarah能照顾好自己。”John说。然后他顿住了。袋子才封口封了一半，他盯着墙看。他背对着sherlock。&lt;/p&gt;
+&lt;p&gt;他们都在仔细地想着这句陈述。&lt;/p&gt;
+&lt;p&gt;Sherlock几乎没法由此得出任何结论。这太含糊了。John太沉默了。这也许也意味着他不再跟Sarah约会了。这也许意味着他不认为她需要他帮忙。那也许暗示了他觉得Sherlock需要。&lt;/p&gt;
+&lt;p&gt;“他没——我肯定他怎么着也不会说关于她的事的。John说。他封好了冰袋。按在自己的指节上。他没有转身。&lt;/p&gt;
+&lt;p&gt;Sherlock心底开始发痒。这是同一种暧昧难以界明的感觉，令他那么笨拙的吻了John，令安睡在John的床上成为了一种慰藉，躺在床的外侧，在John跟这世上其余一切之间。他不知道那意味着什么，他也不知道该拿它如何是好。&lt;/p&gt;
+&lt;p&gt;“我弄到了黄金眼。”他说。“你想看么？我们可以订些泰餐。Sriroj先生欠我人情。除非你想晚上就吃辣根酱跟芥菜萨拉。”&lt;/p&gt;
+&lt;p&gt;John转身，展现给他一幅释然微笑。“好啊，听起来不错。我要春卷。炸的比较重的些。”&lt;/p&gt;
+&lt;p&gt;“我去，我知道你喜欢什么。洗个澡吧。你闻起来太糟糕了。”&lt;/p&gt;
+&lt;p&gt;“非常感谢。”&lt;/p&gt;
+&lt;p&gt;“不客气，”Sherlock转身走向门然后立住。“哦，你有现金么？”&lt;/p&gt;
+&lt;p&gt;John扔给他自己的钱包。Sherlock一把抓住揣进口袋，离开。&lt;/p&gt;
+&lt;p&gt;外面下着雨。足以令光晕在路灯边打出圈圈柔和，稍稍润湿了急切赶回家的人们的发梢。即使捎着伞的人都鲜少将伞张开。Sherlock手插在口袋里，润湿的指尖轻巧的包裹住John的钱包。他一直等到Sriroj拿了他们的订单进去准备才打开。&lt;/p&gt;
+&lt;p&gt;John有一张银行卡，一张图书卡。他有他姐姐跟另一个女人的合影，可能是她前女友。他有四十磅现金，和一些硬币。他有一打整齐叠好的收据，一张记着Sarah电话号码的便条，以及一张大得多的，折叠成厚实一小块的纸。&lt;/p&gt;
+&lt;p&gt;他的手机嗡鸣。John的短信。他显然已经反应过来如果Sriroj欠着人情的话Sherlock是不需要付账的。&lt;/p&gt;
+&lt;p&gt;J:不准翻我钱包了。&lt;/p&gt;
+&lt;p&gt;S:你根本不喜欢你姐。&lt;/p&gt;
+&lt;p&gt;J：她是我姐。你还有Mycroft的照片呢。&lt;/p&gt;
+&lt;p&gt;S：那是以防他失踪，我好去做寻人启事的。&lt;/p&gt;
+&lt;p&gt;J：啊哈（ha ha bloody ha）。把东西给我放好。不准翻了。&lt;/p&gt;
+&lt;p&gt;John就是这样，某些方面循规蹈矩的近乎固执。Sherlock打开那张纸，仔细看着。&lt;/p&gt;
+&lt;p&gt;有些方面JOHn完全就不是那样了。&lt;/p&gt;
+&lt;p&gt;这是一幅铅笔手绘，有擦除过的痕迹有来回打描的痕迹，不断修正着形状尺寸。经常性的修改，Sherlock从这张纸的折痕轻重程度就看的出来。至少有两个周了。这是Moriaty的脸，近乎精确到完美。&lt;/p&gt;
+&lt;p&gt;当然了他们都给警方的人描述过，最后生成的速写还是很不错的。这个更好。这幅可以说是抓住了一些Moriaty暗黑灵魂里的一些东西，若Sherlock能说出这种人性化的描述的话。&lt;/p&gt;
+&lt;p&gt;S:你是打算给Lestrade看么。&lt;/p&gt;
+&lt;p&gt;J:还没完成&lt;/p&gt;
+&lt;p&gt;S:看起来是画完了。&lt;/p&gt;
+&lt;p&gt;J：滚。&lt;/p&gt;
+&lt;p&gt;Sriroj带着他们的晚饭出来了，还有无数的道谢。Sherlock没有回复那条短信，径直回了公寓。&lt;/p&gt;
+&lt;p&gt;John在楼梯顶上等着他。他的头发湿漉漉的，带着Sherlock洗发香波的味道，而不是Anderson的古龙水，这真是好太多太多了。&lt;/p&gt;
+&lt;p&gt;“对不起”John说。&lt;/p&gt;
+&lt;p&gt;“啥？”&lt;/p&gt;
+&lt;p&gt;“跟你说那种=——我去拿叉子。”&lt;/p&gt;
+&lt;p&gt;他去了。他们吃掉了盘子里所有东西，看着电视上光影变幻。&lt;/p&gt;
+&lt;p&gt;“很不错。”Sherlock说，John刚吃掉所有的春卷。&lt;/p&gt;
+&lt;p&gt;“那还是有些不对。”&lt;/p&gt;
+&lt;p&gt;“不，它是。实际上很完美。你的记忆力真令人印象深刻，特别还是那种危险地情况下。”&lt;/p&gt;
+&lt;p&gt;“不，还有些什么——”&lt;/p&gt;
+&lt;p&gt;“他没有笑。在画里。他几乎一直在笑。这是真正在困扰你的事。”&lt;/p&gt;
+&lt;p&gt;John安静了好长一段时间。“是的，是的。”他最终开口。他的声音发紧。他看着电视，Sherlock知道他没有在看。&lt;/p&gt;
+&lt;p&gt;Sherlock沿着沙发垫子侧移，被体内那种发痒的感觉驱使着，知道John感觉不好令他……很不爽。这对他很重要。这令他想要做点什么改变它。&lt;/p&gt;
+&lt;p&gt;他靠在了John边上。John惊诧的看着他。&lt;/p&gt;
+&lt;p&gt;“你说过我可以的哦。”Sherlock提醒他。他清楚记得那一晚的每一秒，纤毫毕现地几乎对他自己来说都异乎寻常，他自然也记得John说碰触是可以的。&lt;/p&gt;
+&lt;p&gt;“是的，当然了。”John说。他的身体在一种被迫的情形下放松下来。他的眼他的手还是留着些许紧绷。但是他一只胳膊环过Sherlock，仍然看着屏幕。&lt;/p&gt;
+&lt;p&gt;Sherlock安静的坐着。计算着新数据。John的胳膊的重量轻压在他身上，他的身体即时的反应：放松，某种沉溺于碰触之中。他折腿架上沙发，头倚在了John的肩头。&lt;/p&gt;
+&lt;p&gt;一时半刻里John变得紧张。但是Sherlock打定了主意，宁可让自己诡异的行径令John感觉不好，也不要John担心着Moriaty还有他们不可预知的未来。&lt;/p&gt;
+&lt;p&gt;“你的套头毛衣闻起来有股老旧碎肥肉的味道。”他说，鼻子贴在上面嗅来嗅去。“你上次洗它是什么时候。”&lt;/p&gt;
+&lt;p&gt;“这只能干洗。”他长长地出了口气，搅动着Sherlock的发际。他的手环在Sherlock肩头。“我应该在你让我清闲的为数不多的宝贵时间里抓紧时间清洗它是么？”&lt;/p&gt;
+&lt;p&gt;“把你的衣物给我，我会把它们跟我的衣服一起送去。拐角那有家洗衣店的老板——”&lt;/p&gt;
+&lt;p&gt;“欠你人情？”John的声音里有着笑意。“你是特意找上这些人的么？你是精心蓄谋的么，这样除了衣服跟尼古丁贴片你都不用花钱了是么？”&lt;/p&gt;
+&lt;p&gt;“实际上，有个裁缝——”&lt;/p&gt;
+&lt;p&gt;John笑出声来，脸颊蹭蹭Sherlock的头顶。“闭嘴。”他说，“闭嘴看电影。”&lt;/p&gt;
+&lt;p&gt;目 标达成。Sherlock做到了。John现在安适多了。他的暖意，电影闪烁的光影，还有那显然没指望的剧情铺垫，以及不怎么熟悉的饱腹感，这一切合起来 令Sherlock几乎昏昏欲睡了。比起来那些彻底的筋疲力尽逼得他不得不花在床上几个钟头，这时一切令他感觉舒适的吃惊。他靠的更近了点，感受着 John作为回应心不在焉地轻拍着自己的肩头，合上了双眼。&lt;/p&gt;
+&lt;p&gt;  注：London Bridge is Falling Down  伦敦桥要塌了 儿歌。。。&lt;/p&gt;
+&lt;p&gt;PS：我是真的很喜欢这篇呐，我喜欢就这么吃饱了饭倚着John一起看电影Sherlock。感动shi我了。。。&lt;/p&gt;
+&lt;p&gt;PS的PS： 新年快乐呀！！！！&lt;/p&gt;
+
+        &lt;/section&gt;
+    &lt;/article&gt;
+&lt;div class=&quot;comments&quot;&gt;
+    &lt;!-- Duoshuo Comment BEGIN --&gt;
+    &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+var duoshuoQuery = {short_name:&quot;chengmu&quot;};
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = 'http://static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0]
+        || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+    &lt;/script&gt;
+&lt;!-- Duoshuo Comment END --&gt;
+&lt;/div&gt;
+
+    &lt;footer class=&quot;footer&quot;&gt;
+	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; •
+	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; •
+	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; •
+	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; •
+	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
+&lt;/footer&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41695213-1', 'chengmu.github.io');
+  ga('send', 'pageview');
+
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   }
+}
+&lt;/script&gt;
+
+
+
+    &lt;!-- DocPad Scripts + Our Own --&gt;
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-41695213-1']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+		</entry>
+	
+		<entry>
+			<title>在伞下/Under Mycrofts umbrella</title>
+			<link href="http://localhost:9778///trans/[Sherlock]Under Mycroft's umbrella.html"/>
+			<updated>2011-03-26T00:00:00.000Z</updated>
+			<id>http://localhost:9778///trans/[Sherlock]Under Mycroft's umbrella.html</id>
+			<content type="html">&lt;!DOCTYPE html&gt;
+&lt;!--[if lt IE 7 ]&gt; &lt;html class=&quot;ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 7 ]&gt;    &lt;html class=&quot;ie7&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 8 ]&gt;    &lt;html class=&quot;ie8&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if IE 9 ]&gt;    &lt;html class=&quot;ie9&quot;&gt; &lt;![endif]--&gt;
+&lt;!--[if (gt IE 9)|!(IE)]&gt;&lt;!--&gt; &lt;html class=&quot;&quot;&gt; &lt;!--&lt;![endif]--&gt;
+&lt;head&gt;
+&lt;!-- Standard Meta --&gt;
+	&lt;meta charset=&quot;utf-8&quot; /&gt;
+	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
+	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
+	&lt;!-- Site Properities --&gt;
+	&lt;title&gt;在伞下/Under Mycrofts umbrella | Chengmu1893&lt;/title&gt;
+	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
+	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
+	&lt;!--[if lte IE 8]&gt;
+	&lt;script type=&quot;text/javascript&quot;&gt;
+		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
+	&lt;/script&gt;
+	&lt;![endif]--&gt;
+
+	&lt;!-- DocPad Meta --&gt;
+	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
+
+	&lt;!-- DocPad Styles + Our Own --&gt;
+	&lt;link  rel=&quot;stylesheet&quot; href=&quot;html.wait {
+	cursor: wait !important;
+	opacity: 0;
+	transition: opacity 0.5s ease;
+}&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
+
+	&lt;!-- Icons --&gt;
+	&lt;!-- Favicon --&gt;
+	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
+	&lt;!--[if lt IE 8 ]&gt;
+	&lt;script&gt;
+		window.location = &quot;/notsupport.html&quot;
+	&lt;/script&gt;
+	&lt;!--&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body class=&quot;colume-layout&quot;&gt;
+    &lt;header class=&quot;header&quot;&gt;
+	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
+    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
+&lt;!--[if IE 8]&gt;
+	&lt;img style=&quot;display:block;border:none;&quot; class=&quot;avatar&quot; src=&quot;/styles/images/avatar.jpg&quot; width=&quot;60&quot; height=&quot;60&quot; /&gt;
+&lt;![endif]--&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+	&lt;/div&gt;
+	&lt;div class=&quot;contacts-icon&quot;&gt;
+		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://huaban.com/ywphrm9kqx/&quot;  title=&quot;窝的花瓣网！里面收集好多图\(^o^)/&quot;&gt;&lt;i class=&quot;icon-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+		&lt;a href=&quot;http://ask.fm/chengmu&quot;  title=&quot;问我！&quot;&gt;&lt;i class=&quot;icon-ask&quot;&gt;&lt;/i&gt;ASK!&lt;/a&gt;
+
+	&lt;/div&gt;
+	&lt;aside class=&quot;aside main-menu&quot;&gt;
+		&lt;ul&gt;
+			
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
+		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
+		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
+		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;inactive&quot; href=&quot;/techs.html&quot;&gt;
+		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;
+		    
+				&lt;li&gt;
+		            &lt;a class=&quot;active&quot; href=&quot;/trans.html&quot;&gt;
+		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans
+		            &lt;/a&gt;
+		            
+		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
+		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
+		            &lt;/a&gt;
+		            
+		   		&lt;/li&gt;
+		    
+		&lt;/ul&gt;
+	&lt;/aside&gt;
+	&lt;div&gt;
+&lt;iframe src=&quot;http://ask.fm/widget/a33014f84fa7914a22a91305d21356a7638b048a?stylesheet=custom&amp;lang=33&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;140&quot; height=&quot;275&quot; style=&quot;border:none;&quot;&gt;&lt;/iframe&gt;	&lt;/div&gt;
+&lt;/header&gt;
+    &lt;article class=&quot;article-content&quot;&gt;
+        &lt;div class=&quot;article-nav&quot;&gt;
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+                    
+                        &lt;a href=&quot;/trans/[Sherlock]自那之后.html&quot; class=&quot;previous&quot;&gt;
+                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
+                            自那之后/And What Happened After
+                        &lt;/a&gt;
+                    
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
+                    &lt;ins&gt;|&lt;/ins&gt;
+                    
+                         &lt;a href=&quot;/trans/[Sherlock]感官记忆.html&quot; class=&quot;next&quot;&gt;
+                            感官记忆/Sense Memory &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;/a&gt;
+                    
+
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+
+        &lt;/div&gt;
+        &lt;header class=&quot;hd&quot;&gt;
+            &lt;h1&gt;在伞下/Under Mycrofts umbrella&lt;/h1&gt;
+            &lt;span class=&quot;post-date&quot;&gt;Sat Mar 26 2011&lt;/span&gt;
+            &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
+        &lt;/header&gt;
+        
+        &lt;section id=&quot;keyPanel&quot; style=display:block&gt;
+            &lt;h3&gt;Sorry but we need password here（全小写无空格哟）:)&lt;/h3&gt;
+            &lt;p&gt;名字好长的那人叫啥?&lt;/p&gt;
+            &lt;form action=&quot;&quot;&gt;
+                &lt;input id=&quot;pwd&quot; type=&quot;text&quot;&gt;
+                &lt;span id=&quot;wrongTip&quot; style=&quot;display:none;&quot;&gt;:( oh not this one&lt;/span&gt;
+                &lt;button id=&quot;btn&quot;&gt;Come on!&lt;/button&gt;
+            &lt;/form&gt;
+        &lt;/section&gt;
+        
+        &lt;section id=&quot;content&quot; key=benedictcumberbatch style=display:none&gt;
+            &lt;p&gt;Under Mycroft&amp;#39;s umbrella~
+Author：emungere
+原文：&lt;a href=&quot;http://sherlockbbc-fic.livejournal.com/3114.html?thread=8960042#t8960042&quot;&gt;http://sherlockbbc-fic.livejournal.com/3114.html?thread=8960042#t8960042&lt;/a&gt;
+授权：等待中。&lt;/p&gt;
+&lt;p&gt;PS：基本都意译了。我一定是鸡血过头了。。。渣君都是你的错==&lt;/p&gt;
+&lt;p&gt;晚上的时候，毛毯一直盖过了Lestrade的耳际。有人稍稍的将覆在他额头的毯子掀开一点，细碎的吻下来，触意冰凉，在额头，在唇角。汇成一种将其唤醒的极好方式。&lt;/p&gt;
+&lt;p&gt;“我得走了，”他的伴喃喃道。嗓音：深沉，饱满，发音漂亮得胜过伊顿公学毕业能出席亨利皇家盛事的银行家（他是个银行家么？从那身行头看来倒是颇有可能）。&lt;/p&gt;
+&lt;p&gt;Lestrade 浑身酸痛，感觉却又该死的舒服。可单列出来的身体酸痛处有：他后面（他的伴有个令人惊叹的粗大家伙），腰（被握住的相当不错），大腿（骑在那粗大家伙上 面，哦天哪）。他的眼睛也酸涩的很，但那是因为缺少睡眠，这对他而言倒是习以为常，若不是有一场如此淋漓尽致的性爱充当了个合适理由。他揉揉双眼，好不容 易睁开了。&lt;/p&gt;
+&lt;p&gt;“早上好，”他说。&lt;/p&gt;
+&lt;p&gt;“我留下了点东西陪你。这样你可以确信，我一定会回来的。”&lt;/p&gt;
+&lt;p&gt;“呃？”&lt;/p&gt;
+&lt;p&gt;这 男的叫什么来着？那名字总是会立即让他想起Sherlock，介于他还真没见过除了Sherlock之外的什么人会用这种一样荒诞的名字。以M开头，啧 啧，这可挺令人发窘的。也许这也算不上什么好发窘的。介于Lestrade刚经历本年度第一次如此的精疲力竭，这么彻底地甚至足以担起另一年的份，还能有 什么是真的能令人发窘的呢。&lt;/p&gt;
+&lt;p&gt;“Mycroft，”他的伴开口，笑容隐约可见。&lt;/p&gt;
+&lt;p&gt;“抱歉，”Lestrade微笑，摸摸Mycroft完美整洁的袖口。装点着标有姓名缩写的袖扣。当然了。“过了昨晚那一夜，我可能连自己名字都不怎么能记起来了。”&lt;/p&gt;
+&lt;p&gt;Mycroft俯身亲吻他。这次是深切的唇齿吻合。伴着缓缓探进的舔舐，使得Lestrade战栗起来。然后他起身，沿着门道拾起一些衣物，沙沙作响。门被打开，关上，Lestrade躺回床上伸了个懒腰。&lt;/p&gt;
+&lt;p&gt;他的手碰到了什么床上本不该有的东西，他摸索过去。细长，织物，内核硬实。是什么？他掀开被子。&lt;/p&gt;
+&lt;p&gt;一把黑伞。有着木质手柄，黄铜尖顶。在他的床上。&lt;/p&gt;
+&lt;p&gt;在他还愣着盯着那伞的时候，一条短信进来他的手机嗡嗡作响。来自John的短信。&lt;/p&gt;
+&lt;p&gt;昨晚看到你跟Sherlock的哥哥一起出去了。还好吧？&lt;/p&gt;
+&lt;p&gt;Sherlock的哥哥。&lt;/p&gt;
+&lt;p&gt;袖扣。MH。H是Holmes的缩写。昨晚他跟Sherlock的哥哥来了一场这辈子最爽的性爱。&lt;/p&gt;
+&lt;p&gt;追 上他是来不及了——而且就是来得及他又能做什么？——但是他还是从床上跳下来了，套上裤子外套鞋子，在前门摸索着他一贯放在那一个小筐里的钥匙。它们不见 了。他没有钥匙了。他倒是有了一把伞，以及一个句来自Sherlock Holmes的哥哥，他将回来取走那伞的承诺。&lt;/p&gt;
+&lt;p&gt;他猛然坐到那个搁着那个此时里面没有了他的钥匙的小筐的小桌子上。几乎把它搞塌。另一条来自John短信闪烁起来。&lt;/p&gt;
+&lt;p&gt;若我多说话了，我很抱歉。&lt;/p&gt;
+&lt;p&gt;Lestrade回复的很快。&lt;/p&gt;
+&lt;p&gt;我们谈了谈，他把伞留在这了。知道我该怎么把这个还回去么？&lt;/p&gt;
+&lt;p&gt;中间隔了很久。&lt;/p&gt;
+&lt;p&gt;他会回来取它的。他不可能把它就那么扔在什么地方。&lt;/p&gt;
+&lt;p&gt;Lestrade觉得John肯定知道“谈了谈“的真实含义是什么了。&lt;/p&gt;
+&lt;p&gt;他看看表：早上六点，他的假期。他脱了所有他刚套上的衣物，爬回了他温暖的床铺。靠着那把伞。在他的钥匙回来前他哪都去不了。天杀的。他闭上了眼。运气好的话呢，他应该会被今他第一次被唤醒的那种方式再次唤醒。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;PS的PS：RG叔你美死了！！！你美死了你美死了你美死了！！！！&lt;/p&gt;
+
+        &lt;/section&gt;
+    &lt;/article&gt;
+&lt;div class=&quot;comments&quot;&gt;
+    &lt;!-- Duoshuo Comment BEGIN --&gt;
+    &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;
+var duoshuoQuery = {short_name:&quot;chengmu&quot;};
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = 'http://static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0]
+        || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+    &lt;/script&gt;
+&lt;!-- Duoshuo Comment END --&gt;
+&lt;/div&gt;
+
+    &lt;footer class=&quot;footer&quot;&gt;
+	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; •
+	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; •
+	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; •
+	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; •
+	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
+&lt;/footer&gt;
+&lt;script&gt;
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41695213-1', 'chengmu.github.io');
+  ga('send', 'pageview');
+
+&lt;/script&gt;
+&lt;script&gt;
+var links = document.links;
+
+for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
+   if (links[i].hostname != window.location.hostname) {
+       links[i].target = '_blank';
+   }
+}
+&lt;/script&gt;
+
+
+
+    &lt;!-- DocPad Scripts + Our Own --&gt;
+    &lt;script &gt;(function(){
+	/* Did we just livereload? */
+var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
+if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
+	localStorage.removeItem('/docpad-livereload/reloaded');
+	console.log('LiveReload completed at', new Date())
+}
+
+/* Listen for the regenerated event and perform a reload of the page when the event occurs */
+var listen = function(){
+	var primus = new Primus('/docpad-livereload');
+	primus.on('data', function(data){
+		if ( data &amp;&amp; data.message ) {
+			if ( data.message === 'generateBefore' ) {
+				if ( log ) {
+					console.log('LiveReload started at', new Date());
+				}
+				if ( typeof document.getElementsByTagName !== 'undefined' ) {
+	document.getElementsByTagName('html')[0].className += ' wait';
+}
+			}
+			else if ( data.message === 'generateAfter' ) {
+				if ( log ) {
+					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
+				}
+				document.location.reload();
+			}
+		}
+	});
+};
+	/* Inject socket into our page */
+var inject = function(){
+	var t = document.createElement('script');
+	t.type = 'text/javascript';
+	t.async = 'async';
+	t.src = '/primus/primus.js';
+	t.onload = listen;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(t, s);
+};
+	if ( typeof Primus !== 'undefined' ) {
+		listen();
+	} else {
+		inject();
+	}
+})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-41695213-1']);
+_gaq.push(['_trackPageview']);
+(function(){
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+		</entry>
+	
+		<entry>
 			<title>感官记忆/Sense Memory</title>
 			<link href="http://localhost:9778///trans/[Sherlock]感官记忆.html"/>
 			<updated>2011-03-26T00:00:00.000Z</updated>
@@ -7008,10 +7828,14 @@ _gaq.push(['_trackPageview']);
                 
             
                 
+            
+                
+            
+                
                     
-                        &lt;a href=&quot;/trans/[Sherlock]A Thorough Examination : In Depth.html&quot; class=&quot;previous&quot;&gt;
+                        &lt;a href=&quot;/trans/[Sherlock]Under Mycroft's umbrella.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            彻底检查/A Thorough Examination / In Depth
+                            在伞下/Under Mycrofts umbrella
                         &lt;/a&gt;
                     
                     &lt;ins&gt;|&lt;/ins&gt;
@@ -7025,10 +7849,6 @@ _gaq.push(['_trackPageview']);
                          &lt;/a&gt;
                     
 
-                
-            
-                
-            
                 
             
                 
@@ -7399,6 +8219,10 @@ _gaq.push(['_trackPageview']);
                 
             
                 
+            
+                
+            
+                
                     
                         &lt;a href=&quot;/trans/[Sherlock]感官记忆.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
@@ -7411,15 +8235,11 @@ _gaq.push(['_trackPageview']);
                     &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
                     &lt;ins&gt;|&lt;/ins&gt;
                     
-                         &lt;a href=&quot;/trans/[Sherlock]自那之后.html&quot; class=&quot;next&quot;&gt;
-                            自那之后/And What Happened After &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
+                         &lt;a href=&quot;/trans/[Sherlock]若我们开始编缀谎言.html&quot; class=&quot;next&quot;&gt;
+                            若我们开始编缀谎言/When first we practise to deceive  &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
                          &lt;/a&gt;
                     
 
-                
-            
-                
-            
                 
             
                 
@@ -9027,826 +9847,6 @@ _gaq.push(['_trackPageview']);
 		</entry>
 	
 		<entry>
-			<title>自那之后/And What Happened After</title>
-			<link href="http://localhost:9778///trans/[Sherlock]自那之后.html"/>
-			<updated>2011-03-26T00:00:00.000Z</updated>
-			<id>http://localhost:9778///trans/[Sherlock]自那之后.html</id>
-			<content type="html">&lt;!DOCTYPE html&gt;
-&lt;!--[if lt IE 7 ]&gt; &lt;html class=&quot;ie7&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 7 ]&gt;    &lt;html class=&quot;ie7&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 8 ]&gt;    &lt;html class=&quot;ie8&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 9 ]&gt;    &lt;html class=&quot;ie9&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if (gt IE 9)|!(IE)]&gt;&lt;!--&gt; &lt;html class=&quot;&quot;&gt; &lt;!--&lt;![endif]--&gt;
-&lt;head&gt;
-&lt;!-- Standard Meta --&gt;
-	&lt;meta charset=&quot;utf-8&quot; /&gt;
-	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
-	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
-	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;自那之后/And What Happened After | Chengmu1893&lt;/title&gt;
-	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
-	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
-	&lt;!--[if lte IE 8]&gt;
-	&lt;script type=&quot;text/javascript&quot;&gt;
-		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
-	&lt;/script&gt;
-	&lt;![endif]--&gt;
-
-	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
-
-	&lt;!-- DocPad Styles + Our Own --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;html.wait {
-	cursor: wait !important;
-	opacity: 0;
-	transition: opacity 0.5s ease;
-}&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
-
-	&lt;!-- Icons --&gt;
-	&lt;!-- Favicon --&gt;
-	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
-	&lt;!--[if lt IE 8 ]&gt;
-	&lt;script&gt;
-		window.location = &quot;/notsupport.html&quot;
-	&lt;/script&gt;
-	&lt;!--&lt;![endif]--&gt;
-&lt;/head&gt;
-&lt;body class=&quot;colume-layout&quot;&gt;
-    &lt;header class=&quot;header&quot;&gt;
-	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
-    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
-&lt;!--[if IE 8]&gt;
-	&lt;img style=&quot;display:block;border:none;&quot; class=&quot;avatar&quot; src=&quot;/styles/images/avatar.jpg&quot; width=&quot;60&quot; height=&quot;60&quot; /&gt;
-&lt;![endif]--&gt;
-	&lt;div class=&quot;contacts-icon&quot;&gt;
-		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;contacts-icon&quot;&gt;
-		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;http://huaban.com/ywphrm9kqx/&quot;  title=&quot;窝的花瓣网！里面收集好多图\(^o^)/&quot;&gt;&lt;i class=&quot;icon-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;http://ask.fm/chengmu&quot;  title=&quot;问我！&quot;&gt;&lt;i class=&quot;icon-ask&quot;&gt;&lt;/i&gt;ASK!&lt;/a&gt;
-
-	&lt;/div&gt;
-	&lt;aside class=&quot;aside main-menu&quot;&gt;
-		&lt;ul&gt;
-			
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
-		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
-		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
-		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/techs.html&quot;&gt;
-		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;active&quot; href=&quot;/trans.html&quot;&gt;
-		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;
-		    
-		&lt;/ul&gt;
-	&lt;/aside&gt;
-	&lt;div&gt;
-&lt;iframe src=&quot;http://ask.fm/widget/a33014f84fa7914a22a91305d21356a7638b048a?stylesheet=custom&amp;lang=33&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;140&quot; height=&quot;275&quot; style=&quot;border:none;&quot;&gt;&lt;/iframe&gt;	&lt;/div&gt;
-&lt;/header&gt;
-    &lt;article class=&quot;article-content&quot;&gt;
-        &lt;div class=&quot;article-nav&quot;&gt;
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-                    
-                        &lt;a href=&quot;/trans/[Sherlock]互为其影.html&quot; class=&quot;previous&quot;&gt;
-                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            互为其影\The Shadow of the Other
-                        &lt;/a&gt;
-                    
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    
-                         &lt;a href=&quot;/trans/[Sherlock]Under Mycroft's umbrella.html&quot; class=&quot;next&quot;&gt;
-                            在伞下/Under Mycrofts umbrella &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
-                         &lt;/a&gt;
-                    
-
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-
-        &lt;/div&gt;
-        &lt;header class=&quot;hd&quot;&gt;
-            &lt;h1&gt;自那之后/And What Happened After&lt;/h1&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Sat Mar 26 2011&lt;/span&gt;
-            &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
-        &lt;/header&gt;
-        
-        &lt;section id=&quot;content&quot; key= style=&gt;
-            &lt;h2&gt;自那之后&lt;/h2&gt;
-&lt;p&gt;[H W PG]自那之后 （END）&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Title: And What Happened After&lt;/p&gt;
-&lt;p&gt;Fandom: Sherlock (2010)&lt;/p&gt;
-&lt;p&gt;Rating: PG&lt;/p&gt;
-&lt;p&gt;Warnings: none&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;来来回回的后续。前面的情节在这：&lt;a href=&quot;http://sherlock2010.net/read.php?tid=650&quot;&gt;http://sherlock2010.net/read.php?tid=650&lt;/a&gt;
-有声书下载：&lt;a href=&quot;http://audiofic.jinjurly.com/and-what-happened-after&quot;&gt;http://audiofic.jinjurly.com/and-what-happened-after&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Sherlock听到前门打开，他停下了手里的活。是John。他再次开始拉动琴弦，巴赫C大调第三号奏鸣曲的赋格。&lt;/p&gt;
-&lt;p&gt;John呼啦啦窜上楼梯。他停立在楼梯顶，爬楼令他有些大喘气。他一手拎着购物袋，另一只手上包着冰袋，甚至都不能很好的盖住那下面的横惯了右手三个指节的红色淤痕。他安静的站在那，直到Sherlock结束演奏。&lt;/p&gt;
-&lt;p&gt;“那是什么？”John问。“听起来就像是伦敦桥塌下来（注） 。”&lt;/p&gt;
-&lt;p&gt;“是Anderson么？”&lt;/p&gt;
-&lt;p&gt;“啥？”&lt;/p&gt;
-&lt;p&gt;“你揍了谁。”Sherlock耐心地说。“是Anderson么？”&lt;/p&gt;
-&lt;p&gt;John定定的看了他一会。“过来帮我拿这些东西。”他说。&lt;/p&gt;
-&lt;p&gt;他照做了。John之前买了一个小冰箱，就放在厨房料理台一角，存放着他们的牛奶，芥菜，以及些许烂菜叶。John在冰箱门上贴了个条：只放食物！ 然后下面加了另一张：我是说那些你自己觉得你乐意吃而且估计我也许想吃的东西 。最后一张内容比较简洁：不准有任何人体组件，决不准。&lt;/p&gt;
-&lt;p&gt;John倚着台子。Sherlock放好了莴苣，辣根酱，一些腌蛋，一大块乳酪。&lt;/p&gt;
-&lt;p&gt;“你怎么知道的？”John开口。&lt;/p&gt;
-&lt;p&gt;“你是个非常非常有耐心的人，John，即使是跟我在一起。”&lt;/p&gt;
-&lt;p&gt;“而且Anderson能把德兰修女都给惹毛了，对此我毫无异议。但是我可没计划见他啊今个。我也没去任何可能靠近犯罪现场或者Lestrade办公室的地方，医院都没去。”
-“这 不是一次偶然遇袭或者试图的抢劫什么的。你在烦心，而不是担心。如果这里面有什么疑团的话那才可能是Moriaty的事，但一点也没。你认识你揍的这个 人。所以我问我自己，谁能把John Watson惹毛？远了说，他揍了谁才有可能一点回击都没收到？这个列表很短。当然了，也有点可能是你遇到一个老熟人或者一个死对头——”他停 顿，John微笑着垂下眼帘，轻点着头。“但是不太可能。再加上今晚有场马德里的球赛，Anderson又是个狂热球迷，又没有电视，对他来说最近的就把 就是你从乐购里出来的那条路上的那家…”他耸耸肩。“非常容易。而且你现在闻起来一股他那可怕的古龙水味道。”&lt;/p&gt;
-&lt;p&gt;沾上这么重的味道必然是有了不少肢体冲突。Sherlock想象着：John推攘着Anderson把他制住在墙上，用自己的重量压制这他。Anderson很有可能喝的太过了，不然他该知道什么时候闭嘴为妙的。显然。他没及时闭嘴。&lt;/p&gt;
-&lt;p&gt;John仍然在微笑，显然是忘记了烦躁。“太赞了。”他说。&lt;/p&gt;
-&lt;p&gt;“他说了什么？”&lt;/p&gt;
-&lt;p&gt;“无关紧要。”John扔下化了大半的冰袋，走向冰箱准备去再填充点冰块。他的表情深不可测，至少对Sherlock来说是的。Sherlock私下里还自认为自己在这领域有些建树的。&lt;/p&gt;
-&lt;p&gt;“跟我有关。”他说。&lt;/p&gt;
-&lt;p&gt;“你怎么会这么说？”&lt;/p&gt;
-&lt;p&gt;“因为你跟所有人相处融洽。你不会因为别人诋毁你而动手。所以是为了我。还有谁——哦。Sarah？”&lt;/p&gt;
-&lt;p&gt;“Sarah能照顾好自己。”John说。然后他顿住了。袋子才封口封了一半，他盯着墙看。他背对着sherlock。&lt;/p&gt;
-&lt;p&gt;他们都在仔细地想着这句陈述。&lt;/p&gt;
-&lt;p&gt;Sherlock几乎没法由此得出任何结论。这太含糊了。John太沉默了。这也许也意味着他不再跟Sarah约会了。这也许意味着他不认为她需要他帮忙。那也许暗示了他觉得Sherlock需要。&lt;/p&gt;
-&lt;p&gt;“他没——我肯定他怎么着也不会说关于她的事的。John说。他封好了冰袋。按在自己的指节上。他没有转身。&lt;/p&gt;
-&lt;p&gt;Sherlock心底开始发痒。这是同一种暧昧难以界明的感觉，令他那么笨拙的吻了John，令安睡在John的床上成为了一种慰藉，躺在床的外侧，在John跟这世上其余一切之间。他不知道那意味着什么，他也不知道该拿它如何是好。&lt;/p&gt;
-&lt;p&gt;“我弄到了黄金眼。”他说。“你想看么？我们可以订些泰餐。Sriroj先生欠我人情。除非你想晚上就吃辣根酱跟芥菜萨拉。”&lt;/p&gt;
-&lt;p&gt;John转身，展现给他一幅释然微笑。“好啊，听起来不错。我要春卷。炸的比较重的些。”&lt;/p&gt;
-&lt;p&gt;“我去，我知道你喜欢什么。洗个澡吧。你闻起来太糟糕了。”&lt;/p&gt;
-&lt;p&gt;“非常感谢。”&lt;/p&gt;
-&lt;p&gt;“不客气，”Sherlock转身走向门然后立住。“哦，你有现金么？”&lt;/p&gt;
-&lt;p&gt;John扔给他自己的钱包。Sherlock一把抓住揣进口袋，离开。&lt;/p&gt;
-&lt;p&gt;外面下着雨。足以令光晕在路灯边打出圈圈柔和，稍稍润湿了急切赶回家的人们的发梢。即使捎着伞的人都鲜少将伞张开。Sherlock手插在口袋里，润湿的指尖轻巧的包裹住John的钱包。他一直等到Sriroj拿了他们的订单进去准备才打开。&lt;/p&gt;
-&lt;p&gt;John有一张银行卡，一张图书卡。他有他姐姐跟另一个女人的合影，可能是她前女友。他有四十磅现金，和一些硬币。他有一打整齐叠好的收据，一张记着Sarah电话号码的便条，以及一张大得多的，折叠成厚实一小块的纸。&lt;/p&gt;
-&lt;p&gt;他的手机嗡鸣。John的短信。他显然已经反应过来如果Sriroj欠着人情的话Sherlock是不需要付账的。&lt;/p&gt;
-&lt;p&gt;J:不准翻我钱包了。&lt;/p&gt;
-&lt;p&gt;S:你根本不喜欢你姐。&lt;/p&gt;
-&lt;p&gt;J：她是我姐。你还有Mycroft的照片呢。&lt;/p&gt;
-&lt;p&gt;S：那是以防他失踪，我好去做寻人启事的。&lt;/p&gt;
-&lt;p&gt;J：啊哈（ha ha bloody ha）。把东西给我放好。不准翻了。&lt;/p&gt;
-&lt;p&gt;John就是这样，某些方面循规蹈矩的近乎固执。Sherlock打开那张纸，仔细看着。&lt;/p&gt;
-&lt;p&gt;有些方面JOHn完全就不是那样了。&lt;/p&gt;
-&lt;p&gt;这是一幅铅笔手绘，有擦除过的痕迹有来回打描的痕迹，不断修正着形状尺寸。经常性的修改，Sherlock从这张纸的折痕轻重程度就看的出来。至少有两个周了。这是Moriaty的脸，近乎精确到完美。&lt;/p&gt;
-&lt;p&gt;当然了他们都给警方的人描述过，最后生成的速写还是很不错的。这个更好。这幅可以说是抓住了一些Moriaty暗黑灵魂里的一些东西，若Sherlock能说出这种人性化的描述的话。&lt;/p&gt;
-&lt;p&gt;S:你是打算给Lestrade看么。&lt;/p&gt;
-&lt;p&gt;J:还没完成&lt;/p&gt;
-&lt;p&gt;S:看起来是画完了。&lt;/p&gt;
-&lt;p&gt;J：滚。&lt;/p&gt;
-&lt;p&gt;Sriroj带着他们的晚饭出来了，还有无数的道谢。Sherlock没有回复那条短信，径直回了公寓。&lt;/p&gt;
-&lt;p&gt;John在楼梯顶上等着他。他的头发湿漉漉的，带着Sherlock洗发香波的味道，而不是Anderson的古龙水，这真是好太多太多了。&lt;/p&gt;
-&lt;p&gt;“对不起”John说。&lt;/p&gt;
-&lt;p&gt;“啥？”&lt;/p&gt;
-&lt;p&gt;“跟你说那种=——我去拿叉子。”&lt;/p&gt;
-&lt;p&gt;他去了。他们吃掉了盘子里所有东西，看着电视上光影变幻。&lt;/p&gt;
-&lt;p&gt;“很不错。”Sherlock说，John刚吃掉所有的春卷。&lt;/p&gt;
-&lt;p&gt;“那还是有些不对。”&lt;/p&gt;
-&lt;p&gt;“不，它是。实际上很完美。你的记忆力真令人印象深刻，特别还是那种危险地情况下。”&lt;/p&gt;
-&lt;p&gt;“不，还有些什么——”&lt;/p&gt;
-&lt;p&gt;“他没有笑。在画里。他几乎一直在笑。这是真正在困扰你的事。”&lt;/p&gt;
-&lt;p&gt;John安静了好长一段时间。“是的，是的。”他最终开口。他的声音发紧。他看着电视，Sherlock知道他没有在看。&lt;/p&gt;
-&lt;p&gt;Sherlock沿着沙发垫子侧移，被体内那种发痒的感觉驱使着，知道John感觉不好令他……很不爽。这对他很重要。这令他想要做点什么改变它。&lt;/p&gt;
-&lt;p&gt;他靠在了John边上。John惊诧的看着他。&lt;/p&gt;
-&lt;p&gt;“你说过我可以的哦。”Sherlock提醒他。他清楚记得那一晚的每一秒，纤毫毕现地几乎对他自己来说都异乎寻常，他自然也记得John说碰触是可以的。&lt;/p&gt;
-&lt;p&gt;“是的，当然了。”John说。他的身体在一种被迫的情形下放松下来。他的眼他的手还是留着些许紧绷。但是他一只胳膊环过Sherlock，仍然看着屏幕。&lt;/p&gt;
-&lt;p&gt;Sherlock安静的坐着。计算着新数据。John的胳膊的重量轻压在他身上，他的身体即时的反应：放松，某种沉溺于碰触之中。他折腿架上沙发，头倚在了John的肩头。&lt;/p&gt;
-&lt;p&gt;一时半刻里John变得紧张。但是Sherlock打定了主意，宁可让自己诡异的行径令John感觉不好，也不要John担心着Moriaty还有他们不可预知的未来。&lt;/p&gt;
-&lt;p&gt;“你的套头毛衣闻起来有股老旧碎肥肉的味道。”他说，鼻子贴在上面嗅来嗅去。“你上次洗它是什么时候。”&lt;/p&gt;
-&lt;p&gt;“这只能干洗。”他长长地出了口气，搅动着Sherlock的发际。他的手环在Sherlock肩头。“我应该在你让我清闲的为数不多的宝贵时间里抓紧时间清洗它是么？”&lt;/p&gt;
-&lt;p&gt;“把你的衣物给我，我会把它们跟我的衣服一起送去。拐角那有家洗衣店的老板——”&lt;/p&gt;
-&lt;p&gt;“欠你人情？”John的声音里有着笑意。“你是特意找上这些人的么？你是精心蓄谋的么，这样除了衣服跟尼古丁贴片你都不用花钱了是么？”&lt;/p&gt;
-&lt;p&gt;“实际上，有个裁缝——”&lt;/p&gt;
-&lt;p&gt;John笑出声来，脸颊蹭蹭Sherlock的头顶。“闭嘴。”他说，“闭嘴看电影。”&lt;/p&gt;
-&lt;p&gt;目 标达成。Sherlock做到了。John现在安适多了。他的暖意，电影闪烁的光影，还有那显然没指望的剧情铺垫，以及不怎么熟悉的饱腹感，这一切合起来 令Sherlock几乎昏昏欲睡了。比起来那些彻底的筋疲力尽逼得他不得不花在床上几个钟头，这时一切令他感觉舒适的吃惊。他靠的更近了点，感受着 John作为回应心不在焉地轻拍着自己的肩头，合上了双眼。&lt;/p&gt;
-&lt;p&gt;  注：London Bridge is Falling Down  伦敦桥要塌了 儿歌。。。&lt;/p&gt;
-&lt;p&gt;PS：我是真的很喜欢这篇呐，我喜欢就这么吃饱了饭倚着John一起看电影Sherlock。感动shi我了。。。&lt;/p&gt;
-&lt;p&gt;PS的PS： 新年快乐呀！！！！&lt;/p&gt;
-
-        &lt;/section&gt;
-    &lt;/article&gt;
-&lt;div class=&quot;comments&quot;&gt;
-    &lt;!-- Duoshuo Comment BEGIN --&gt;
-    &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-var duoshuoQuery = {short_name:&quot;chengmu&quot;};
-    (function() {
-        var ds = document.createElement('script');
-        ds.type = 'text/javascript';ds.async = true;
-        ds.src = 'http://static.duoshuo.com/embed.js';
-        ds.charset = 'UTF-8';
-        (document.getElementsByTagName('head')[0]
-        || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();
-    &lt;/script&gt;
-&lt;!-- Duoshuo Comment END --&gt;
-&lt;/div&gt;
-
-    &lt;footer class=&quot;footer&quot;&gt;
-	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; •
-	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; •
-	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; •
-	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; •
-	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
-&lt;/footer&gt;
-&lt;script&gt;
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-41695213-1', 'chengmu.github.io');
-  ga('send', 'pageview');
-
-&lt;/script&gt;
-&lt;script&gt;
-var links = document.links;
-
-for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-       links[i].target = '_blank';
-   }
-}
-&lt;/script&gt;
-
-
-
-    &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;(function(){
-	/* Did we just livereload? */
-var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
-if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReload completed at', new Date())
-}
-
-/* Listen for the regenerated event and perform a reload of the page when the event occurs */
-var listen = function(){
-	var primus = new Primus('/docpad-livereload');
-	primus.on('data', function(data){
-		if ( data &amp;&amp; data.message ) {
-			if ( data.message === 'generateBefore' ) {
-				if ( log ) {
-					console.log('LiveReload started at', new Date());
-				}
-				if ( typeof document.getElementsByTagName !== 'undefined' ) {
-	document.getElementsByTagName('html')[0].className += ' wait';
-}
-			}
-			else if ( data.message === 'generateAfter' ) {
-				if ( log ) {
-					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-				}
-				document.location.reload();
-			}
-		}
-	});
-};
-	/* Inject socket into our page */
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = 'async';
-	t.src = '/primus/primus.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t, s);
-};
-	if ( typeof Primus !== 'undefined' ) {
-		listen();
-	} else {
-		inject();
-	}
-})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-41695213-1']);
-_gaq.push(['_trackPageview']);
-(function(){
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content>
-		</entry>
-	
-		<entry>
-			<title>在伞下/Under Mycrofts umbrella</title>
-			<link href="http://localhost:9778///trans/[Sherlock]Under Mycroft's umbrella.html"/>
-			<updated>2011-03-26T00:00:00.000Z</updated>
-			<id>http://localhost:9778///trans/[Sherlock]Under Mycroft's umbrella.html</id>
-			<content type="html">&lt;!DOCTYPE html&gt;
-&lt;!--[if lt IE 7 ]&gt; &lt;html class=&quot;ie7&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 7 ]&gt;    &lt;html class=&quot;ie7&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 8 ]&gt;    &lt;html class=&quot;ie8&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if IE 9 ]&gt;    &lt;html class=&quot;ie9&quot;&gt; &lt;![endif]--&gt;
-&lt;!--[if (gt IE 9)|!(IE)]&gt;&lt;!--&gt; &lt;html class=&quot;&quot;&gt; &lt;!--&lt;![endif]--&gt;
-&lt;head&gt;
-&lt;!-- Standard Meta --&gt;
-	&lt;meta charset=&quot;utf-8&quot; /&gt;
-	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
-	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
-	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;在伞下/Under Mycrofts umbrella | Chengmu1893&lt;/title&gt;
-	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
-	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
-	&lt;!--[if lte IE 8]&gt;
-	&lt;script type=&quot;text/javascript&quot;&gt;
-		 'article aside footer header nav section time'.replace(/\w+/g,function(n){document.createElement(n)})
-	&lt;/script&gt;
-	&lt;![endif]--&gt;
-
-	&lt;!-- DocPad Meta --&gt;
-	&lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad v6.46.5&quot;/&gt;
-
-	&lt;!-- DocPad Styles + Our Own --&gt;
-	&lt;link  rel=&quot;stylesheet&quot; href=&quot;html.wait {
-	cursor: wait !important;
-	opacity: 0;
-	transition: opacity 0.5s ease;
-}&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/base.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/highlight.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/postformation.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/fontawesome.css&quot; /&gt;&lt;link  rel=&quot;stylesheet&quot; href=&quot;/styles/media.css&quot; /&gt;
-
-	&lt;!-- Icons --&gt;
-	&lt;!-- Favicon --&gt;
-	&lt;link rel=&quot;shortcut icon&quot; href=&quot;/icons/favicon.ico&quot; /&gt;
-	&lt;!--[if lt IE 8 ]&gt;
-	&lt;script&gt;
-		window.location = &quot;/notsupport.html&quot;
-	&lt;/script&gt;
-	&lt;!--&lt;![endif]--&gt;
-&lt;/head&gt;
-&lt;body class=&quot;colume-layout&quot;&gt;
-    &lt;header class=&quot;header&quot;&gt;
-	&lt;h1&gt;&lt;a href=&quot;http://chengmu.github.com&quot;&gt;Chengmu1893&lt;/a&gt;&lt;/h1&gt;
-    &lt;span class=&quot;avatar&quot;&gt;&lt;/span&gt;
-&lt;!--[if IE 8]&gt;
-	&lt;img style=&quot;display:block;border:none;&quot; class=&quot;avatar&quot; src=&quot;/styles/images/avatar.jpg&quot; width=&quot;60&quot; height=&quot;60&quot; /&gt;
-&lt;![endif]--&gt;
-	&lt;div class=&quot;contacts-icon&quot;&gt;
-		&lt;a href=&quot;http://weibo.com/chengmuak&quot; title=&quot;窝的新浪微博~&quot;&gt;&lt;i class=&quot;icon-weibo&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;https://github.com/chengmu&quot;  title=&quot;窝的github~&quot;&gt;&lt;i class=&quot;icon-github&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;http://chengmu.tumblr.com/&quot;  title=&quot;窝的汤不热~&quot;&gt;&lt;i class=&quot;icon-tumblr-sign&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-	&lt;/div&gt;
-	&lt;div class=&quot;contacts-icon&quot;&gt;
-		&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;  title=&quot;写信给窝吧！\(^o^)/&quot;&gt;&lt;i class=&quot;icon-envelope-alt&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;http://huaban.com/ywphrm9kqx/&quot;  title=&quot;窝的花瓣网！里面收集好多图\(^o^)/&quot;&gt;&lt;i class=&quot;icon-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
-		&lt;a href=&quot;http://ask.fm/chengmu&quot;  title=&quot;问我！&quot;&gt;&lt;i class=&quot;icon-ask&quot;&gt;&lt;/i&gt;ASK!&lt;/a&gt;
-
-	&lt;/div&gt;
-	&lt;aside class=&quot;aside main-menu&quot;&gt;
-		&lt;ul&gt;
-			
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/about.html&quot;&gt;
-		                &lt;i class=&quot;icon-female&quot;&gt;&lt;/i&gt; About Me
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/index.html&quot;&gt;
-		                &lt;i class=&quot;icon-home&quot;&gt;&lt;/i&gt; Home
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/Posts.html&quot;&gt;
-		                &lt;i class=&quot;icon-coffee&quot;&gt;&lt;/i&gt; Posts
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../posts.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;inactive&quot; href=&quot;/techs.html&quot;&gt;
-		                &lt;i class=&quot;icon-code&quot;&gt;&lt;/i&gt; Techs
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../techs.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;
-		    
-				&lt;li&gt;
-		            &lt;a class=&quot;active&quot; href=&quot;/trans.html&quot;&gt;
-		                &lt;i class=&quot;icon-heart&quot;&gt;&lt;/i&gt; Trans
-		            &lt;/a&gt;
-		            
-		            &lt;a href=&quot;../trans.xml&quot; class=&quot;rss&quot;&gt;
-		            	&lt;i class=&quot;icon-rss&quot;&gt;&lt;/i&gt;
-		            &lt;/a&gt;
-		            
-		   		&lt;/li&gt;
-		    
-		&lt;/ul&gt;
-	&lt;/aside&gt;
-	&lt;div&gt;
-&lt;iframe src=&quot;http://ask.fm/widget/a33014f84fa7914a22a91305d21356a7638b048a?stylesheet=custom&amp;lang=33&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; width=&quot;140&quot; height=&quot;275&quot; style=&quot;border:none;&quot;&gt;&lt;/iframe&gt;	&lt;/div&gt;
-&lt;/header&gt;
-    &lt;article class=&quot;article-content&quot;&gt;
-        &lt;div class=&quot;article-nav&quot;&gt;
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-                    
-                        &lt;a href=&quot;/trans/[Sherlock]自那之后.html&quot; class=&quot;previous&quot;&gt;
-                            &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            自那之后/And What Happened After
-                        &lt;/a&gt;
-                    
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    &lt;a href=&quot;../.html&quot;&gt;Back To trans&lt;/a&gt;
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    &lt;a href=&quot;../index.html&quot;&gt;Home&lt;/a&gt;
-                    &lt;ins&gt;|&lt;/ins&gt;
-                    
-                         &lt;a href=&quot;/trans/[Sherlock]若我们开始编缀谎言.html&quot; class=&quot;next&quot;&gt;
-                            若我们开始编缀谎言/When first we practise to deceive  &lt;span&gt;&amp;gt;&amp;gt;&lt;/span&gt;
-                         &lt;/a&gt;
-                    
-
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-                
-            
-
-        &lt;/div&gt;
-        &lt;header class=&quot;hd&quot;&gt;
-            &lt;h1&gt;在伞下/Under Mycrofts umbrella&lt;/h1&gt;
-            &lt;span class=&quot;post-date&quot;&gt;Sat Mar 26 2011&lt;/span&gt;
-            &lt;span class=&quot;catalogue&quot;&gt;trans&lt;/span&gt;
-        &lt;/header&gt;
-        
-        &lt;section id=&quot;keyPanel&quot; style=display:block&gt;
-            &lt;h3&gt;Sorry but we need password here（全小写无空格哟）:)&lt;/h3&gt;
-            &lt;p&gt;名字好长的那人叫啥?&lt;/p&gt;
-            &lt;form action=&quot;&quot;&gt;
-                &lt;input id=&quot;pwd&quot; type=&quot;text&quot;&gt;
-                &lt;span id=&quot;wrongTip&quot; style=&quot;display:none;&quot;&gt;:( oh not this one&lt;/span&gt;
-                &lt;button id=&quot;btn&quot;&gt;Come on!&lt;/button&gt;
-            &lt;/form&gt;
-        &lt;/section&gt;
-        
-        &lt;section id=&quot;content&quot; key=benedictcumberbatch style=display:none&gt;
-            &lt;p&gt;Under Mycroft&amp;#39;s umbrella~
-Author：emungere
-原文：&lt;a href=&quot;http://sherlockbbc-fic.livejournal.com/3114.html?thread=8960042#t8960042&quot;&gt;http://sherlockbbc-fic.livejournal.com/3114.html?thread=8960042#t8960042&lt;/a&gt;
-授权：等待中。&lt;/p&gt;
-&lt;p&gt;PS：基本都意译了。我一定是鸡血过头了。。。渣君都是你的错==&lt;/p&gt;
-&lt;p&gt;晚上的时候，毛毯一直盖过了Lestrade的耳际。有人稍稍的将覆在他额头的毯子掀开一点，细碎的吻下来，触意冰凉，在额头，在唇角。汇成一种将其唤醒的极好方式。&lt;/p&gt;
-&lt;p&gt;“我得走了，”他的伴喃喃道。嗓音：深沉，饱满，发音漂亮得胜过伊顿公学毕业能出席亨利皇家盛事的银行家（他是个银行家么？从那身行头看来倒是颇有可能）。&lt;/p&gt;
-&lt;p&gt;Lestrade 浑身酸痛，感觉却又该死的舒服。可单列出来的身体酸痛处有：他后面（他的伴有个令人惊叹的粗大家伙），腰（被握住的相当不错），大腿（骑在那粗大家伙上 面，哦天哪）。他的眼睛也酸涩的很，但那是因为缺少睡眠，这对他而言倒是习以为常，若不是有一场如此淋漓尽致的性爱充当了个合适理由。他揉揉双眼，好不容 易睁开了。&lt;/p&gt;
-&lt;p&gt;“早上好，”他说。&lt;/p&gt;
-&lt;p&gt;“我留下了点东西陪你。这样你可以确信，我一定会回来的。”&lt;/p&gt;
-&lt;p&gt;“呃？”&lt;/p&gt;
-&lt;p&gt;这 男的叫什么来着？那名字总是会立即让他想起Sherlock，介于他还真没见过除了Sherlock之外的什么人会用这种一样荒诞的名字。以M开头，啧 啧，这可挺令人发窘的。也许这也算不上什么好发窘的。介于Lestrade刚经历本年度第一次如此的精疲力竭，这么彻底地甚至足以担起另一年的份，还能有 什么是真的能令人发窘的呢。&lt;/p&gt;
-&lt;p&gt;“Mycroft，”他的伴开口，笑容隐约可见。&lt;/p&gt;
-&lt;p&gt;“抱歉，”Lestrade微笑，摸摸Mycroft完美整洁的袖口。装点着标有姓名缩写的袖扣。当然了。“过了昨晚那一夜，我可能连自己名字都不怎么能记起来了。”&lt;/p&gt;
-&lt;p&gt;Mycroft俯身亲吻他。这次是深切的唇齿吻合。伴着缓缓探进的舔舐，使得Lestrade战栗起来。然后他起身，沿着门道拾起一些衣物，沙沙作响。门被打开，关上，Lestrade躺回床上伸了个懒腰。&lt;/p&gt;
-&lt;p&gt;他的手碰到了什么床上本不该有的东西，他摸索过去。细长，织物，内核硬实。是什么？他掀开被子。&lt;/p&gt;
-&lt;p&gt;一把黑伞。有着木质手柄，黄铜尖顶。在他的床上。&lt;/p&gt;
-&lt;p&gt;在他还愣着盯着那伞的时候，一条短信进来他的手机嗡嗡作响。来自John的短信。&lt;/p&gt;
-&lt;p&gt;昨晚看到你跟Sherlock的哥哥一起出去了。还好吧？&lt;/p&gt;
-&lt;p&gt;Sherlock的哥哥。&lt;/p&gt;
-&lt;p&gt;袖扣。MH。H是Holmes的缩写。昨晚他跟Sherlock的哥哥来了一场这辈子最爽的性爱。&lt;/p&gt;
-&lt;p&gt;追 上他是来不及了——而且就是来得及他又能做什么？——但是他还是从床上跳下来了，套上裤子外套鞋子，在前门摸索着他一贯放在那一个小筐里的钥匙。它们不见 了。他没有钥匙了。他倒是有了一把伞，以及一个句来自Sherlock Holmes的哥哥，他将回来取走那伞的承诺。&lt;/p&gt;
-&lt;p&gt;他猛然坐到那个搁着那个此时里面没有了他的钥匙的小筐的小桌子上。几乎把它搞塌。另一条来自John短信闪烁起来。&lt;/p&gt;
-&lt;p&gt;若我多说话了，我很抱歉。&lt;/p&gt;
-&lt;p&gt;Lestrade回复的很快。&lt;/p&gt;
-&lt;p&gt;我们谈了谈，他把伞留在这了。知道我该怎么把这个还回去么？&lt;/p&gt;
-&lt;p&gt;中间隔了很久。&lt;/p&gt;
-&lt;p&gt;他会回来取它的。他不可能把它就那么扔在什么地方。&lt;/p&gt;
-&lt;p&gt;Lestrade觉得John肯定知道“谈了谈“的真实含义是什么了。&lt;/p&gt;
-&lt;p&gt;他看看表：早上六点，他的假期。他脱了所有他刚套上的衣物，爬回了他温暖的床铺。靠着那把伞。在他的钥匙回来前他哪都去不了。天杀的。他闭上了眼。运气好的话呢，他应该会被今他第一次被唤醒的那种方式再次唤醒。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;PS的PS：RG叔你美死了！！！你美死了你美死了你美死了！！！！&lt;/p&gt;
-
-        &lt;/section&gt;
-    &lt;/article&gt;
-&lt;div class=&quot;comments&quot;&gt;
-    &lt;!-- Duoshuo Comment BEGIN --&gt;
-    &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
-&lt;script type=&quot;text/javascript&quot;&gt;
-var duoshuoQuery = {short_name:&quot;chengmu&quot;};
-    (function() {
-        var ds = document.createElement('script');
-        ds.type = 'text/javascript';ds.async = true;
-        ds.src = 'http://static.duoshuo.com/embed.js';
-        ds.charset = 'UTF-8';
-        (document.getElementsByTagName('head')[0]
-        || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();
-    &lt;/script&gt;
-&lt;!-- Duoshuo Comment END --&gt;
-&lt;/div&gt;
-
-    &lt;footer class=&quot;footer&quot;&gt;
-	&lt;span class=&quot;logo&quot;&gt;Chengmu1893.&lt;/span&gt; •
-	Created &amp;amp; Maintained by &lt;a href=&quot;./&quot;&gt;Chengmu&lt;/a&gt; using &lt;a href=&quot;http://docpad.org&quot;&gt;DocPad&lt;/a&gt; •
-	&lt;a href=&quot;mailto:lin.zhu.ak@gmail.com&quot;&gt;Email Chengmu&lt;/a&gt; •
-	&lt;a href=&quot;http://weibo.com/chengmuak&quot;&gt;@chengmu&lt;/a&gt; •
-	&lt;a href=&quot;https://github.com/chengmu&quot;&gt;GitHub&lt;/a&gt;
-&lt;/footer&gt;
-&lt;script&gt;
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-41695213-1', 'chengmu.github.io');
-  ga('send', 'pageview');
-
-&lt;/script&gt;
-&lt;script&gt;
-var links = document.links;
-
-for (var i = 0, linksLength = links.length; i &lt; linksLength; i++) {
-   if (links[i].hostname != window.location.hostname) {
-       links[i].target = '_blank';
-   }
-}
-&lt;/script&gt;
-
-
-
-    &lt;!-- DocPad Scripts + Our Own --&gt;
-    &lt;script &gt;(function(){
-	/* Did we just livereload? */
-var log = !!(localStorage &amp;&amp; console &amp;&amp; console.log &amp;&amp; true);
-if ( log &amp;&amp; localStorage.getItem('/docpad-livereload/reloaded') === 'yes' ) {
-	localStorage.removeItem('/docpad-livereload/reloaded');
-	console.log('LiveReload completed at', new Date())
-}
-
-/* Listen for the regenerated event and perform a reload of the page when the event occurs */
-var listen = function(){
-	var primus = new Primus('/docpad-livereload');
-	primus.on('data', function(data){
-		if ( data &amp;&amp; data.message ) {
-			if ( data.message === 'generateBefore' ) {
-				if ( log ) {
-					console.log('LiveReload started at', new Date());
-				}
-				if ( typeof document.getElementsByTagName !== 'undefined' ) {
-	document.getElementsByTagName('html')[0].className += ' wait';
-}
-			}
-			else if ( data.message === 'generateAfter' ) {
-				if ( log ) {
-					localStorage.setItem('/docpad-livereload/reloaded', 'yes');
-				}
-				document.location.reload();
-			}
-		}
-	});
-};
-	/* Inject socket into our page */
-var inject = function(){
-	var t = document.createElement('script');
-	t.type = 'text/javascript';
-	t.async = 'async';
-	t.src = '/primus/primus.js';
-	t.onload = listen;
-	var s = document.getElementsByTagName('script')[0];
-	s.parentNode.insertBefore(t, s);
-};
-	if ( typeof Primus !== 'undefined' ) {
-		listen();
-	} else {
-		inject();
-	}
-})();&lt;/script&gt;&lt;script &gt;var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-41695213-1']);
-_gaq.push(['_trackPageview']);
-(function(){
-	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
-&lt;/body&gt;
-&lt;/html&gt;</content>
-		</entry>
-	
-		<entry>
 			<title>若我们开始编缀谎言/When first we practise to deceive </title>
 			<link href="http://localhost:9778///trans/[Sherlock]若我们开始编缀谎言.html"/>
 			<updated>2010-12-22T00:00:00.000Z</updated>
@@ -10003,9 +10003,9 @@ _gaq.push(['_trackPageview']);
             
                 
                     
-                        &lt;a href=&quot;/trans/[Sherlock]Under Mycroft's umbrella.html&quot; class=&quot;previous&quot;&gt;
+                        &lt;a href=&quot;/trans/[Sherlock]互为其影.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            在伞下/Under Mycrofts umbrella
+                            互为其影\The Shadow of the Other
                         &lt;/a&gt;
                     
                     &lt;ins&gt;|&lt;/ins&gt;
