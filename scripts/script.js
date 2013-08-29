@@ -65,7 +65,7 @@ var pwd = document.getElementById('pwd');
 var btn = document.getElementById('btn');
 
 EventUtil.addHandler(btn, 'click', function (e) {
-    if (pwd.value === content.attributes[1].value) {
+    if (pwd.value === content.attributes['key'].value) {
         keyPanel.style.display = 'none';
         content.style.display = 'block';
     } else {

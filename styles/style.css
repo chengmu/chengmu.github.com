@@ -295,6 +295,7 @@ color: rgb(139,0,0);
 .ie8 .avatar{
     display: none;
 }
-img.avatar{
+.ie8 img.avatar{
     display: block;
+    border:none;
 }
