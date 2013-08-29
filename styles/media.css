@@ -25,7 +25,7 @@
 	.index-wrapper{
 	    margin-top:0;
 	    padding-top:0;
-	}     
+	}
 	.intro-myself div{
 	    padding-top:80px;
 	    padding-left:0;
@@ -34,6 +34,16 @@
 	    padding:0 0 0 30px;
 	}
 	.index-wrapper .article-list{
-	    width: 260px;   
+	    width: 260px;
 	}
+}
+
+
+
+
+
+/*针对不支持HTML5的IE的hack*/
+
+.index-wrapper, .article-content{
+    display: block;
 }

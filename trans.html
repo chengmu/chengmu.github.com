@@ -1,7 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <!-- Standard Meta -->
+    <!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie7"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class=""> <!--<![endif]-->
+<head>
+<!-- Standard Meta -->
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<meta name="viewport" content="width=device-width" />
@@ -28,14 +35,20 @@
 	<!-- Icons -->
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="/icons/favicon.ico" />
+	<!--[if lt IE 8>
+	<script>
+		window.location = "/notsupport.html"
+	</script>
+	<!--<![endif]-->
+</head>
 </head>
 <body class="list-page colume-layout list-type-trans">
-    <!--[if lt IE 7]>
-    <p class="chromeframe">你居然在用这么老旧的浏览器。。 <a href="http://browsehappy.com/">更新一下！</a> or <a href="http://www.google.com/chromeframe/?redirect=true">安装个chrome吧它可萌啦！</a></p>
-<![endif]-->
-<header class="header">
+    <header class="header">
 	<h1><a href="http://chengmu.github.com">Chengmu1893</a></h1>
     <span class="avatar"></span>
+<!--[if lt IE 8]>
+	<img class="avatar" src="/styles/images/avatar.jpg" width="60" height="60" />
+<![endif]-->
 	<div class="contacts-icon">
 		<a href="http://weibo.com/chengmuak" title="窝的新浪微博~"><i class="icon-weibo"></i></a>
 		<a href="https://github.com/chengmu"  title="窝的github~"><i class="icon-github"></i></a>
@@ -167,16 +180,6 @@
                 
                 <li  class="type-trans">
                     <span class="fic-fandom">[Supernatural]</span>
-                    <span class="fic-cp">[Gen]</span>
-                    <a href="/trans/[SPN]How Traditions Get Started.html">
-                                传统是如何开的头/How Traditions Get Started
-                    </a>
-                    <span class="article-date">Mon Oct 17 2011</span>
-<!--                     <span class="article-date">10-17-2011</span>
- -->                </li>
-                
-                <li  class="type-trans">
-                    <span class="fic-fandom">[Supernatural]</span>
                     <span class="fic-cp">[SC]</span>
                     <a href="/trans/[SPN]初次手活 FirstHand .html">
                                 初次手活/FirstHand
@@ -190,6 +193,16 @@
                     <span class="fic-cp">[DC]</span>
                     <a href="/trans/[SPN]赞美神之声.html">
                                 赞美神之声/Hosanna
+                    </a>
+                    <span class="article-date">Mon Oct 17 2011</span>
+<!--                     <span class="article-date">10-17-2011</span>
+ -->                </li>
+                
+                <li  class="type-trans">
+                    <span class="fic-fandom">[Supernatural]</span>
+                    <span class="fic-cp">[Gen]</span>
+                    <a href="/trans/[SPN]How Traditions Get Started.html">
+                                传统是如何开的头/How Traditions Get Started
                     </a>
                     <span class="article-date">Mon Oct 17 2011</span>
 <!--                     <span class="article-date">10-17-2011</span>
@@ -216,16 +229,6 @@
  -->                </li>
                 
                 <li  class="type-trans">
-                    <span class="fic-fandom">[Sherlock]</span>
-                    <span class="fic-cp">[ML]</span>
-                    <a href="/trans/[Sherlock]边线与方砖.html">
-                                边线与方砖/Lines and Squares
-                    </a>
-                    <span class="article-date">Sat Mar 26 2011</span>
-<!--                     <span class="article-date">3-26-2011</span>
- -->                </li>
-                
-                <li  class="type-trans">
                     <span class="fic-fandom">[福尔摩斯原著]</span>
                     <span class="fic-cp">[SH]</span>
                     <a href="/trans/[Sherlock]SOFTLY AND SUDDENLY .html">
@@ -236,30 +239,20 @@
  -->                </li>
                 
                 <li  class="type-trans">
-                    <span class="fic-fandom">[HarryPotter]</span>
-                    <span class="fic-cp">[HPSS]</span>
-                    <a href="/trans/[Sherlock]互为其影.html">
-                                互为其影\The Shadow of the Other
-                    </a>
-                    <span class="article-date">Sat Mar 26 2011</span>
-<!--                     <span class="article-date">3-26-2011</span>
- -->                </li>
-                
-                <li  class="type-trans">
-                    <span class="fic-fandom">[Sherlock]</span>
-                    <span class="fic-cp">[RPS]</span>
-                    <a href="/trans/[Sherlock]感官记忆.html">
-                                感官记忆/Sense Memory
-                    </a>
-                    <span class="article-date">Sat Mar 26 2011</span>
-<!--                     <span class="article-date">3-26-2011</span>
- -->                </li>
-                
-                <li  class="type-trans">
                     <span class="fic-fandom">[Sherlock]</span>
                     <span class="fic-cp">[ML]</span>
-                    <a href="/trans/[Sherlock]Under Mycroft's umbrella.html">
-                                在伞下/Under Mycrofts umbrella
+                    <a href="/trans/[Sherlock]边线与方砖.html">
+                                边线与方砖/Lines and Squares
+                    </a>
+                    <span class="article-date">Sat Mar 26 2011</span>
+<!--                     <span class="article-date">3-26-2011</span>
+ -->                </li>
+                
+                <li  class="type-trans">
+                    <span class="fic-fandom">[Sherlock]</span>
+                    <span class="fic-cp">[HW]</span>
+                    <a href="/trans/[Sherlock]A Thorough Examination : In Depth.html">
+                                彻底检查/A Thorough Examination / In Depth
                     </a>
                     <span class="article-date">Sat Mar 26 2011</span>
 <!--                     <span class="article-date">3-26-2011</span>
@@ -277,9 +270,29 @@
                 
                 <li  class="type-trans">
                     <span class="fic-fandom">[Sherlock]</span>
-                    <span class="fic-cp">[HW]</span>
-                    <a href="/trans/[Sherlock]A Thorough Examination : In Depth.html">
-                                彻底检查/A Thorough Examination / In Depth
+                    <span class="fic-cp">[ML]</span>
+                    <a href="/trans/[Sherlock]Under Mycroft's umbrella.html">
+                                在伞下/Under Mycrofts umbrella
+                    </a>
+                    <span class="article-date">Sat Mar 26 2011</span>
+<!--                     <span class="article-date">3-26-2011</span>
+ -->                </li>
+                
+                <li  class="type-trans">
+                    <span class="fic-fandom">[Sherlock]</span>
+                    <span class="fic-cp">[RPS]</span>
+                    <a href="/trans/[Sherlock]感官记忆.html">
+                                感官记忆/Sense Memory
+                    </a>
+                    <span class="article-date">Sat Mar 26 2011</span>
+<!--                     <span class="article-date">3-26-2011</span>
+ -->                </li>
+                
+                <li  class="type-trans">
+                    <span class="fic-fandom">[HarryPotter]</span>
+                    <span class="fic-cp">[HPSS]</span>
+                    <a href="/trans/[Sherlock]互为其影.html">
+                                互为其影\The Shadow of the Other
                     </a>
                     <span class="article-date">Sat Mar 26 2011</span>
 <!--                     <span class="article-date">3-26-2011</span>

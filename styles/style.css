@@ -1,4 +1,7 @@
 /*temp */
+
+
+
 a:hover{text-decoration: underline;}
 
 .header{
@@ -59,6 +62,7 @@ a:hover{text-decoration: underline;}
     margin: 0 1em;
     padding-top: 5em;
     min-height: 500px;
+    padding-right: 30%;
 }
 .list-page .article,.aboutme .article{
     width: 60%;
@@ -283,4 +287,14 @@ color: rgb(139,0,0);
     font-size:1em;
     position: absolute;
     margin-left: -2em;
+}
+
+
+
+/*ie hack*/
+.ie8 .avatar{
+    display: none;
+}
+img.avatar{
+    display: block;
 }

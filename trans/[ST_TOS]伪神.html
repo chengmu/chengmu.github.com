@@ -1,7 +1,11 @@
 <!DOCTYPE html>
-<html>
+<!--[if lt IE 7 ]> <html class="ie7"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class=""> <!--<![endif]-->
 <head>
-    <!-- Standard Meta -->
+<!-- Standard Meta -->
 	<meta charset="utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<meta name="viewport" content="width=device-width" />
@@ -28,14 +32,19 @@
 	<!-- Icons -->
 	<!-- Favicon -->
 	<link rel="shortcut icon" href="/icons/favicon.ico" />
+	<!--[if lt IE 8>
+	<script>
+		window.location = "/notsupport.html"
+	</script>
+	<!--<![endif]-->
 </head>
 <body class="colume-layout">
-    <!--[if lt IE 7]>
-    <p class="chromeframe">你居然在用这么老旧的浏览器。。 <a href="http://browsehappy.com/">更新一下！</a> or <a href="http://www.google.com/chromeframe/?redirect=true">安装个chrome吧它可萌啦！</a></p>
-<![endif]-->
-<header class="header">
+    <header class="header">
 	<h1><a href="http://chengmu.github.com">Chengmu1893</a></h1>
     <span class="avatar"></span>
+<!--[if lt IE 8]>
+	<img class="avatar" src="/styles/images/avatar.jpg" width="60" height="60" />
+<![endif]-->
 	<div class="contacts-icon">
 		<a href="http://weibo.com/chengmuak" title="窝的新浪微博~"><i class="icon-weibo"></i></a>
 		<a href="https://github.com/chengmu"  title="窝的github~"><i class="icon-github"></i></a>
