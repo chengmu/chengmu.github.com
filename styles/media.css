@@ -44,6 +44,6 @@
 
 /*针对不支持HTML5的IE的hack*/
 
-.index-wrapper, .article-content{
+.index-wrapper, .article-content,.list-page .article, .aboutme .article{
     display: block;
 }
