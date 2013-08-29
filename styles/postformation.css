@@ -181,3 +181,11 @@
 .article-content blockquote blockquote::after {
    font-size: 40px;
 }
+
+
+
+/*ie hack*/
+.article-content .hd .post-date{
+    width: 200px;
+    left: 200px;
+}
