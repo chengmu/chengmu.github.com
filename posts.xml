@@ -3,7 +3,7 @@
 	<title>Chengmu1893</title>
 	<link href="http://localhost:9778//atom.xml" rel="self"/>
 	<link href="http://localhost:9778/"/>
-	<updated>2013-08-24T13:02:59.506Z</updated>
+	<updated>2013-08-29T06:40:38.013Z</updated>
 	<id>http://localhost:9778/</id>
 	<author>
 		<name></name>
@@ -153,7 +153,8 @@
             &lt;span class=&quot;catalogue&quot;&gt;posts&lt;/span&gt;
             &lt;span class=&quot;post-date&quot;&gt;Sat Aug 24 2013&lt;/span&gt;
         &lt;/header&gt;
-        &lt;section&gt;
+        
+        &lt;section id=&quot;content&quot; key= style=&gt;
             &lt;h2&gt;Try Try Try&lt;/h2&gt;
 &lt;p&gt;If we just try try try&lt;/p&gt;
 &lt;p&gt;Just to be ni-ni-nice&lt;/p&gt;
@@ -164,10 +165,6 @@
 
         &lt;/section&gt;
     &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
-&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;!-- Duoshuo Comment BEGIN --&gt;
     &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
@@ -267,7 +264,7 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
 		</entry>
@@ -419,7 +416,8 @@ _gaq.push(['_trackPageview']);
             &lt;span class=&quot;catalogue&quot;&gt;posts&lt;/span&gt;
             &lt;span class=&quot;post-date&quot;&gt;Thu Aug 01 2013&lt;/span&gt;
         &lt;/header&gt;
-        &lt;section&gt;
+        
+        &lt;section id=&quot;content&quot; key= style=&gt;
             &lt;h3&gt;人物:&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;鹏霍费尔/Bonhoeffer，Dietrich(1906～1945）
@@ -502,10 +500,6 @@ _gaq.push(['_trackPageview']);
 
         &lt;/section&gt;
     &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
-&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;!-- Duoshuo Comment BEGIN --&gt;
     &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
@@ -605,7 +599,7 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
 		</entry>
@@ -757,7 +751,8 @@ _gaq.push(['_trackPageview']);
             &lt;span class=&quot;catalogue&quot;&gt;posts&lt;/span&gt;
             &lt;span class=&quot;post-date&quot;&gt;Mon Oct 10 2011&lt;/span&gt;
         &lt;/header&gt;
-        &lt;section&gt;
+        
+        &lt;section id=&quot;content&quot; key= style=&gt;
             &lt;p&gt;【SPN D&amp;amp;C】【Merlin】【ST:TOS】Audiofic个人总结推荐贴12年12月6日继续更新
 这是以前的老帖子但是因为我发现，自从工作后我对有声书的需求暴涨（上下班通勤只能听小说干家务神码的也是），而且我老是记不清哪些我听过了所以会下重复。。于是我决定继续做笔记，记录自己听的有声书。&lt;/p&gt;
 &lt;p&gt;audiofic基本全部来自于&lt;a href=&quot;http://audiofic.jinjurly.com，为求节省时间我就不一个个加链接了。。。大家在这个网站里搜一搜就有了啊哈哈哈。。&quot;&gt;http://audiofic.jinjurly.com，为求节省时间我就不一个个加链接了。。。大家在这个网站里搜一搜就有了啊哈哈哈。。&lt;/a&gt;
@@ -812,10 +807,6 @@ Past Imperfect   很好玩的小故事~讲的是Merlin不小心把现在的自�
 
         &lt;/section&gt;
     &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
-&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;!-- Duoshuo Comment BEGIN --&gt;
     &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
@@ -915,7 +906,7 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
 		</entry>
@@ -1067,7 +1058,8 @@ _gaq.push(['_trackPageview']);
             &lt;span class=&quot;catalogue&quot;&gt;posts&lt;/span&gt;
             &lt;span class=&quot;post-date&quot;&gt;Sat Mar 26 2011&lt;/span&gt;
         &lt;/header&gt;
-        &lt;section&gt;
+        
+        &lt;section id=&quot;content&quot; key= style=&gt;
             &lt;p&gt;决定做个日志记下这些MV。&lt;/p&gt;
 &lt;p&gt;全部是个人收集，方便以后找（虽然其实电脑里存了N多版本还特意跑Youtube下了高清版。。。。但还是要做个记号才好),所以版权统统不是我，是神一般存在的姑娘们TVT我膜拜你们TVT&lt;/p&gt;
 &lt;p&gt;这几个都是一个姑娘做给她重要的人的。很羡慕很羡慕。你们一定要很幸福的哟～&amp;gt;&amp;lt;&lt;/p&gt;
@@ -1098,10 +1090,6 @@ _gaq.push(['_trackPageview']);
 &lt;p&gt;&lt;object width=&quot;480&quot; height=&quot;400&quot; data=&quot;http://www.tudou.com/v/rl_27wthvnI/&amp;amp;rpid=35803764/v.swf&quot; type=&quot;application/x-shockwave-flash&quot;&gt;&lt;param name=&quot;src&quot; value=&quot;http://www.tudou.com/v/rl_27wthvnI/&amp;amp;rpid=35803764/v.swf&quot; /&gt;&lt;param name=&quot;wmode&quot; value=&quot;opaque&quot; /&gt;&lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot; /&gt;&lt;/object&gt;&lt;/p&gt;
         &lt;/section&gt;
     &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
-&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;!-- Duoshuo Comment BEGIN --&gt;
     &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
@@ -1201,7 +1189,7 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
 		</entry>
@@ -1349,7 +1337,8 @@ _gaq.push(['_trackPageview']);
             &lt;span class=&quot;catalogue&quot;&gt;posts&lt;/span&gt;
             &lt;span class=&quot;post-date&quot;&gt;Tue Nov 30 2010&lt;/span&gt;
         &lt;/header&gt;
-        &lt;section&gt;
+        
+        &lt;section id=&quot;content&quot; key= style=&gt;
             &lt;h3&gt;Honey Honey&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;2011-01-17&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;在家的话呢人就是会意志消沉。今天终于干了点正事看了普心就看到说意志是下决心然后去做，就发现我最近的意志都花在了找AR跟RG电影下载，以及四处搜罗有声书上了。还有看HPSS的文。结果不上围脖不上豆瓣，Sherlock的文都没怎么看，还欠了一堆翻译。自抽。&lt;/p&gt;
@@ -1437,10 +1426,6 @@ carryer154 | 发表于2010-12-05 02:34:41 [回复]&lt;/p&gt;
 
         &lt;/section&gt;
     &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
-&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;!-- Duoshuo Comment BEGIN --&gt;
     &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
@@ -1540,7 +1525,7 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
 		</entry>

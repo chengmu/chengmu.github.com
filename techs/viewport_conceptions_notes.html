@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 	<meta name="viewport" content="width=device-width" />
 	<!-- Site Properities -->
-	<title>Mobile上的viewport及各种概念澄清贴 | Chengmu1893</title>
+	<title>Mobile上的viewport及各种概念澄清贴（Update!） | Chengmu1893</title>
 	<meta name="description" content="My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!" />
 	<meta name="keywords" content="Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile" />
 	<!--[if lte IE 8]>
@@ -129,11 +129,12 @@
 
         </div>
         <header class="hd">
-            <h1>Mobile上的viewport及各种概念澄清贴</h1>
+            <h1>Mobile上的viewport及各种概念澄清贴（Update!）</h1>
             <span class="catalogue">techs</span>
             <span class="post-date">Sat Aug 24 2013</span>
         </header>
-        <section>
+        
+        <section id="content" key= style=>
             <h3>device Pixel &amp; CSS Pixel</h3>
 <p>物理像素指显示设备上的物理像素点，比如HTC G11宽是480px，这的480是用物理像素衡量的。
 CSS像素的话则指我们写页面时理解的那个像素单位。可以理解为是设备自己做了一层缩放，让2个物理像素代表一个我们css里说的像素，也就是dp（设备独立像素）的概念。行业内有个约定俗成的规范，即一般这个数值是320。 有的很高密度的手机略作了调整。</p>
@@ -192,13 +193,31 @@ meta里这么写： width=700, 那么layout宽度700，visual viewport宽度也�
 <li><p>iphone那个旋转到landscape后的bug，实际上就是在允许用户缩放的情况下，当页面从portrait旋转到landscape的时候，页面会自行放大。用户必须双敲两下才会还原。解决的方法一般就是在旋转时使用js修改meta，设置最大缩放比率为1：<code>maximum-scale=1</code> （参见<a href="http://webdesignerwall.com/tutorials/iphone-safari-viewport-scaling-bug">iPhone Safari Viewport Scaling Bug</a>）</p>
 </li>
 </ul>
+<h3>Update！！<strong>2013年08月27日</strong></h3>
+<p>补充一些实际开发中的tips; 编译自<a href="http://petelepage.com/blog/2013/05/high-dpi-tips-and-tricks/?utm_source=feedburner&amp;utm_medium=feed">High DPI: Tips and Tricks
+</a></p>
+<p>根据下述几步来让你的站点在高分辨率屏幕<code>High DPI display</code>上看起来也不错。</p>
+<ul>
+<li><p>设置<code>width=device-width</code>意味着你只需要关注 <strong>device independent pixels</strong>
+If you don’t set the viewport to width=device-width, or if you use a fixed width, you’re in a world of hurt.</p>
+</li>
+<li><p>如果你没这么做反而设置了一个固定的宽度值，你会发现这真是个充满恶意的世界_(:з」∠)_</p>
+</li>
+<li><p>高清设备上的<code>devicePixelRatio</code> 取值从1.3到3不等；而且不只是手机和平板，笔记本也有！</p>
+</li>
+<li><p>只要可能，就是用矢量图。</p>
+</li>
+<li><p>使用<code>@media queries</code>来适配合适的背景图片</p>
+</li>
+<li><p>很多情况下高密度的 <em>2x 图片</em> 实现非常好</p>
+</li>
+<li><p>想获得清晰的<code>canvas</code> 图像，请知道有个东西叫做 <code>webkitBackingStorePixelRatio</code></p>
+</li>
+</ul>
+<p><a href="http://youtu.be/alG-UwRWV_U">参考视频</a>, 相应的<a href="http://goo.gl/j5Z5W">ppt</a>.</p>
 
         </section>
     </article>
-<!--     <div class="sidebar">
-    <h3>Contents</h3>
-    The partial "toc.html.eco" was not found, as such it will not be rendered.
-</div> -->
 <div class="comments">
     <!-- Duoshuo Comment BEGIN -->
     <div class="ds-thread"></div>
@@ -298,6 +317,6 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();</script>
+})();</script><script defer="defer"  src="/scripts/script.js"></script>
 </body>
 </html>

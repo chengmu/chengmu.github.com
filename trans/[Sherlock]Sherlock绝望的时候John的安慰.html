@@ -220,7 +220,18 @@
             <span class="catalogue">trans</span>
             <span class="post-date">Thu Sep 02 2010</span>
         </header>
-        <section>
+        
+        <section id="keyPanel" style=display:block>
+            <h3>Sorry but we need password here（全小写无空格哟）:)</h3>
+            <p>名字好长的那人叫啥?</p>
+            <form action="">
+                <input id="pwd" type="text">
+                <span id="wrongTip" style="display:none;">:( oh not this one</span>
+                <button id="btn">Come on!</button>
+            </form>
+        </section>
+        
+        <section id="content" key=benedictcumberbatch style=display:none>
             <p>[Sherlock]Sherlock绝望的时候John的安慰</p>
 <p>--</p>
 <p>在他们作为彼此的室友，同事，以及朋友——尽管某些时候会有些拒绝抵触——的经历中，这一件是John Watson觉得最为不合适的。他们不是那种有性无爱的互惠关系。事实上，他们曾经真的不是。这只是John自从跟Sherlock住在一起后所妥协忍受的各种事情中的一件。就像冰箱里的人头，微波炉里的眼球，或者衣柜里的骨头架子——当然这说的就是字面上的意思。（注：skeleton in closet俗语，指不可告人的秘密。）</p>
@@ -245,10 +256,6 @@
 
         </section>
     </article>
-<!--     <div class="sidebar">
-    <h3>Contents</h3>
-    The partial "toc.html.eco" was not found, as such it will not be rendered.
-</div> -->
 <div class="comments">
     <!-- Duoshuo Comment BEGIN -->
     <div class="ds-thread"></div>
@@ -348,6 +355,6 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();</script>
+})();</script><script defer="defer"  src="/scripts/script.js"></script>
 </body>
 </html>

@@ -220,7 +220,18 @@
             <span class="catalogue">trans</span>
             <span class="post-date">Thu Sep 02 2010</span>
         </header>
-        <section>
+        
+        <section id="keyPanel" style=display:block>
+            <h3>Sorry but we need password here（全小写无空格哟）:)</h3>
+            <p>博士的全名？</p>
+            <form action="">
+                <input id="pwd" type="text">
+                <span id="wrongTip" style="display:none;">:( oh not this one</span>
+                <button id="btn">Come on!</button>
+            </form>
+        </section>
+        
+        <section id="content" key=spencerreid style=display:none>
             <p>Lost in the Stacks 原作：travelinthedark
 授权书：from travelinthedark
 Hi!
@@ -273,10 +284,6 @@ Disclaimer: Definitely not mine.
 
         </section>
     </article>
-<!--     <div class="sidebar">
-    <h3>Contents</h3>
-    The partial "toc.html.eco" was not found, as such it will not be rendered.
-</div> -->
 <div class="comments">
     <!-- Duoshuo Comment BEGIN -->
     <div class="ds-thread"></div>
@@ -376,6 +383,6 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();</script>
+})();</script><script defer="defer"  src="/scripts/script.js"></script>
 </body>
 </html>

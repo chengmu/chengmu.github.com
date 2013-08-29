@@ -3,7 +3,7 @@
 	<title>Chengmu1893</title>
 	<link href="http://localhost:9778//atom.xml" rel="self"/>
 	<link href="http://localhost:9778/"/>
-	<updated>2013-08-24T13:02:59.506Z</updated>
+	<updated>2013-08-29T06:40:38.013Z</updated>
 	<id>http://localhost:9778/</id>
 	<author>
 		<name></name>
@@ -12,7 +12,7 @@
 
 	
 		<entry>
-			<title>Mobile上的viewport及各种概念澄清贴</title>
+			<title>Mobile上的viewport及各种概念澄清贴（Update!）</title>
 			<link href="http://localhost:9778///techs/viewport_conceptions_notes.html"/>
 			<updated>2013-08-24T00:00:00.000Z</updated>
 			<id>http://localhost:9778///techs/viewport_conceptions_notes.html</id>
@@ -24,7 +24,7 @@
 	&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
 	&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
 	&lt;!-- Site Properities --&gt;
-	&lt;title&gt;Mobile上的viewport及各种概念澄清贴 | Chengmu1893&lt;/title&gt;
+	&lt;title&gt;Mobile上的viewport及各种概念澄清贴（Update!） | Chengmu1893&lt;/title&gt;
 	&lt;meta name=&quot;description&quot; content=&quot;My blog, about web front end tech notes, some personal translation of slash fiction, maybe some archives as well~ Welcome!&quot; /&gt;
 	&lt;meta name=&quot;keywords&quot; content=&quot;Star Trek, Spock, Sherlock, Benedict Cumberbatch, Slash, Castiel, Merlin, CSS, HTML, Javascript, mobile&quot; /&gt;
 	&lt;!--[if lte IE 8]&gt;
@@ -147,11 +147,12 @@
 
         &lt;/div&gt;
         &lt;header class=&quot;hd&quot;&gt;
-            &lt;h1&gt;Mobile上的viewport及各种概念澄清贴&lt;/h1&gt;
+            &lt;h1&gt;Mobile上的viewport及各种概念澄清贴（Update!）&lt;/h1&gt;
             &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
             &lt;span class=&quot;post-date&quot;&gt;Sat Aug 24 2013&lt;/span&gt;
         &lt;/header&gt;
-        &lt;section&gt;
+        
+        &lt;section id=&quot;content&quot; key= style=&gt;
             &lt;h3&gt;device Pixel &amp;amp; CSS Pixel&lt;/h3&gt;
 &lt;p&gt;物理像素指显示设备上的物理像素点，比如HTC G11宽是480px，这的480是用物理像素衡量的。
 CSS像素的话则指我们写页面时理解的那个像素单位。可以理解为是设备自己做了一层缩放，让2个物理像素代表一个我们css里说的像素，也就是dp（设备独立像素）的概念。行业内有个约定俗成的规范，即一般这个数值是320。 有的很高密度的手机略作了调整。&lt;/p&gt;
@@ -210,13 +211,31 @@ meta里这么写： width=700, 那么layout宽度700，visual viewport宽度也�
 &lt;li&gt;&lt;p&gt;iphone那个旋转到landscape后的bug，实际上就是在允许用户缩放的情况下，当页面从portrait旋转到landscape的时候，页面会自行放大。用户必须双敲两下才会还原。解决的方法一般就是在旋转时使用js修改meta，设置最大缩放比率为1：&lt;code&gt;maximum-scale=1&lt;/code&gt; （参见&lt;a href=&quot;http://webdesignerwall.com/tutorials/iphone-safari-viewport-scaling-bug&quot;&gt;iPhone Safari Viewport Scaling Bug&lt;/a&gt;）&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;Update！！&lt;strong&gt;2013年08月27日&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;补充一些实际开发中的tips; 编译自&lt;a href=&quot;http://petelepage.com/blog/2013/05/high-dpi-tips-and-tricks/?utm_source=feedburner&amp;amp;utm_medium=feed&quot;&gt;High DPI: Tips and Tricks
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;根据下述几步来让你的站点在高分辨率屏幕&lt;code&gt;High DPI display&lt;/code&gt;上看起来也不错。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;设置&lt;code&gt;width=device-width&lt;/code&gt;意味着你只需要关注 &lt;strong&gt;device independent pixels&lt;/strong&gt;
+If you don’t set the viewport to width=device-width, or if you use a fixed width, you’re in a world of hurt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;如果你没这么做反而设置了一个固定的宽度值，你会发现这真是个充满恶意的世界_(:з」∠)_&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;高清设备上的&lt;code&gt;devicePixelRatio&lt;/code&gt; 取值从1.3到3不等；而且不只是手机和平板，笔记本也有！&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;只要可能，就是用矢量图。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;使用&lt;code&gt;@media queries&lt;/code&gt;来适配合适的背景图片&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;很多情况下高密度的 &lt;em&gt;2x 图片&lt;/em&gt; 实现非常好&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;想获得清晰的&lt;code&gt;canvas&lt;/code&gt; 图像，请知道有个东西叫做 &lt;code&gt;webkitBackingStorePixelRatio&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;http://youtu.be/alG-UwRWV_U&quot;&gt;参考视频&lt;/a&gt;, 相应的&lt;a href=&quot;http://goo.gl/j5Z5W&quot;&gt;ppt&lt;/a&gt;.&lt;/p&gt;
 
         &lt;/section&gt;
     &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
-&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;!-- Duoshuo Comment BEGIN --&gt;
     &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
@@ -316,7 +335,7 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
 		</entry>
@@ -439,7 +458,7 @@ _gaq.push(['_trackPageview']);
                     
                         &lt;a href=&quot;/techs/viewport_conceptions_notes.html&quot; class=&quot;previous&quot;&gt;
                             &lt;span&gt;&amp;lt;&amp;lt;&lt;/span&gt;
-                            Mobile上的viewport及各种概念澄清贴
+                            Mobile上的viewport及各种概念澄清贴（Update!）
                         &lt;/a&gt;
                     
                     &lt;ins&gt;|&lt;/ins&gt;
@@ -466,17 +485,14 @@ _gaq.push(['_trackPageview']);
             &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
             &lt;span class=&quot;post-date&quot;&gt;Fri Aug 09 2013&lt;/span&gt;
         &lt;/header&gt;
-        &lt;section&gt;
+        
+        &lt;section id=&quot;content&quot; key= style=&gt;
             &lt;h1&gt;w3新人记录&lt;/h1&gt;
 &lt;p&gt;我大概在这里记录下自己在w3的备忘&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.w3.org/html/ig/zh/wiki/Guidebook/translation-and-contribution&quot; title=&quot;w3c新人手册&quot;&gt; W3C新人手册&lt;/a&gt;&lt;/p&gt;
 
         &lt;/section&gt;
     &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
-&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;!-- Duoshuo Comment BEGIN --&gt;
     &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
@@ -576,7 +592,7 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
 		</entry>
@@ -726,7 +742,8 @@ _gaq.push(['_trackPageview']);
             &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
             &lt;span class=&quot;post-date&quot;&gt;Fri Aug 02 2013&lt;/span&gt;
         &lt;/header&gt;
-        &lt;section&gt;
+        
+        &lt;section id=&quot;content&quot; key= style=&gt;
             &lt;h4&gt;Table of Contents&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&quot;#headers&quot;&gt;Headers&lt;/a&gt;  &lt;a href=&quot;#emphasis&quot;&gt;Emphasis&lt;/a&gt;  &lt;a href=&quot;#lists&quot;&gt;Lists&lt;/a&gt; &lt;a href=&quot;#links&quot;&gt;Links&lt;/a&gt;
 &lt;a href=&quot;#images&quot;&gt;Images&lt;/a&gt;  &lt;a href=&quot;#code&quot;&gt;Code and Syntax Highlighting&lt;/a&gt;  &lt;a href=&quot;#tables&quot;&gt;Tables&lt;/a&gt;
@@ -1022,10 +1039,6 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
 
         &lt;/section&gt;
     &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
-&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;!-- Duoshuo Comment BEGIN --&gt;
     &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
@@ -1125,7 +1138,7 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
 		</entry>
@@ -1271,7 +1284,8 @@ _gaq.push(['_trackPageview']);
             &lt;span class=&quot;catalogue&quot;&gt;techs&lt;/span&gt;
             &lt;span class=&quot;post-date&quot;&gt;Mon Jul 01 2013&lt;/span&gt;
         &lt;/header&gt;
-        &lt;section&gt;
+        
+        &lt;section id=&quot;content&quot; key= style=&gt;
             &lt;p&gt;记一下用docpad建站的过程作为备忘。不定时更新&lt;/p&gt;
 &lt;h2&gt;why docpad&lt;/h2&gt;
 &lt;p&gt;wordpress对我来说太过于臃肿，我就想要个代码干净的小站来写东西。想要个&lt;code&gt;markdown&lt;/code&gt;为基础的静态站。
@@ -1426,10 +1440,6 @@ title : 'Docpad建站记录'
 
         &lt;/section&gt;
     &lt;/article&gt;
-&lt;!--     &lt;div class=&quot;sidebar&quot;&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-    The partial &quot;toc.html.eco&quot; was not found, as such it will not be rendered.
-&lt;/div&gt; --&gt;
 &lt;div class=&quot;comments&quot;&gt;
     &lt;!-- Duoshuo Comment BEGIN --&gt;
     &lt;div class=&quot;ds-thread&quot;&gt;&lt;/div&gt;
@@ -1529,7 +1539,7 @@ _gaq.push(['_trackPageview']);
 	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();&lt;/script&gt;
+})();&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;</content>
 		</entry>
